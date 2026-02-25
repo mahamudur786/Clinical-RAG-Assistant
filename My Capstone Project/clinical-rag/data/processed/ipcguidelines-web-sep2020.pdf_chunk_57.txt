@@ -1,0 +1,6 @@
+SARS-CoV  severe acute respiratory syndrome coronavirus
+SOP  standard operating procedureSSD sterile supply departmentSSI surgical-site infectionSTG  standard treatment guidelineTB tuberculosisUTI  urinary tract infectionVAC  ventilator-associated conditionVAE  ventilator-associated eventVAP ventilator-associated pneumoniaVHF  viral haemorrhagic fever 
+xx National Guidelines for Infection Prevention and Control in Healthcare Facilities
+VRE  vancomycin-resistant Enterococcus  
+WASH  water, sanitation and hygieneWHO World Health OrganizationXDR-TB  extensively drug-resistant tuberculosis
+Healthcare-associated infection (HAI), previously referred to as “nosocomial” or

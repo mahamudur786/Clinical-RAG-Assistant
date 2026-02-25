@@ -1,0 +1,24 @@
+Workstation 3 room temperature reading  17°C to 25 °C 
+Humidity reading  <80%  
+Class F2 twenty gram weight +/ - 0.2 g  19.8  to 20.2  
+Class F2 five hundred gram weight +/ - 5.0 g  495 to 505 
+1% a scorbic acid Yes 
+7% a scorbic acid Yes 
+Heratherm™ Compact Microbiological Incubator, Thermo Scientific  36°C to 38°C 
+   
+ 10-64  Laboratory Procedures 2021   
+Table 10-4. Laboratory QC table  (continued)  
+Item  Acceptable result  
+Annually  
+Eppendorf Pipette Calibration  Date  
+Hood Certification Expiration Date  Date  
+Scale  Weight Calibrations  Date  
+DxH 800 PM  Date  
+Refrigerator #1  Date  
+Refrigerator #2  Date  
+Freezer #3  Date  
+Freezer #4  Date  
+Freezer #5  Date  
+Freezer #6  Date  
+D
+ocument all instrument quality control activities in the Laboratory QC module.

@@ -1,0 +1,14 @@
+•C = Cassette Presentation  
+• S = Single -tube Presentation  
+Comment  A comment icon  displays in this column if any comments have been added.  
+Ref. RBC  If the control type is a RETIC only, a R ef. RBC heading and numeric value display on 
+the left side of the screen under the Summary Data columns. If the control is RETIC only and the Reference RBC Target and Limit are not sec, No Value  will display in the 
+Ref. RBC field.  
+   
+ 6-30  Laboratory Procedures 2021   
+6.11.8  Selecting  a Cont rol 
+• From the Quality Control (Data View) screen or the Quality Control (Graph View) 
+screen, select the Select Control button on the l ocal navigation bar to display the QC 
+Select Controls dialog box. 
+• Hi
+ghlight the desired control and select OK.

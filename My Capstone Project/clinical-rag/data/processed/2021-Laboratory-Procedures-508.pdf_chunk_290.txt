@@ -1,0 +1,9 @@
+“0.0 g. ” This indicates that the scale is ready to weigh samples. The scale should be used  only when 
+set to measure in grams. Cover the scale with the clear acrylic scale cover until a sample is available for weighing. The scale must b e leveled before using it for reporting results and performing QC. 
+The leveling bubble is located in the right rear corner of the scale. The bubble must be leveled so that it sits in the center of the window. See diagram below.  
+   
+ 4-3  Laboratory Procedures 2021   
+Ensure that computer works tation 3 (Urine/Sink) is turned on and a technician is logged in to the 
+Laboratory application. Open the Urine Scale application by double- clicking on the Urine Scale icon 
+on the desktop. The Urine Scale icon looks like this: 
+Th

@@ -1,0 +1,23 @@
+Program Support with a copy to NCHS at the following address: 
+Renee Storandt – NHANES  Laboratory  Director  
+National Center for Health Stati stics 
+3311 Toledo Road 
+Hyattsville, MD 20782  
+Ru nning CAP/API Proficiency Samples in the Mobile Examination Center  
+To make barcode labels:  
+• Select Utility on desktop. 
+• Select “ Dymo test labels. ” 
+• Highlight the label shown: 
+– Click on “ Properties ” in far upper right. 
+– Symbology – choose “ Code 128 Auto .” This should be the only thing to change 
+but check the following: 
+1. D
+ata: Barcode – delete “ Click Me ” or “ 0000001” and type in proficiency 
+sample number, i.e., FH6 -01. 
+2.
+ Align: Center  
+3. Size: Medium  
+4. Show Barcode Text: Below  
+5. Select OK . 
+   
+ 9-20  Laboratory Procedures 2021

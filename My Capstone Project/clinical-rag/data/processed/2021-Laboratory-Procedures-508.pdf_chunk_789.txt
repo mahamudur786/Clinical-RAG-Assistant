@@ -1,0 +1,12 @@
+control is the evaluation of analytical performance that includes QC samples for which 
+the analyst does not  know the expected measurement result. The analyst is “blind” to the 
+expected measurement result. Examples include proficiency testing samples.  
+• Interlaboratory Quality Assurance Program (IQAP). For purposes of this document, NHANES participates in Beckman Coulter’s
+® IQAP program. Beckman 
+   
+ 9-11  Laboratory Procedures 2021  
+  
+Coulter issues a report that contains a statistical analysis to evaluate performance. The 
+IQAP compares NHANES 6C cell controls results to those of other laboratories that 
+use the same instrument.  
+• Proficiency Testing.  For purposes of this document, proficiency testing is one method

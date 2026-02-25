@@ -1,0 +1,14 @@
+and right click to bring up the action box . Click “ Retrieve all shelved labels.” An example is shown 
+below in Exhibit 8- 13. 
+8 -17  Laboratory Procedures 2021  
+Exhibit 8 -13. Retrie ve shelved labels  
+8.3.13  Label Printing Cheat Sheet  
+O pen Lab Vessel Printing Utility  
+1. Select session number you wish to print. 
+A. Click on Print button at the top. 
+B. Print screen will default to print all needed. 
+C. Click on Print button at the bottom of print screen. 
+2. If the session is blue in color: A. Click on (+) sign before session number; this will open up the session and allow 
+you to see what needs to be done. 
+8 -18  Laboratory Procedures 2021  
+3. If a SP ’s vessel labels are displayed in gold,  you need to find th e rack  in the rescheduled

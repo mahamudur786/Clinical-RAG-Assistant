@@ -1,0 +1,14 @@
+• Slightly higher tone indicates that the function for which the key has been pressed 
+cannot be executed;  
+• Louder tone indicates that the piston movement has ended; 
+• Louder tone indicates that a specific sequence of steps (e.g., dispensing) has ended; and 
+• Louder tone indicates an error message.  
+The acoustic signals are a great help when you are familiarizing yourself with the operating 
+procedure of the Research pro. They can be switched of f if required.  
+7 -13  Laboratory Procedures 2021  
+7.5.1.3 Programming the Pipettes 
+PIP Mode  
+Use this mode for the blue 50- 1,000 µL  pipette  for dispensing 1 percent  ascorbic acid . Use for 500, 
+700, 1,000 µL  volumes. 
+Programming – PIP 
+Step 1  Select the pipetting mode PIP. Turn the dial until the PIP choice appears.

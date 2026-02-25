@@ -1,0 +1,6 @@
+7.7 Blood Specimen Storage  
+7.7.1 Blood Specimen Storage Protocol  
+Fill the blood vessels, enter the blood processing results, and prepare to store the vessels. Store vessels in numbered storage boxes according to test as indicated in Exhibit 7-16. 
+At the beginning of each stand, generate and print a series of barcoded, numbered labels for storage 
+containers as described in Chapter 8. Use the shipping module to assign a barcode label to a specific storage container (test). This process “opens” a storage box. Each vessel is assigned to a specific slot 
+in a specific container as processing results are entered. Slots in containers are assigned according to

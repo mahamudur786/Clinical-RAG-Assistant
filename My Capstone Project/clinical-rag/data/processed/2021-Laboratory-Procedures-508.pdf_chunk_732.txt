@@ -1,0 +1,9 @@
+Select one of the filters.  
+Set the filter to “Unprocessed” to print manifests and generate email files for shipments created but 
+not previously processed using this module. Set the filter to “ Previously Processed ” to reprint an 
+airbill or to re-create an electronic file for shipments previously processed using this module. To 
+8 -44  Laboratory Procedures 2021  
+filter on unprocessed airbills , direct the mouse arro w to the “Unprocessed” radio button and left-
+click. To filter on previously processed airbills , direct the mouse arrow to the “P reviously 
+Processed ” radio button and left- click.  
+To select or mark one manifest for printing and email, dire ct the mouse arrow to the check  box and

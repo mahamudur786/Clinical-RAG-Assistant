@@ -1,0 +1,11 @@
+lab that will receive samp les from the current shipment. The laboratory 
+information will autopopulate. 
+Exhibit 8 -32. FedEx lab addresses  
+– Enter the correct shipping date in the appropriate field. 
+– Enter the total weight  in pounds in the appropriate field, based on whether the 
+shipper is a refrigerated or frozen shipment. 
+– In the Special Services section of the shipping screen, select “ Dry Ice ” if th e 
+shipment is a frozen shipment, and enter the weight in pounds in the appropriate field. 
+– In the “ Pick-up/Drop-off section,” select “ Drop off at FedEx location. ” 
+– In the “Signature Type” section, select “ Direct Signature Required ” (this is not 
+necessary for shipment to the warehouse).

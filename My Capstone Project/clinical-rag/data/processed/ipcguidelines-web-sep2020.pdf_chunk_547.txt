@@ -1,0 +1,17 @@
+x Central service/ supply records, CSSD registers
+x Occupational health records (NSI register, vaccination records)
+x Log books 
+x Hospital billing records
+Potential risk factors or exposures
+x Medications
+x Procedures 
+x Dates of admission and discharge
+x Facility locations or units
+x Healthcare providers
+x Host factors (age, gender, immunity)
+Data collection
+The data should be conﬁ  dential. Any written materials containing personal identiﬁ  ers 
+should be stored in a secure, locked location. 
+x Demographic information identiﬁ  es who is at risk. Demographic information 
+that may be collected are age, gender, occupation, place of occupation and travel history.
+x Clinical information should be collected to verify that the case deﬁ  nition has

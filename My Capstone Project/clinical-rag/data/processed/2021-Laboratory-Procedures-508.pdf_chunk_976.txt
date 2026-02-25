@@ -1,0 +1,14 @@
+• Enter the “ Full Access ” PIN (Enter 0000).  
+• From the Program Menu, Select 1 to set telephone numbers. 
+• You will hear “ Select contact .” 
+• Select 1 for the first contact number (FES phone #). 
+• Enter your phone number, using this format “ 1 + area code + 7 digit # ” 
+• You will hear “ Contact 1 is xxxxxxx” or “Contact x is Empty, press one to change.” 
+• Press 1 to make a change or ente r a telephone number. 
+• You will hear “Enter number, then press pound.” 
+• Enter the number, followed by the # key. 
+– Entering the # key will erase the currently programmed contact telephone number. 
+   
+ 10-34  Laboratory Procedures 2021   
+• You will hear the telephone number you just entered. 
+• You will be prompted to select another contact to program.

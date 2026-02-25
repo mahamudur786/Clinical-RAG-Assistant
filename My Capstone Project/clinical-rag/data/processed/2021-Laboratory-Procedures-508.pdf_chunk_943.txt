@@ -1,0 +1,12 @@
+warehouse manager reviews each sheet and sends additional supplies to the field if necessary.  The 
+MEC staff conduct the tasks listed below: 
+• Reconcile the inventory for each item.  
+• Verify that the start -of-stand shipment contains the exact number of each item listed in 
+the ship- to-stand box. 
+• Ensure that the previous EOS count is added to the ship- to-stand count box and that it 
+equals par level.  
+• Place a checkmark on the right side of the ship- to-stand count box (per item) , if the 
+total inventory equals the set par level.  
+• Write the physical count on hand to the right of the ship- to-stand count box (per item) 
+if there is a discrepancy.  
+• Remove the excess fro m a component (leaving par) and return it  to the warehouse , if

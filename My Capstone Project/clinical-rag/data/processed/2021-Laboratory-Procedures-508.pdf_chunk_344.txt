@@ -1,0 +1,33 @@
+ Serum Confirmation 
+Result  
+(Send observation to 
+physician)   
+Result  Pregnancy Test  
+Ages 12-59 Negative  
+ Invalid  
+ Positive  
+   
+ID Name  Ages Sample 
+mL Sample 
+type Tube size  Filled
+ Comments : QNS 
+blood pr esent  Slot #  
+45 Alb/Creat  3+  1 Urine  2    
+46 Chlam/Trich/  
+Mgen  14-39 2 Urine  Aptima     
+154 Trich/Mgen 40-59 2 Urine  Aptima     
+86 Spc Arsenic 3+ 2 Urine  2 mL cryovial     
+48 Prior Pest  3+ 4.5  Urine  5 mL cryovial     
+49 Organophos  3+ 4.5 Urine  5 mL cryovial     
+62 Urn Merc / 
+Iodine  3+ 5 Urine  10 mL 
+screwcap 
+w/presv     
+50 Metal s 3+ 4 Urine  5 mL c ryovial     
+220 Arsenic/  
+Chromium/  
+Nickel  3+ 4 Urine  Five-O 5 mL 
+cryovial     
+66 PAH 3+ 1.5 Urine  2 mL cryovial     
+67 Phthalates  3+ 1.5 Urine  2 mL cryovial     
+102 Perchlorate/

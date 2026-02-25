@@ -1,0 +1,19 @@
+6-4  Laboratory Procedures 2021   
+   
+ 6-5  Laboratory Procedures 2021   6.2.4  Parameter Measureme nt, Derivation, and Calculation  
+Exhibit 6- 1 lists each reportable parameter and the method used to obtain the results. A description 
+of the method is also included. 
+Exhibit 6 -1. Reportable parameters and analysis methods  
+Parameter 
+(reporting u nits 
+in US -1 format) Method  Description  
+WBC  Coulter 
+Principle  White Blood Cell Count or Leukocyte Count  
+• Measure directly, multiplied by the calibration factor.  
+• Corrected for interference if necessary. If no correction is required, 
+then WBC = UWBC.  
+• WBC = N x 103 cells/ µL. 
+UWBC  Coulter Principle  Uncorrected White Blood Cell  
+• Measure directly, multiplied by the calibration factor.  
+• UWBC = N x 10
+3 cells/ µL.

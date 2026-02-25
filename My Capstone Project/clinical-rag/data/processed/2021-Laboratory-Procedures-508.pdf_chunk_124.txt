@@ -1,0 +1,12 @@
+T
+he IC Exclusions window displays all the specific exclusion item tests or groups of tests for which 
+the SP is eligible and the status for each exclusion item.  
+    2-8  Laboratory Procedures 2021  
+  
+R
+ecord each item as directed by the SP. To mark each item, direct the mouse arrow to the “ Yes” or 
+“No” radio button and left- click. To record these actions and save them to the database, use the 
+mouse to direct the mouse arrow to the OK button and left- click, or select Enter. To cancel these 
+actions without saving the data to the database, use the mouse to direct the mouse arrow to the 
+Cancel button and left- click.  
+2.6 Set Session Utility

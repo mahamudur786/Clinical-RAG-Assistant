@@ -1,0 +1,5 @@
+x Exposure source, whether known case of infection with HIV, HBV or HCV
+x Vaccination status of exposed person
+x Investigations for the infection status of the exposed person and the source
+x Treatment/ vaccination of the exposed person if required
+See Annex 4 for details of post-exposure management of bloodborne infections.

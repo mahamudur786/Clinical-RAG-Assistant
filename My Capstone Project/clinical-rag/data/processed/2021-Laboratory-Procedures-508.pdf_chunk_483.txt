@@ -1,0 +1,11 @@
+greater than  35 fl in size.  
+– Elevated WBC counts may have a carryover effect on subsequent leukopenic 
+specimens,  within the limits specified by Beckman Coulter. (See the Carryover 
+section in the Unicel DxH Help Manual  on board the analyzer.)  
+• RBC  
+– Very high WBC count, hi gh concentration of very large platelets, auto - 
+agglutination. 
+– If hemolysis is occurring in vivo, the instrument RBC may be flagged as low, reflecting the true circulating cells. If , however, the hemolysis is in vitro, the 
+specimen may give falsely low RBC results. Cell counts due to in vitro hemolysis 
+do not represent the number of circulating red blood cells. 
+• HGB  – severe lipemia, heparin, certain unusual RBC abnormalities that resi st lysing.

@@ -1,0 +1,7 @@
+• Calibration.  Defined by CLIA as “the process of testing and adjusting an instrument, 
+kit, or test system to provide a known relationship between the measurement response and the value of the substance that is being measured by the test procedure.” 
+• Calibration Material.  Defined by CLIA as “a solution which has a known amount of 
+analyte weighed in or has a value determined by repetitive testing using a reference or definitive test method. ” Many standards are therefore calibration materials.  
+• Calibration Verification. Defined by CLIA as “the assaying of calibration materials in 
+the same manner as survey participant samples to confirm that the calibration of the 
+instrument, kit, or test system has remained stable throughout the laboratory’ s

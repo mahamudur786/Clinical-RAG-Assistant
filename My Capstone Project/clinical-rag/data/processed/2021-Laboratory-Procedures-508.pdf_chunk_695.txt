@@ -1,0 +1,12 @@
+processing won’t be enabled until the label action is performed. 
+Exhibit 8 -10. Label action on heads- up display  
+O
+pen up the Lab printing application. 
+The session will be displayed in the tree in green, which indicates something needs to be printed. Click on the SP ID in the tree; the SP ID will also be displayed in green because labels will need to 
+be printed and some will need to be discarded. Labels that need to be discarded are display ed in red 
+as displayed in Exhibit 8- 11. 
+8 -15  Laboratory Procedures 2021  
+Exhibit 8 -11. Red and green SPs requiring action  
+C
+lick on the printer icon and print the labels that are needed . Right -click on a line that is displayed in 
+red to mark the label as discarded. Two options are available for labels that need to be discarded,

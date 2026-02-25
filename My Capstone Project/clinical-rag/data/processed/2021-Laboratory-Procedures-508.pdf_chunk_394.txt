@@ -1,0 +1,17 @@
+Analyzer provides the following: CBC, Leukocyte 5 -Part Differential (Diff), Reticulocyte (Retic) , and 
+Nucleated Red Blood Cell (NRBC) on whole blood. Note: The NHANES study does not use the reticulocyte data, and the NRBC is used only for 
+calculating a corrected white blood  cell count.  
+The Coulter DxH 800 a nalyzer measures the following parameters:  
+WBC  White Blood Cell count 
+UWBC Uncorrected White Blood Cell count 
+RBC  Red Blood Cell count (for Whole Blood and Body Fluids) 
+   
+ 6-1  Laboratory Procedures 2021   
+Hgb Hemoglobin 
+Hct Hematocrit  
+MCV  Mean Corpuscular Volume  
+MCH  Mean Corpuscular Hemoglobin 
+MCHC  Mean Corpuscular Hemoglobin Concentration 
+RDW  Red Cell Distribution Width 
+RDW -SD Red Cell Distribution Width- Standard Deviation (SD)  
+PLT Platelet count

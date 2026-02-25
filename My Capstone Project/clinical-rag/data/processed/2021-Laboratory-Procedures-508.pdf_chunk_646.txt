@@ -1,0 +1,10 @@
+and make fresh vials at  the start of the next session.
+7.6 Record the Results of Specimen Processing  
+After filling , processing , or collecting  the whole blood, plasma, serum, and/or the EDTA or g ray 
+top tubes for each SP, use the Blood Processing module to enter the blood processing results. 
+Open and log on to the Laboratory application. Use the heads-up display , see Exhibit 7- 9, to view 
+the SPs, the modules for which the y are eligible, and their current process status.  
+Select the correct SP and access the Blood Processing module.  
+Exhibit 7 -9. Laboratory heads -up display  
+7-26  Laboratory Procedures 2021  
+If labels have not been printed in advance , the SPs will be displayed in a red font on the heads-up

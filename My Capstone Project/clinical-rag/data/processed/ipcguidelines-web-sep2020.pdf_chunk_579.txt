@@ -1,0 +1,8 @@
+136
+Category A:  High risk  (direct contact with blood or body substances): doctors, 
+nurses, medical and nursing students, dentists, laboratory staff, maintenance engineers who service medical equipment, CSSD staff, cleaning staff, staff responsible for biomedical waste management.
+Category B:  Low risk  (indirect contact with blood and body substances): at risk of 
+infection by airborne or droplet routes but rarely have direct contact with blood or body substances (e.g. catering staff and ancillary staff).
+Category C: Minimal risk  (minimal patient contact): similar risk of exposure to 
+blood and body ﬂ  uids as the general public, e.g. ofﬁ  ce clerical staff, gardening staff 
+and kitchen staff. Immunization requirements can be considered based on their actual job requirement.

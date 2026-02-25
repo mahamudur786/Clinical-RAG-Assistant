@@ -1,0 +1,9 @@
+• Misleading results can occur if the specimen is not properly mixed. Always use good 
+laboratory practices to ensure that specimens are appropriately mixed.  Do not bypass or 
+circumvent the automated mixing process used on the DxH 800. 
+• When running a test panel, with NRBC analysis enabled, the information from the analysis is used to supplement interference detection, flagging, and correction. 
+• WBC and TNC  
+– NRBCs, giant platelets, platelet clumps, malarial parasites, precipitated elevated proteins, cryoglobulin, microlymphoblasts, very small lymphocytes, fragmented 
+white cells, agglutinated white cells, lyse resistant red cells, unlysed particles 
+greater than  35 fl in size.  
+– Elevated WBC counts may have a carryover effect on subsequent leukopenic

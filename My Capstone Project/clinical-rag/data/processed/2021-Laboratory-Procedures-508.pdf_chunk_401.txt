@@ -1,0 +1,21 @@
+• Define highly irregular separation; 
+• Make subsequent analysis of the identified regions; and 
+• Correct deficiencies in  separation. 
+In the dataplots, different colors represent different memberships . Shades of colors represent 
+density: dark colors for low density and bright colors for high density, as shown in the following 
+listing  (see S ection 6.19.4 for examples) : 
+NRBC analysis  
+NRBC  R ed 
+Other * G reen  
+WBC  Blue  Diff analysis  
+L ymphocyte  Blue  
+M onocyte  Green  
+Neutrophil  Purple  
+Eosinophil  Orange  
+Basophil  White  
+Non-White Cell  Red 
+*  Others include RBC debris, PLT debris, etc.  
+   
+ 6-4  Laboratory Procedures 2021   
+   
+ 6-5  Laboratory Procedures 2021   6.2.4  Parameter Measureme nt, Derivation, and Calculation

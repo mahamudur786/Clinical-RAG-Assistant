@@ -1,0 +1,31 @@
+109 Transfatty Acids 3+ 0.7 EDTA  
+P     
+119 Genetics  18+ 6.0 WB     
+9 Glucose  12+ 0.5 NAFl P      
+54 VOC Blood  12+ 7.0 WB     
+236 COVID Serology  1+ 0.6 S     
+110 Folate  1+ 0.7 S     
+138 CMV  1-5 0.4 S     
+237 EVD68  1-11  0.2 S     
+99 Ferritin  1-5, 
+12+ 0.5/0.7 S     
+70 VID 1-5, 
+6+ 0.5/0. 7 S     
+87 Hepatitis Bs Ab 2 3-5 1.0 1.0 S     
+13 CRP 1+ 0.3 S     
+118 Thyroid Panel  3-5 
+6+ 1.0 S     
+137 Steroid Hormones  6+ 3.5 S     
+239 Sex Steroid Hormone Panel  3-5 0.6 S     
+122 Hep Profile  6+ 1.8 S     
+229 Hep Xtra sera  6+ 1.8 S     
+7-34  Laboratory Procedures 2021  
+Exhibit 7-17. Workstation  2 processing worksheet  (continued)  
+Blood Processing  
+SP ID __________________________ 
+ID Name  Ages Sample 
+mL Sample 
+type Filled  
+ Filled 
+comments  
+Icteric

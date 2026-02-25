@@ -1,0 +1,11 @@
+(see Chapter 5 and Annex 8.4).
+Water supply system
+x It should be designed and maintained with proper temperature and adequate 
+pressure.
+x Stagnation and back ﬂ  ow should be minimized and dead-end pipes should be 
+avoided.
+x Growth of Pseudomonas  spp. and other bacteria can be prevented if the 
+water system maintains water at the right temperatures, i.e. cold water at a temperature below 20 °C, stored hot water above 60 °C, and circulated hot water with a minimum return temperature of 51°C.
+x Clean water pipes should not run alongside waste water pipes as this may lead 
+to waste water being sucked into the clean water pipes through leaking cracks and joints. 
+x When the water system cannot supply water of the recommended standards

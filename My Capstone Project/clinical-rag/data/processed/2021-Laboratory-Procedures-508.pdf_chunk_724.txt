@@ -1,0 +1,7 @@
+the rectangular box is the active container. The right s ide of the screen displays the corresponding 
+container map for the active container. The left side of the bottom of the window contains three “Status ” filters (radio buttons): “ assigned, ” “NOT assigned, ” and “both.” The second line on the 
+left side of the bottom of the window contains four “Frequency” filters (radio buttons): “ weekly, ” 
+“non- weekly, ” “twice weekly, ” and “ all.” To sort the rows, direct the mouse arrow to the desired 
+column title and left-click. The window updates based on the selection. 
+Enter an airbill number into each Airbill Number text box. Ensure the cursor is in the left side of 
+the text box. Exhibit 8- 35 shows an example of the screen where this is accomplished. There are

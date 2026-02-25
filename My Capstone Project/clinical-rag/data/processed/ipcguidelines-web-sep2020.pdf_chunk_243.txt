@@ -1,0 +1,6 @@
+Mixing of air can disperse pockets of high concentration of infectious particles, such 
+as in the vicinity of patients. 
+The total number of infectious particles in the room will not change with mixing. 
+Unless adequate ventilation is present, mixing fans will not be useful in dispersing infectious particles and reducing the risk of transmission. 
+A common problem with reliance on natural ventilation is that patients or staff close 
+windows during cold weather or at night. Further, there is likely to be variability of airﬂ ow patterns due to varying weather. In colder climates where rooms are closed

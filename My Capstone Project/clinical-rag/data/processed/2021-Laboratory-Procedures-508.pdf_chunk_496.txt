@@ -1,0 +1,21 @@
+limits: 
+– WBC 2.5  
+– RBC  2.0 
+– HGB  1.5 
+– MCV 2.0  
+– PLT  5.0 
+– MPV  3.0 
+• Check the low to high difference (bottom line) for the Diff parameters with these limits:  
+– NE%  ≤ 4.8 
+– LY% ≤ 4.8  
+– MO%  ≤ 3.2  
+– EO%  ≤ 1.6 
+– BA%  ≤ 1.6  
+If any of the results are outside the limits, call Beckman Coulter c ustomer s ervice.  
+• If all the results are within these parameters: Print >Select  “Finish ” and proceed with 
+Carryover Check . 
+Use the %CV line for CBC parameters only and the Diff line for the differential parameters only. 
+Please see Chapter 1: System Overview – Performance Specifications and Characteristics  section in the 
+   
+ 6-45  Laboratory Procedures 2021   
+Help Menu of the  Unicel DxH 800 Help Manual for additional informati on regarding repeatability

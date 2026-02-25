@@ -1,0 +1,12 @@
+3. Perform the venipuncture using procedures described in Chapter 3. 
+The correct venipuncture protocol automatically displays. As shown in the screenshot below, note 
+that there are two IDs for each Dry Run SP —a SP ID ( 440292) and a Sample ID ( 138976). Both 
+IDs display under the “Obtained all” check box. 
+E
+nter the venipuncture results. Enter any reasons for a tube not being drawn according to protocol, 
+and any comments about the venipuncture. Refer to Chapter 3 for specific instructions. 
+Label the Vacutainer® tubes for each volunteer; label half of the tubes with the SP ID and the other 
+half with the Sample ID. If only one tube is drawn, discard it. If an odd number of tubes are drawn, 
+discard the odd tube. 
+   
+ 11-2 Laboratory Procedures 2021

@@ -1,0 +1,7 @@
+within  the mobile examination center (MEC). This includes the SP’s arrival, their location during the 
+session, and their exit. The coordinator uses this system to direct the SP to the appropriate 
+workstations in the MEC to determine if a ll the appropriate examinations are complete. The MEC 
+coordinator monitors the exam component status using responses from examination stations. 
+It is critical to assign SPs aged 12 years and older to phlebotomy as soon as possible at the start of a 
+session  block , especially the  morning session blocks , as we ask the participants to fast for at least 8 
+hours . The coordinator gives each SP a hard -copy verification form as part of the check -in process.

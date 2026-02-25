@@ -1,0 +1,24 @@
+where patient housed on date ofevent (DoE):
+List all locations, in chronology 
+where patient housed day before DoE
+2. Invasive devices: urinary cathetersDid the patient have a Foley 
+catheter in place at any time on: The date of event or The day before the DOE?Yes
+No (skip to 3, outcome)
+Unknown
+If YES, was Foley catheter in 
+place for >2 calendar days?Yes
+No
+Unknown
+3. OutcomePatient outcome Discharged
+Transferred to other hospital 
+Died 
+Unknown
+Date of discharge, transfer, or 
+death (dd/mm/yyyy)____ /_____ /______
+ Annexes 241
+13.4. Checklist for ventilator-associated pneumonia 
+Ventilator-associated pneumonia checklist
+Day/ MonthRadiological (chest X-ray 
+baseline)
+New or progressive and 
+persistent inﬁ  ltrate

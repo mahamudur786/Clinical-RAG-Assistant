@@ -1,0 +1,9 @@
+x show the time trend of the outbreak;
+x deﬁ  ne the incubation period or exposure period; and
+x show the pattern of spread and highlight outliers.
+Figure 7.2 shows a sample epidemic curve with distribution of cases during an 
+imaginary outbreak in a paediatric ICU. Observe how the outbreak investigation and concurrent control measures help in reducing the number of new infections. 
+Outliers in an outbreak 
+This may be an early case or a late case. It may represent an unrelated incident worth examining carefully and may point directly to the source.
+Describe the data by “place”
+A spot map will help in identifying clustering of cases in and around a particular area of the hospital. Before beginning the investigation, it is advisable to have a detailed

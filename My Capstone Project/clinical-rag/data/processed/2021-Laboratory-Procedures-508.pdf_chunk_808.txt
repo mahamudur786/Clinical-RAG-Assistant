@@ -1,0 +1,10 @@
+Laboratory Component Lead will review the results for accuracy and place the hard copy in each staff member ’s Competency Assessment Folder (CAF). Deficiencies will be discussed with the chief 
+technologists for the purposes of testing supervision and/or possible retraining of staff.  
+9.6.8.1  CAP and API  Proficiency Testing  
+For purposes of this document, proficiency testing is one method of external quality control in which the analytical pe rformance of a method is evaluated using specimens provided on a periodic 
+basis (usually every 3 months).  
+   
+ 9-19 Laboratory Procedures 2021  
+  
+Participation in the American Proficiency Institute (API)  proficiency testing program is  part of the 
+comprehensive quality control program . Each MEC s ubmits results for API  specimens to the

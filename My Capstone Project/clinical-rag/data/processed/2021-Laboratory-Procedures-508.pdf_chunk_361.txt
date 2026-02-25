@@ -1,0 +1,11 @@
+• Kit lot number and expiration date fill in automatically from the prior QC report. 
+Update or manually enter this information if necessary. 
+• The control lot number and expiration date for the urine control fills in automatically from the prior QC report. Update or manually enter this information if necessary.  
+• The Control QC Type is urine. 
+• Negative Control result.  
+• Positive Control result. 
+• Upon a lot change during a stand, test the new lot with low positive and negative controls and update the lot numbers in the Quality Control module. 
+CA
+P Proficiency Testing  
+For purposes of this document, proficiency testing is one method of external QC in which the 
+analytical performance of a method is evaluated using specimens provided on a periodic basis

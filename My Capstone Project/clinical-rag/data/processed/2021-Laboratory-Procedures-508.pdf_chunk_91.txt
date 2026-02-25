@@ -1,0 +1,9 @@
+1. Overview and Laboratory Team Responsibilities
+1.1 Overview  
+The laboratory component of NHANES includes the collection, processing, storage, and shipping 
+of blood and urine specimens. Collectively, these specimens provide data about the health status of the U.S. population. 
+The blood collection (venipuncture) procedure consists of (1) administering a questionnaire to 
+screen for medical conditions that will exclude the s tudy participant (SP) from the blood draw; 
+(2) determining fasting status; and (3) performing the blood draw. The phlebotomist also collects 
+one additional blood tube from SPs selected for the volatile organic compounds (VOC) special 
+study on consenting SP s aged 12 years and older , and Liver Genetics on SP ’s 18 years of age and

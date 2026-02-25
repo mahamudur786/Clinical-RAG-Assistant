@@ -1,0 +1,17 @@
+– In most cases the FES will s trap down and secure the DxH and computer 
+monitor for the impending travel. 
+6.17 Coulter Reportable R ange of Results  
+Table 6 -3 presents the Coulter reportable range of results. 
+   
+ 6-51  Laboratory Procedures 2021   
+Table 6 -3. Coulter reportable range of results  
+Parameter  Linearity  Limits: The greater of  
+WBC x 103 cells/ µL 0 to 337.7  0.2 or 3.0%  
+RBC x 106 cells/ µL 0 to 8.30  0.05 or 2.0%  
+Hgb g/d  0 to 24.3  0.2 or 3.0%  
+MCV fL  50.0 to 150.0  2.0 or 3.0%  
+Plt x 103 cells/ µL 0 to 4897  10.0 or 7.0%  
+MPV fL  5.0 to 20.0  5.0%  
+6.18 Integrated Survey Information System  
+6.18.1  Record 6C Cell and Latron Lot Numbers in Integrated Survey 
+Information System

@@ -1,0 +1,10 @@
+temperature varies by more than 10 °F (5.5°C) from the room temperature during the last 
+calibration. 
+Instructions for the performance of calibration procedures using S- CAL calibration are in Chapter  6. 
+9.6.10 Linearity  
+The linearity controls verify the reportable range of Beckman Coulter hematology systems. Linearity 
+is performed at installation, at least yearly, and whenever experiencing an altitude change of 1 mile or more between locations using Beckman Coulter Lin-X
+™. 
+Beckman Coulter Lin -X linearity controls are human blood components from which re peated 
+measurements verify the reportable range of Beckman Coulter hematology systems that use both Beckman Coulter® III diluent and Lyse S
+® III diff lytic reagent. Controls contain one each of Ultra

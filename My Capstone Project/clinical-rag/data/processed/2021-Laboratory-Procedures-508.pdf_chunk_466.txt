@@ -1,0 +1,7 @@
+View) screen displays all of the results for a selected parameter in the control file.  
+– The blue-shaded window on the expanded graph, which contains up to 10 points 
+and the point cursor, determines the points and cursor displayed in the thumbnail graphs. 
+• The point cursor is a blue vertical line on the graph that reflects the date selected in the Data View.  
+– The cursor can be moved left or right by using the scroll bar or by selecting either the data points on the graph or the control run analysis Date/Times in the Data View table.  
+– If the cursor moves to a point outside the window, the window shifts so that the new point displays in the window as the furthest right or left point. 
+6.11.11  Add, Modify, or Delete Comments to QC Re sults

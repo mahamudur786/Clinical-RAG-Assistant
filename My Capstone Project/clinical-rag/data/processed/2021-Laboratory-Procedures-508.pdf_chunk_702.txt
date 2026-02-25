@@ -1,0 +1,6 @@
+module is accessed. The window includes check  boxes to mark or identify specific groups, new 
+container ID s that are assigned to the Groups, the number of the Group, and the Container Group 
+Name or vessel name. The Group and corresponding Container Group Name listed in this screen 
+represent the Group where the container has been “ closed ” and a new label has not been created. 
+This screen also includes a “mark/unmark all” check  box and three buttons: Print, Close, and Add. 
+Use the Print button to print the container labels, use the Close button to exit the module without printing any labels or assigning container IDs to the Groups, and use the Add button to open another window that allows the user to add additional or multiple labels for any vessel . The

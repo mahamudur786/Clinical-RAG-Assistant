@@ -1,0 +1,12 @@
+guidelines, SOPs and recommendations.
+x IPC practices
+x Control of the environment 
+x Surveillance of HAIs and management of outbreaks
+x Guidelines for IPC in special areas/ situations (depending upon the services 
+provided by the facility)
+x Preventing infections among HCWs
+x Monitoring and evaluation 
+Antimicrobial use and management
+Appropriate antimicrobial use and management is an integral part of the IPC 
+programme. Every HCF should establish an antimicrobial stewardship programme (AMSP), which aims to facilitate the establishment of effective and rational antibiotic use.
+36 Antimicrobial stewardship includes the appropriate selection, dosing, route of

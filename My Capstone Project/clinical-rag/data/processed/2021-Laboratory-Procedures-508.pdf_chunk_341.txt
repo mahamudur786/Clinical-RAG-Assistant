@@ -1,0 +1,30 @@
+box 
+6 CBR 86 Spc Arsenic  Frozen  Weekly  9x9 two-inch 
+box 
+6 CDC/NCEH Pesticide 
+Laboratory  48 Prior Pest  Frozen  End of stand  or 
+when full  5x5 three -inch 
+box 
+6 CDC/NCEH Pesticide 
+Laboratory  49 Organophos  Frozen  End of stand  or 
+when full  5x5 three -inch 
+box 
+6 CBR 62 Urin Merc  Frozen  Weekly  5x5 three -inch 
+box 
+6 CBR 50 Metal s Frozen  Weekly  9x9 three -inch 
+box 
+6 CBR 220 Arsenic/  
+Chromium/  
+Nickel  Frozen  Weekly  5x5 five-inch 
+box with foam 
+insert  
+6 CBR 66 PAH Frozen  End of stand  or 
+when full  9x9 three -inch 
+box 
+6 CBR 67 Phthalates  Frozen  End of stand  or 
+when full  5x5 three -inch 
+box 
+6 CBR 102 Perchlorate/ Thiocyanate  Frozen  End of stand  or 
+when full  9x9 two -inch 
+box 
+6 CBR 156 TSNA /Nicotine

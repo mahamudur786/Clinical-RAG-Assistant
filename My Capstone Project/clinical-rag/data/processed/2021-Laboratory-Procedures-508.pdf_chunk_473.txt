@@ -1,0 +1,14 @@
+• A yellow background on the screen indicates that results were above or below a reference range.  
+• A red background on the screen indicates that results exceeded an action or critical limit or that  another flag was present.  
+   
+ 6-36  Laboratory Procedures 2021   
+• Flags appear in o ne of four positions to the right of the result. 
+• The flags are listed in order of priority within each space.  It is possible to have flags in 
+each of the four positions. 
+• Refer to Exhibit 6- 9 to interpret DxH f lags. 
+Exhibit 6 -9. Interpretation of DxH flags  
+Flag and p osition  Description  
+1 2 3 4  
+e    Result calculated from a manually edited parameter.  
++    Result above the measuring range.  
+-    Result below the measuring range.

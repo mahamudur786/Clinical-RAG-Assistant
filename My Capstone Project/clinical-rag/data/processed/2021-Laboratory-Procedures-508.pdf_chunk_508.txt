@@ -1,0 +1,11 @@
+this service, the following tasks must be completed by the technologist assigned 
+to the Coulter for that stand: 
+– Select ( QC Icon )>Select Control> Select 6C Cell Control Level 
+1>Transmit >Select All Runs in Current Control File> Select OK.  The Coulter 
+icon on the workstation computer will “ flicker ” to indicate the transmission of 
+data. Once the flickering has stopped, repeat the same steps beginning with Select  
+Control and transmit QC dat a for 6C Cell Control Levels 2 and  3, followed by the 
+Latron Control File. 
+– Select [QC Icon] >Select Control >Select 6C Cell Control Level 1> Select [Printer 
+Icon]>Change Report Type to Summary Report> Select [ Control Lot] and 
+checkmark all Curre nt Stand Controls (Both Latron and 6C Cell Files)> Select

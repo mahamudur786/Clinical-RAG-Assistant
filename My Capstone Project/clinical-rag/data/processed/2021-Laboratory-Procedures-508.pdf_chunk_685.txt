@@ -1,0 +1,14 @@
+barcode label. 
+Label each vessel with the appropriate vessel label, according to the protocol. Place the label on the 
+vessel, wrapping it around the vessel horizontally and making sure the label wraps onto itself. Place the label so the first digit of the vessel number i s at the top of the vessel. Set the vessels in the tube 
+racks in priority order , using the rack template as an age -specific guide.  
+Use the following materials t o set up and label blood racks: 
+• Plastic rack ; and 
+• Template for processing. 
+• Vessels of the follow ing sizes:  
+– 2.0 mL sterile vessel ; 
+– 2.0 mL non- sterile vessel ; 
+– 5.0 mL sterile vessel ; and 
+– 30 mL ENV vials . 
+• Barcoded SP ID labels each containing the unique 6-digit SP ID number concatenated 
+with the vessel ID.

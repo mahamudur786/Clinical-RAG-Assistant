@@ -1,0 +1,35 @@
+type Remarks  
+229 Hep Xtra sera  6-11  1.8 Serum  10 mL red 
+and  
+7 mL red 2 mL  
+21 Lipids  6-11  0.5 Serum  10 mL red 
+and  
+7 mL red 2 mL  
+77 HPV-Serum  6-11  0.5 Serum  10 mL red 
+and  
+7 mL red 10  1/3 
+subsample  
+1, 2, 5, 11  
+240 Serum Terpenes  6-11  1.2 Serum  10 mL red 
+and  
+7 mL red    
+32 Xtra Sera1  6-11  0.5 Serum  10 mL red 
+and  
+7 mL red 2 mL  
+33 Xtra Sera2  6-11  0.5 Serum  10 mL red 
+and  
+7 mL red 2 mL  
+Exhibit 7-4. Blood processing protocol for primary SPs aged 12 -19 years  
+ID Test name  Ages Sample  
+(mL) Sample type  C
+ollection 
+type Vessel  
+type Remarks  
+1 Lead/Cad/HG / 
+Se/Mn  12-19 0.4 Whole blood  6 mL EDTA 
+(blue)  2 mL 
+sterile   
+5 Mercury , Methyl, 
+and Ethyl 12-19 0.5 Whole blood  6 mL EDTA 
+(blue)  2 mL 
+sterile

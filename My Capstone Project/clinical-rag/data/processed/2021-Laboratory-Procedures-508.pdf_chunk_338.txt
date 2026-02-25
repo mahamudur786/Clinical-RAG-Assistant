@@ -1,0 +1,7 @@
+specimen cup  (if both urine collections pooled together exceed the capacity of the cup, add equal 
+amounts of urine to the cup), update the Urine Collection module, access the Urine Processing 
+module, fill the vessels, and record the results. If the session ends and no additional urine has been 
+collected, access the Urine Processing module; fill as many vessels as possible in priority order; mark the remaini ng vessels as Filled —No, with the Comment Code “ Quantity not sufficient ”; and save 
+the results.  
+4.12 Specimen Storage  
+Fill the urine vessels, enter the urine processing results, and prepare to store the vessels. Store vessels in numbered storage boxes according to test as indicated in Exhibit 4-8 . Check the slot

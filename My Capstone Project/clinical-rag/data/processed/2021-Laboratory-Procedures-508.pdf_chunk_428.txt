@@ -1,0 +1,17 @@
+Shutdown dialog box. 
+– Select Autoconfiguration at the bottom of the screen. 
+– Select Configure Shutdown.  
+– Check Enable Automatic Shutdown: Fill in hour 07, Min 00.  
+– Daily.Coulter . 
+– Make sure each of the 7 days is  checked.  
+– Time in cleaner 0 Hour(s) 30 Minutes. 
+– Select OK.  
+• Daily Checks (formerly known as StartUp) (Menu >QA>Daily Checks) are programmed 
+to immediately follow the StartUp . 
+– Select Autoconfiguration at the bottom of the screen. 
+– Select Configure Daily Checks . 
+– Check Enable Automatic Daily Checks . 
+– Choose radio button Perform Daily Checks after Shutdown. 
+– Select OK . 
+• Latron CP-X control should be run immediately following daily checks. 
+6.8.3  Cancel Automatic Shutdown

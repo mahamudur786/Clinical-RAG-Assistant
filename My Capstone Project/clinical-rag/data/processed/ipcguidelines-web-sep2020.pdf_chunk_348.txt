@@ -1,0 +1,4 @@
+includes the OT and areas where the operation team and patient are prepared for surgery. The areas for packaging and sterilizing surgical instruments are also included in this zone. The different areas in this zone are physically separated from each other. Within this zone, the cleanest is the OT where the patient’s tissues are exposed during surgery.
+ Zone 2 is the restricted zone where entry is restricted. It is the transitional area 
+between the outer zone and the aseptic zone. Persons entering this zone have to change to protective clothing and footwear to prevent contamination of the surroundings. 
+ Zone 1 is also called the outer zone and has a similar level of cleanliness as other

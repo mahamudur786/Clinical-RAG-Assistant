@@ -1,0 +1,11 @@
+– In the “Signature Type” section, select “ Direct Signature Required ” (this is not 
+necessary for shipment to the warehouse). 
+– In the Shipment Notifications section, make sure the Notification Sender via Email (HTML) is marked with seanchickery@westat.com a s the email address. 
+Additionally, make sure the Recipient email is po pulated with an email address . 
+8 -37  Laboratory Procedures 2021  
+– After double- checking your entries, select “ Ship” in the bottom righ t corner of 
+the shipping screen. 
+1. Only click the button once even though there may be a delay in processing. 
+– The Shipping Manifest will be generated in anothe r screen that will automatically 
+display. 
+– Select the Print button (make sure labels have been inserted in the tray of the

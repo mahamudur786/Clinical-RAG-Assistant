@@ -1,0 +1,6 @@
+However, HAIs are largely preventable through effective infection prevention and control (IPC) measures.
+It is evident that HAIs result in prolonged hospital stays, long-term disability, 
+increased resistance of microorganisms to antimicrobials, additional cost on health systems, high cost for patients and their families, and preventable deaths.
+HCFs are high-risk environments for the development and spread of drug-resistant 
+bacteria and frequently have the highest burden of multidrug-resistant organisms (MDROs). IPC measures reduce the opportunities for resistant pathogens to spread in HCFs and contribute to the containment of antimicrobial resistance (AMR).
+Global pandemics of severe acute respiratory syndrome (SARS), inﬂ  uenza and

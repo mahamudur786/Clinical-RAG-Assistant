@@ -1,0 +1,12 @@
+• Review the data.  Select Menu >Patient  Results. 
+• Data  from the Coulter D xH 800 are  automatically transmitted to the ISIS system when 
+the NHANE S Coulter monitor icon has been opened on the ISIS screen. 
+• Use the Worklist screen to sort, retrieve, transmit, and archive data to CD. Transmit 
+data from the Coulter D xH 800 to ISIS as necessary.  Save all data  to CD at the end of 
+each stand . 
+6.16.2  Daily Shut down 
+See Section  6.8, pages 6- 13 to 6- 15. 
+6.16.3  Prolonged Shut down 
+• If the instrument is going to be idle for more than 72 hours, as in summer or winter 
+2-week breaks, adjust the shutdown procedure as follows: Menu >QA>Daily 
+Checks >AutoConfiguration>Configure Shutdown> Uncheck Daily , Check only boxes

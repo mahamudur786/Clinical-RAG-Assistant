@@ -1,0 +1,16 @@
+and select OK.  
+• To delete a comment, select the Delete button.  
+6.11.12  View Contr ol Files Under Error Conditions  
+• Under Error conditions, the Quality Control Status icon at the top of the screen is red. 
+• If more than  one lot triggered an error condition, the Select Control File to Review 
+dialog box displays. 
+• All lots that are OUT are displayed on the dialog box. 
+• To review a specific log, select the lot and select the OK button.  
+6.12 Sample Analysis 
+6.12.1  Status  
+• The SPM must be online to run samples. 
+• You can view the status of the SPM in the Status Mode area at the upper -left corner of 
+any screen, except the Home screen.  
+   
+ 6-34  Laboratory Procedures 2021   
+6.12.2  Cassette Presentation

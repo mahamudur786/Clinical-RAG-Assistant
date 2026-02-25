@@ -1,0 +1,15 @@
+direct the mouse arrow to the Cancel button and left -click. 
+   
+ 6-95  Laboratory Procedures 2021   
+The observation window displays. 
+T
+he observation window contains the SP ID, name, age, and gender. Type the observation using the 
+keyboard. To send the observation to the clinician , direct the mouse arrow to the OK button and 
+left-click, or select Enter. To cancel these actions or to exit the observation window without entering 
+an observation, direct the mouse arrow to the Cancel button and left -click. 
+Enter the observation on an SP.  
+   
+ 6-96  Laboratory Procedures 2021   
+Document the date, time, responsible laboratory individual, person notified, and test results, 
+including the parameter. 
+6.20 Limitations of Method:  Specimen Rejection, Interfering

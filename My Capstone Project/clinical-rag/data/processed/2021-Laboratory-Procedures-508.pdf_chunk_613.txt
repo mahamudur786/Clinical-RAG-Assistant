@@ -1,0 +1,15 @@
+7-14  Laboratory Procedures 2021  
+Programming – SD 
+Step 1  Select the selection dial to  “EDIT. ”  
+Step 2  Use the down arrow on the rocker to highlight program.  
+Step 3 Press the “Select ” softkey.  
+Step 4  Highlight New Program and press the “S elect ” softkey.  
+Step 5  You will be prompted to name the program. Use the rocker to select the character and the 
+“Next ” softkey to advance to the next space. Name this program “12 Up. ” 
+Step 6  Press the “Save ” softkey.  
+Step 7  Use the rocker to highlight “Sequential Dispensing ” operating mode.  
+Step 8  Press the “Edit” softkey.  
+Step 9  Use the rocker to change the number of steps to 6.  
+Step 
+10  Press the “Next ” softkey.  
+Step 11 Use the rocker to change the volume and assign the necessary volumes to the program. Press

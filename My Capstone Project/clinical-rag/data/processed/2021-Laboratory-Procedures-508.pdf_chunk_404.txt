@@ -1,0 +1,15 @@
+• Weight (mass) of Hgb determined from the degree of absorbance found through photo current transmittance expressed in g/ dl. 
+• Corrected for WBC int erference.  
+• Hgb (g/dl) = [constant X log
+10 (Reference %T/Sample %T)].  
+Hct Calculated  Hematocrit  
+• The relative volume of packed erythrocytes to whole blood.  
+• Hct (%) = RBC X MCVV10. 
+MCV  Derived from 
+RBC 
+Histogram  Mean Corpuscular Volume  
+• The average volume of  individual erythrocytes derived from the RBC 
+histogram. 
+• The system multiples the number of RBC in each channel by the size of the RBC in that channel. The products of each channel between 36 and 360 femtoliters (fL) are added. This sum is divided 
+by the total number of RBC between 36 and 360 fL. The a nalyzer 
+then multiplies by a calibration factor.

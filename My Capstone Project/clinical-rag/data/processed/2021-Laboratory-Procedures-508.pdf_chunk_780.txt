@@ -1,0 +1,7 @@
+9-8  Laboratory Procedures 2021  
+  
+Quality control (QC) in laboratory medicine is the monitoring of the analytical measurement process 
+to determine if it is performing correctly and patient results are reportable. The term “quality assurance ” (QA) rep resents the entire process used to ensure with a specified degree of confidence 
+that the result reported by the laboratory is correct. Both “precision control” (the agreement between replicate measurements) and “ accuracy control ” (the agreement between the mean estimate 
+of a quantity and its true value) are evaluated to establish this degree of confidence.  
+A QA program also monitors laboratory performance to detect excessive random or systematic

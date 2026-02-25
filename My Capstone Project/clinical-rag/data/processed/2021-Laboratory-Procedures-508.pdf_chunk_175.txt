@@ -1,0 +1,10 @@
+If the response to the question “Are you currently pregnant?” is “ Yes,” the SP is excluded from 
+Liver Ultrasound Transient Elastography , and DEXA (Body Composition) due to pregnancy status. 
+At the coordinator application, the component status for Liver Ultrasound Transient Elastography and DEXA defaults to “ Not Do ne” with the comment “Blocked: Not Done [SP pregnant].” 
+Ask the next two phlebotomy safety exclusion questions. 
+   
+ 3-15 Laboratory Procedures 2021   
+If the answer to the shared pregnancy exclusion  question is “ No” or “ Don’t know, ” press Tab  to 
+proceed to the first safety exclusion question, “Do you have hemophilia?” If the SP answers “ Don’t 
+know,” to the pregnancy exclusion question, they will not go through the DEXA or Liver 
+Ultrasound exams.

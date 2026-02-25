@@ -1,0 +1,11 @@
+urine verified will appear in blue on the top screen. 
+An SP will be prompted for additional urine only if (1) the total of their  urine collection was 
+insufficient to meet the SP ’s protocol requirement, and (2) the SP has submitted less than two 
+(ages  3 to 5)  or three  (ages 6+) collection samples. The Urine Collection screen will display up to 
+   
+ 4-17  Laboratory Procedures 2021   
+three instances of urine collection for SPs aged 6+ and two instances for SPs aged 3- 5 years. Urine 
+collection is complete regardless of the amount of urine collected after the maximum number of 
+attempts.  
+If
+ the urine collection is the first or second collection and the status is QNS, a record for the second

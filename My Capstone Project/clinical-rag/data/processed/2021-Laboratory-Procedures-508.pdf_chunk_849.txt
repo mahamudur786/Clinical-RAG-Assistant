@@ -1,0 +1,11 @@
+The minimum amount of data stored for each analytical result is the specimen ID number, the 
+analyte name, and the measured result. If the specimen ID does not provide sufficient information 
+to relate the m easured result to the QC data for the run, the run number and run date must also be 
+   
+ 9-32  Laboratory Procedures 2021  
+  
+stored. The specimen ID, run date, and run number should be sufficient information to relate the 
+measured result to the quality control information for that run. Access to the ISIS database is password protected so that only the persons authorized by Westat and NCHS may access the data. 
+9.11.2  Integrated Survey Information System Data Down Times  
+Each laboratory method is able to run and temporarily store results even if the MEC LAN is 
+inoperable.

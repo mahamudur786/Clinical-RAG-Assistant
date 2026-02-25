@@ -1,0 +1,16 @@
+Annex 13: Forms for surveillance of HAI*
+(Adapted from NHSN by ICMR-AIIMS HAI surveillance network)
+13.1. Denominator data collection forms
+Hospital Name:            Surveillance Unit Number:    Month:   Year:
+Date Number of 
+patientsNumber of 
+patients with t1 
+central lineNumber of 
+patients with 
+urinary catheterNumber of 
+patients with 
+ventilator
+1
+2345678910111213141516171819202122232425262728293031Total
+* ICMR-AIIMS HAI Surveillance Network was created in collaboration with the Centers for Disease Control 
+and Prevention (CDC), Atlanta, USA as part of Global Health Security Agenda (GHSA) project for capacity building and strengthening of hospital infection control to detect and prevent antimicrobial resistance in India.

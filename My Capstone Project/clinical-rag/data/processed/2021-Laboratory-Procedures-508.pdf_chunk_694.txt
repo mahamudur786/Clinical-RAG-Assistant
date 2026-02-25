@@ -1,0 +1,11 @@
+of the session number. This will display all the SPs scheduled for that session. Click on the SP you 
+want to display. Use the printer icon to print using the print options described in Sections 8.3.5 to 
+8.3.7.  
+8 -14  Laboratory Procedures 2021  
+8.3.11  Printing Individual Labels  
+To print a single or individual label, highlight the line you wish to be printed. Use the printer icon to 
+print using the print options described in Sections 8.3.5 to 8.3.7.  
+8.3.12  Label Action  
+If an SP ’s profile has changed and the labels have already been printed, the SP line will turn red on 
+the heads-up display , shown in Exhibit 8- 10, and will show “ Label Action Required. ” Blood 
+processing won’t be enabled until the label action is performed.

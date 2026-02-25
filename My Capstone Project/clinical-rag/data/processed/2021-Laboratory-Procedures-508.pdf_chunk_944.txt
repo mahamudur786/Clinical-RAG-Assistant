@@ -1,0 +1,8 @@
+if there is a discrepancy.  
+• Remove the excess fro m a component (leaving par) and return it  to the warehouse , if 
+the quantity for an item is higher than the set par level. If an item(s) is being returned to 
+the warehouse,  print a Transfer Inventory to Warehouse Count Sheet for the 
+component. Print your name on the inventory sheet. Mark only the quantities for item(s) that are being returned. Ship the supplies back to the warehouse. 
+The warehouse manager will also reconcile the inventory that was sent back to the warehouse during 
+the previous EOS inventory of the MEC.  This entails the shipping by the warehouse of either 
+unopened vacutainer tube trays or salvaged trays of the same lot obtained from the EOS transfer of

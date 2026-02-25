@@ -1,0 +1,11 @@
+the RPM of the instruments using a strobe light or a tachometer. The engineer records multiple 
+readings for each centrifuge. The Beckman Coulter® Allegra X- 15R centrifuge should exceed 3,750 
+rpm to ensure adequate centrifugal force development. The engineer checks each centrifuge timer 
+against a stopwatch and records the values in the Laboratory QC module—NCHS QC.  
+Document beginning and end of stand cleaning procedures in the Laboratory QC module. 
+   
+ 10-32  Laboratory Procedures 2021   
+For Allegra X -15R Centrifuge cleaning and maintenance, refer to the centrifuge maintenance 
+manual. 
+10.4.2 Refrigerators and Freezers —Equipment Maintenance  
+The freezers  require proper ventilation to operate efficiently. The air around the freezers must be

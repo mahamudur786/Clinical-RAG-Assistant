@@ -1,0 +1,14 @@
+6.26 Quality Control Summary Statistics and Graphs  
+Chapter 10 includes a separate detailed description of the comprehensive quality control plan. 
+Monitor 6 C cell control results for bias and maintain results for the entire study period. Compare all 
+three instruments using the CAP proficiency results. 
+6.27 Troubleshooting  
+If the background f ails: 
+• If WBC, RBC, Plt fails —zap apertures, prime sweep flow several times, shutdown as 
+last resort.  
+• If Differential fails —flush the flow cell.  
+• If Hgb fails —clean BSV, Prime CBC Module, perform Hgb blank verification, 
+Shutdown. 
+If the Latro n fails: 
+• D or N(AI2) and/or D or N(Lals) out —unlock DV x 3, flush flow cell x 3.  
+6.28 Setting Shift Times

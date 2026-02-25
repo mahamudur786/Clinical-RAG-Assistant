@@ -1,0 +1,9 @@
+222 Fatty Acids Odd 1.6 Packed cells 6 mL EDTA  2 mL 
+235 Acetylcholinesterase  Even  2.0 Whole blood 6 mL EDTA  2 mL 
+Eac
+h set of venipuncture tubes and pre-labeled blood processing racks should be treated as two 
+independent and separate dry run volunteers. Process the complete first set of venipuncture tubes and blood processing vessels on the dry run volunteer using the original SP ID, and then process the 
+second set of venipuncture tubes and blood processing vessels using the sample ID. 
+For volunteers whose  SP ID and sample ID ends in an odd digit, process one of the 4 mL EDTA 
+tubes for Lead/Cad/HG/Se/Mn, and acr ylonitrile. Process  one of the 4 mL EDTA tubes for 
+glycohemoglobin. For volunteers whose  SP ID and sample ID ends in an even digit, process one of

@@ -1,0 +1,23 @@
+2.
+ Align: Center  
+3. Size: Medium  
+4. Show Barcode Text: Below  
+5. Select OK . 
+   
+ 9-20  Laboratory Procedures 2021  
+  
+• Double- click on “ Click Me.” 
+• Under Data: Barcode Data, delete “click ME ” and type in proficiency sample number, 
+i.e., FH601.  
+• Select OK.  
+• Print – will print on Dymo label maker . 
+• Repeat for all five samples.  
+• Exit out and select “ No” to “Do you want to save?” 
+To auto- print results for proficiency samples:  
+• Verify  that “Disable all auto printed reports” box is UNCHECKED in Menu > Setup  
+> System  > Printers > Printer setup (it should always be unchecked ). 
+• Click on Menu . 
+• Click on Reporting. 
+• Click on Auto Report . 
+• Check box “Print Lab Report as Each Analysis is Complete.” 
+• Select OK .

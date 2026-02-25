@@ -1,0 +1,14 @@
+specimens.  Fill out the CAP result form, make a copy for the log book, and send results to CAP. 
+After the assigned primary clinical laboratory scientist  has tested and recorded results, other clinical 
+laboratory scientists  are to perform the testing and record their results without consultation with the 
+primary tech. The secondary clinical laboratory scien tist’s results will be sent to the Laboratory 
+Component Lead as a record of competency testing.  
+To make barcode labels : 
+• Select Utility on desktop . 
+• Select “ Dymo test labels .” 
+• Highlight the label shown: 
+– Click on “ Properties ” in far upper right; 
+– Symbology: C hoose “ code 128 Auto ”; 
+– Data: Barcode  delete “ Click me ” or “ 0000001” and type in proficiency sample 
+number, i.e., FH6 -01; 
+– Align: Center ;

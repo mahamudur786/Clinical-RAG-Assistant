@@ -1,0 +1,12 @@
+• From any tab on the Daily Checks screen, select the Review button on the l ocal 
+navigation bar to indicate that the Daily Checks results have been reviewed . 
+Note:  If Daily Checks  pass, the Review button is disabled. 
+• You have to review only results that are questionable.  
+• Document on the Troubleshooting Log any action taken to troubleshoot the Daily Checks failure.  
+   
+ 6-17  Laboratory Procedures 2021   
+6.10.2  Additional Tasks From the Daily Checks Screen 
+• Select the Histogram button at the right of the screen on the Diff, Retic,  or NRBC tabs 
+to display the VCSn Ramp Tests Histogram screen. 
+Note:  The VCSn Ramp Tests Histogram screen is not for routine use; however, you 
+may at some time be asked to access thi s screen when on the phone with a Beckman

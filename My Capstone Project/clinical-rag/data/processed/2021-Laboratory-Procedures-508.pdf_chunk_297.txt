@@ -1,0 +1,12 @@
+B. Volume (whole mL ); 
+C. Collection  date and time;  
+D. Status  of the urine; 
+E. Comment  code; 
+F. Verification check box; and 
+G. Total  collected amount (s um in mL of all urine collections). 
+   
+ 4-7  Laboratory Procedures 2021   
+If the SP has submitted a urine collection that has been weighed and scanned into the database, the 
+volume, collection status, and collection date and time will automatically display in the lower portion of the Urine Collection screen. If the collection did not meet the minimum requirement for the 
+protocol, the system will automatically select “ QNS ” with the comment code “quantity not 
+sufficient. ” A QNS result immediately notifies the coordinator to prompt for an additional urine

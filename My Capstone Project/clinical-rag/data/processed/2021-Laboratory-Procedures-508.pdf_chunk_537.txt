@@ -1,0 +1,21 @@
+and BA# are calculated and evaluated to determine if the y are within the following CDC-established 
+precision limits  (Table 6 -4). 
+Table 6 -4. CDC precision limits  
+Test Precision limits  
+WBC  +0.4 x 103  
+RBC +0.1 x 106  
+Hgb +0.4 g/ dl 
+MCV  +2.2 fL  
+Plt +23 x 103  
+NE# +0.4 x 103 
+LY# +0.2 x 103 
+MO#  +0.2 x 103 
+EO# +0.2 x 103 
+BA# +0.2 x 103 
+   
+ 6-67  Laboratory Procedures 2021   
+If RBC parameters are out of range, evaluate the data for drift.  If drift is evident, evaluate  the 
+possibility of an instrument malfunction. If any WBC differential absolute number is out of range, 
+check the WBC scattergram for abnormal cell population(s). Evaluate and save results when 
+precision limits are not exceeded.  
+Ev

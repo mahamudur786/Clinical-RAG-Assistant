@@ -1,0 +1,14 @@
+this rul e. 
+   
+ 9-16  Laboratory Procedures 2021  
+  
+Exhibit 9- 5. Westgard Rule  R4S 
+Rule R 4S. This rule rejects a run if there is at least a 4 SD difference between control values 
+within a single run. For example, Level 1 control is +2.9 SD above the mean and Level 2 
+is -1.4 SD  below the mean. The total difference between the two control levels is greater than 
+4 SD. This rule identifies random error and is applied only within the current run. 
+Note: 
+Violation of any of the following rules does not necessarily require rejection of the analytical 
+run. These violations typically identify smaller systematic error s or analytical bias that is not often 
+clinically significant or relevant. Analytical bias may be eliminated by performing calibration or 
+instrument maintenance.

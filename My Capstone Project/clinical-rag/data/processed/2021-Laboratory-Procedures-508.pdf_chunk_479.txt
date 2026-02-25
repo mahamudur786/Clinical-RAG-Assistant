@@ -1,0 +1,14 @@
+accompanied by N or P flags.  
+Refer to the Unicel DxH  800 Help Manual onboard the analyzer for a detailed list 
+of all system messages.  
+– Definitive messages ( displayed  in blue) are displayed for results based on exceed 
+limits configured as part of an individual flagging set. 
+Definitive messages can be created by copying reference ranges, or by manual 
+entry of your own message definition. 
+Refer to definitive messages in the setup chapter of the onboard Unicel DxH 
+System Help Manual . 
+• Demographic/status- related m essages : 
+– Exception m essages.  
+– If there are any except ions for a specimen, a comments indicator displays in the 
+System Status Message area below the patient demographics.  
+– Select the Additional Data button to view the Exceptions.

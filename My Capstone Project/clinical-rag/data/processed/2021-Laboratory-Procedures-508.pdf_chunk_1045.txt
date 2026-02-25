@@ -1,0 +1,26 @@
+tech ID number, an explanation of the incident, and the steps to resolve the incident. Be sure to record the model and serial number of the instrument. 
+   
+ 10-67  Laboratory Procedures 2021   
+Exhibit 10- 19. Hard -Copy Unusual Occurrence L og 
+NHANES  
+UNUSUAL OCCURRENCE LOG  
+Stand Number  _____________________ 
+Beginning Stand Date  _______________ 
+Technologist Name and ID  
+Date  
+_______________________________________ 
+Time  
+_______________________________________ 
+Comments or Issue  
+Action  Taken  
+Resolution  
+R
+eviewed by  _____________________________ 
+Date reviewed  _____________________________ 
+   
+ 10-68  Laboratory Procedures 2021   
+Enter information onto the appropriate line(s): 
+• Stand number; 
+• Beginning stand date; 
+• Technologist name and ID;  
+• Date;

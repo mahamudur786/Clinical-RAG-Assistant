@@ -1,0 +1,13 @@
+Filter >Select  OK>Warning Box Will Appear, Select OK . 
+• Delete previously used 6C cell c ontrol f iles – Menu> QA>QC>More Options> QC 
+Setup >Select Previous (Older) Control File  (will be highlighted )>Delete Control> OK. 
+You can only delete control files one at a time.  
+• Enter reagent lot numbers and expiration dates – Menu >Supplies> Setup >Scan the 
+Reagent Barcodes >Select  OK. 
+   
+ 6-43  Laboratory Procedures 2021   
+• Enter 6C cell c ontrol lot numbers and expiration dates – Menu >QA>QC>More 
+Options> QC Setup >New Control from Barcode> Scan the 6C Cell Insert 
+Barcode> Select  ALL & Auto Transmit >Select  OK. 
+• Enter Latron c ontrol lot numbers and expiration dates – Menu >QA>QC>More 
+Options> QC Setup >New Control from Barcode>Scan the Latron Insert

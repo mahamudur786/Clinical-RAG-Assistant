@@ -1,0 +1,11 @@
+4 SD. This ru le identifies random error and is applied only within the current run. 
+No
+te: Violation of any of the following rules does not necessarily require rejection of the analytical  
+run. These violations typically identify smaller systematic error or analytical bias that is not often 
+clinically significant or relevant. Analytical bias may be eliminated by performing calibration or instrument maintenance.  
+   
+ 6-28  Laboratory Procedures 2021   
+Exhibit 6 -8. Westgard Rule 4 1S 
+ Rule 4 1S. This rule is violated with the four th consecutive control measurement exceeding 
+1 SD  on the same side of the mean. Troubleshooting action includes calling the Coulter 
+hotline to see if other labs are reporting a bias with the same lot number of control. Perform

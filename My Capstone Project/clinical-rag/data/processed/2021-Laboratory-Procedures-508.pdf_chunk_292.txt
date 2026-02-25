@@ -1,0 +1,6 @@
+acceleration at its location. Calibration is necessary before the balance is used for the first time and 
+at the start of each stand. The balance should be on for 60 minutes before calibrating. To calibrat e 
+the balance, press and hold the <<cal>> key down until “ CAL ” appears in the display. Release the 
+key. The required calibration weight will flash in the display. Place the required calibration weight in 
+the center of the pan. The balance will automatically calibrate and “0.00 g ” will flash, indicating that 
+the weight can be removed. The calibration is completed when “CAL done” appears in the display. When the balance is back in weighing mode and ready for operation, “ 0.00” will display.

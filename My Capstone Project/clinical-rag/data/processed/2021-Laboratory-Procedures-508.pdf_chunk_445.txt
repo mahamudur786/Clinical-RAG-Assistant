@@ -1,0 +1,12 @@
+conditions should mimic routine testing as closely as possible. 
+   
+ 6-21  Laboratory Procedures 2021   
+– View the mean and SD of the parameters using the QC menu on the DXH 800. 
+Reviewing the Levey -Jennings plots for each of the parameters may identify drifts 
+or shifts in the results over time, or a highly deviant result (see 6.11.10 for Levy -
+Jennings graph information). If no pronounced drifts, shifts, or outliers are seen, 
+use the 20 data points to establish the mean and SD for the instrument (see 
+Exhibit 6- 3 for examples) . Since the MEC la boratory runs multiple controls per 
+day, the long-term SD may be underestimated and will need to be monitored. 
+– This mean should be within the range stated on the control assay sheet and is 
+considered the established target value .

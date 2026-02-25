@@ -1,0 +1,5 @@
+Healthcare-associated infections (HAIs) are neither present nor incubating at the 
+time of admission of a patient to the healthcare facility (HCF). The majority of HAIs manifest after 48 hours of admission.
+HAIs should be identiﬁ  ed on the basis of both clinical as well as laboratory criteria. 
+Infection acquired in the hospital but not evident until after discharge is also considered as HAI. Infection in a newborn in a health facility may also be considered as an HAI. It is important to understand the mode of transmission of disease in an HCF so that appropriate measures can be taken to control the spread of infection. Figure 2.1 shows the chain of infection.
+A variety of microorganisms – including bacteria, viruses, fungi and parasites – can

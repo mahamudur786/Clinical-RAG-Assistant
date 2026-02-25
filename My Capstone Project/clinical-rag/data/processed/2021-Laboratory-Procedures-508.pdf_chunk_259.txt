@@ -1,0 +1,12 @@
+3.17 Phlebotomy Quality Control  
+Perform phlebotomy quality control at the start of the first session block even if there are no SPs  
+scheduled in any of the  session  blocks . Using the End of Session tab, record the room 
+temperature reading and indicate that the counters were disinfecte d. 
+   
+ 3-56 Laboratory Procedures 2021   
+To a
+ccess the phlebotomy Quality Control module, direct the mouse arrow to Utilities in the menu 
+bar, left -click, drag the arrow to Quality Control, and left -click.  
+3.17.1 Daily Q uality Control  
+Record the daily quality control activities at the start of the first session. Mark each “Done” 
+checkbox with a check  mark.  The comment section is left blank unless the temperature is out of the

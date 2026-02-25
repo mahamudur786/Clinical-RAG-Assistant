@@ -1,0 +1,13 @@
+104
+HCFs with limited resources and minimal trained staff should carry out the following basic surveillance.
+Process surveillance
+This involves auditing certain IPC practices (e.g. hand hygiene) against a standard such as an evidence-based practice, guideline or policy. This guidance or policy should be available to the staff and they must have received the training according to their role in the HCF (doctor, nurse, attendant, housekeeping, etc.).
+The practices to be monitored include the following.x Hand hygiene 
+x Urinary catheter insertion 
+x Using multi-dose vials
+x Safe injection practice
+x Preparation of surgical incision site
+x Insertion of vascular catheter
+x Waste segregation
+x Handling of sharps
+Observational forms or checklists should be developed for each IPC practice that is

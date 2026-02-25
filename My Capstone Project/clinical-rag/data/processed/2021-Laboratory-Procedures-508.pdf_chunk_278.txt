@@ -1,0 +1,15 @@
+Q6. En las últimas 48 horas, ¿le echó gasolina {usted 
+mismo/él mismo (MPR)/ella misma (FPR)} a un carro u otro 
+vehículo de motor?   
+Q7. ¿Cuánto tiempo hace, en horas, que {usted/él/ella} 
+{mismo/mismo/misma} le echó gasolina a un carro o a otro 
+vehículo de motor?   
+Q8. En las últimas 48 horas, ¿usó usted disolventes para 
+lavado en seco, visitó {usted/él/ella} una 
+(limpiaduría/tintorería/lavandería) de lavado en seco o usó ropa 
+que había sido lavada en seco dentro de la última semana?   
+Q9. ¿Cuánto tiempo hace, en horas, que {usted/ella/él} usó 
+disolventes para lavado en seco, visitó una 
+(limpiaduría/tintorería/lavandería) de lavado en seco  o usó ropa 
+que había sido lavada en seco dentro de la última semana?   
+Q10.  ¿Hace cuánto tiempo, en horas, fue que se duchó o se dio

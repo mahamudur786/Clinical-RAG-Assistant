@@ -1,0 +1,10 @@
+bar a nd left- click. D rag the mouse arrow to Print New Container Labels, and left -click. An example 
+of this module can be seen in Exhibit 8- 15. 
+There are three instances when it is appropriate to use this module. At the start of each stand, create one new contai ner label for each vessel ID or “group.” Use the same module to create a new label 
+for a vessel after the last slot in an open container is filled. Use this module to print additional labels 
+at any time.  
+8 -20  Laboratory Procedures 2021  
+Exhibit 8 -15. Print new container labels m odule  
+The
+ Print and Assign Containers and Labels window displays once the “ Print New Container ” 
+module is accessed. The window includes check  boxes to mark or identify specific groups, new

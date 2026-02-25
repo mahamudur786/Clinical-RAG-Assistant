@@ -1,0 +1,9 @@
+and left -click. After results are saved, they are erased from the screen.  To exit without saving the 
+result to the database, direct the mouse arrow to the Cancel button and left -click. 
+A warning text box displays if the Close button is selected before the results have been saved.  
+I
+f the Close button is selected before the results are saved to the database, a warning message text 
+box displays that states, “ WARNING *  You have not saved the data in the ‘ Result ’ window” and 
+asks, “Do you want to save the data before exiting? ” To record a “ Yes” response, direct the mouse 
+arrow to the Yes button and left- click, type [Y], or press Enter. To record a “ No” response, direct 
+the mouse arrow to the No button and left- click, or type [N]. To cancel the acti on, direct the mouse

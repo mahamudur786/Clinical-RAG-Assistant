@@ -1,0 +1,8 @@
+7. Blood Processing  
+7.1 Introduction  
+The purpose of NHANES blood processing is to (1) allocate whole blood into vessels for storage 
+and transport to laboratories across the United States for analysis , (2) allocate serum or plasma into 
+vessels for storage and transport to laboratories across the United States for analysis , and (3) allocate 
+washed packed cells for storage and transport to CDC laboratories for analysis. Serum and plasm a 
+samples are store d long- term for future studies.  
+Blood processing includes centrifuging and storing blood collection tubes; aliquoting whole blood

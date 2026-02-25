@@ -1,0 +1,11 @@
+Data collection tool/ form
+The data of each individual should be collected in a standard data collection form/ 
+tool. These forms should be designed speciﬁ  cally for investigation to describe cases and potential risk factors depending on the type of infection. The tool should be administered only by a trained investigator  or team involved in the outbreak investigation.
+6. Examine descriptive epidemiological features of cases 
+Descriptive epidemiology is a very important part of the investigation since it drives all the investigation efforts and includes the following details:
+128
+Who is at risk?
+x Describes data by person, place and time
+x Characterizes the outbreak
+x Identiﬁ  es the population at risk
+x Provides clues about the agent, source or mode of transmission

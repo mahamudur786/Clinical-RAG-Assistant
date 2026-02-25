@@ -1,0 +1,18 @@
+Exhibit 8-42 illustrates the container protocol . Use the container protocol as an aid at the start of 
+each stand when opening new containers . 
+Exhibit 8 -42. Container protocol  
+2021 Final container protocol  
+Lab Vessel  Test Lab Vessel  Container  
+61 1 Lea d/Cad/HG/Se/Mn  CBR 2 mL sterile 
+cryovial  9x9 two -inch box  
+61 5 Merc ury, Ethyl , and Methyl  CBR 2 mL sterile 
+cryovial  9x9 two -inch box  
+125 235 BChe  CBR 2 mL sterile 
+cryovial  9x9 two -inch box  
+54 3 RBC Folate  CBR 2 mL cryovial  9x9 two-inch box  
+10 4 Glycohem  University of 
+Missouri  4 mL EDTA 
+tube  5x5 five -inch 
+foam box  
+60 88 Acryl onitrile  CBR 2 mL cryovial  9x9 two -inch box  
+54 221 RBC Folate Forms (all)  CBR 2 mL cryovial  9x9 two -inch box

@@ -1,0 +1,11 @@
+6-11  Laboratory Procedures 2021   
+• Coulter Latron CP- X control (store at 2 –30°C) is recommended for the verification of 
+the system calibration status of the VCSn parameters. Coulter Latron CP -X control 
+checks the alignment  of the laser and the flow cell on the DxH 800. 
+– Perform daily checks prior to running Latron control. 
+– Gently mix Latron CP -X control by inversion five to eight times. Avoid foaming. 
+– Run the controls in the cassette presentation on the instrument. 
+• Coulter S- CAL® Calibrator is traceable to reference methods and recommended for 
+determining adjustment factors to ensure accurate SPM measurements of directly 
+measured CBC parameters. Calibrator results should be monitored with Coulter 6C cell 
+control.

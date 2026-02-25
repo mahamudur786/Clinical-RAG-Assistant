@@ -1,0 +1,16 @@
+coordinator if the application is not in standalone mode. 
+*Close  This option is grayed out and not applicable.  
+*Print  Prints the current examination screen or report.  
+*Delete  This option is  grayed out and not applicable.  
+*Exit Exits the application.  
+    2-3  Laboratory Procedures 2021  
+  
+2.4.2  Utilities Menu Options  
+    2-4  Laboratory Procedures 2021  
+  
+ *Utilities  
+*Exam Pause  This option is grayed out and not applicable.  
+*Observation  Submits an observation to the physician /clinician  for possible referral.  
+IC Exclusions  This option is grayed out in the l aboratory application and is not applicable.  
+Posts an exclusion record for those SPs who do not want HIV or STD tests 
+performed, or samples stored for future research; this utility is available only

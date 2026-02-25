@@ -1,0 +1,8 @@
+air conditioner. 
+x Solar heat gain must be minimized through proper use of sunshades or 
+external shading. 
+x Outdoor shaded waiting areas must be used to the greatest extent possible.
+x Where augmentation of ventilation is required, the use of air supply fans may 
+help improve thermal comfort, compared to exhaust fans. 
+x The use of evaporative coolers (“desert coolers”) may be an effective solution 
+to achieve both comfort and adequate ventilation, as these tend to have powerful fans. Proper maintenance, however, is essential. An online tool for estimating the total fan rating for a given room can be found at http://www.csgnetwork.com/airexchangecalc.html. This reference is provided for convenience, and is not an endorsement of the site.

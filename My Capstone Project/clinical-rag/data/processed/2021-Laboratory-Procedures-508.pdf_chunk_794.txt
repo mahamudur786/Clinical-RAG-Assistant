@@ -1,0 +1,10 @@
+within NHANES. The linearity of the instrument is evaluated at least once a year.  
+In addition to these systems, NHANES uses calibration materials at the beginning of each stand to 
+standardize the three Beckman Coulter DxH  800 instruments and to provide additional objective 
+evaluation of the quality of specimen analysis. S -CAL® is a calibration material as defined by CLIA 
+(i.e., “a solution, which has a known amount of analyte or has a value determined by repetitive 
+testing  using a reference or definitive test method ”) that is useful for monitoring method 
+performance.  
+9.6.5 Internal ( “Bench”) QC  
+C omplete Blood Count  
+The goal of internal QC is to provide a rapid feedback to the analyst on the performance of the

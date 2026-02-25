@@ -1,0 +1,8 @@
+suites, laboratories and individual rooms for patients with TB.
+Filtration devices perform poorly in high-dust conditions, as the effectiveness in 
+terms of equivalent air exchange can diminish rapidly. Attention should be given to the equivalent air exchanges per hour that the ﬁ  lter requires. If ﬁ  lters are chosen, 
+only true-HEPA membrane ﬁ  lters (rated to remove 99.97% of 1-micron particles) 
+should be entertained. 
+Other ﬁ  ltration mechanisms, such as ionizers, have not been adequately studied.
+The use of single rooms with HEPA ﬁ  ltration may reduce the risk of HAI by airborne 
+fungi, in particular Aspergillus  spp. This is particularly important where renovation,

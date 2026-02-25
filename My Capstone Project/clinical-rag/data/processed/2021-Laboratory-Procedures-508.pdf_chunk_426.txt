@@ -1,0 +1,12 @@
+that you can shut down the system. The printer is connected to the back -up power supply. Shut 
+down the SM as follows:  
+• S
+hut down the operating system by using the routine Windows application. 
+• Power off the computer. Powering off the computer also powers off the monitor. You 
+do not need to power off the monitor separately. The computer does not need to be 
+shut down on a routine basis. Power off the computer only when circumstances deem it 
+necess ary. 
+6.8.1  Daily Shutdown  
+Beckman Coulter recommends that the SPM remain in cleaner for at least 30 minutes every 
+24 hours. If the SPM has power and is in Shutdown but the pneumatics are  off, automatic cycling 
+occurs every 24 hours to prevent flow cell and sample line clogging.

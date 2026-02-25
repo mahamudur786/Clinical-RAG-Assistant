@@ -1,0 +1,7 @@
+The data manager can answer any questions about accessing, saving, and printing this document. 
+10.8 Power Loss and Laboratory Operations 
+Three scenarios may occur if power is lost to the MEC. Scenario 1 occurs when power is lost during an exam session and there is no backup generator. Scenario 2 occurs when power is lost when the MEC is not conducting a session. Scenario 3 occurs when power is lost but there is a backup 
+generator available. Procedures to address each scenario are described in detail.  
+10.8 .1 Scenario 1 —Power Loss D uring Ex am Session W ith No Backup 
+Generator  
+If a power loss occurs during a MEC session, action must be taken to either continue processing the blood or preserve the integrity of the processed specimens. The phlebotomist should not draw

@@ -1,0 +1,12 @@
+Not
+e: If there is an interface problem with the database and the Coulter application, t he 
+Hematology module does not need to be open before running SP samples on the DxH 800. The 
+SP’s CBC results can be transmitted to the data base at a later time after the interfaces between the 
+database and the DxH 800 are restored.  
+Urine Scale  
+Ensure that computer workstation 1 (Urine/Sink) is turned on and a technician is logged in to the 
+laboratory application. Open the Urine Scale applica tion by double- clicking on the Urine Scale icon 
+on the desktop. The Urine Scale icon looks like this: 
+    2-23  Laboratory Procedures 2021  
+  
+The Urine Scale application icon will appear in the system tray, similar to the Coulter application.
