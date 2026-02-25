@@ -1,0 +1,9 @@
+10-18  Laboratory Procedures 2021   
+• Do not purchase items listed on the inventory sheets. Every item listed on the inventory 
+sheet is supplied by the NHANES Warehouse. Purchasing items locally complicates  the 
+Inventory Management System  (IMS)  proc ess. 
+• Do not borrow items from other components.  Any additional inventory needed by a 
+component should be requested from the NHANES Warehouse. Inventory usage is 
+tracked by component. The “Counted By tech ID” is entered into the database to track inconsistencies and trends. Everyone is accountable for their  component counts. 
+10.3.2 End-of-Stand Inventory Procedures  
+The End of Stand Inventory Count Sheet (EOSCS) includes the stand number, s ite ID (MEC

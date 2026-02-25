@@ -1,0 +1,16 @@
+the Precision column), save the results to the database.  To save the result to the database, direct the 
+mouse arrow to the Save button and left -click. After results are saved, they are erased from the 
+screen. To exit without saving the result to the database, direct the mouse arrow to the Close button 
+and left -click.  
+If after four runs precision limits are still not met for any parameter, a comment is automatically 
+attached to the results.  Do not run a spe cimen more than four times. 
+   
+ 6-76  Laboratory Procedures 2021   
+   
+ 6-77  Laboratory Procedures 2021   
+5. Attaching comments to the results  
+Enter a comment for any run where results were repeated and confirmed, the equipment failed, or 
+there was a laboratory error.  
+   
+ 6-78  Laboratory Procedures 2021   
+T

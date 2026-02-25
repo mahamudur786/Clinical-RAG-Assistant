@@ -1,0 +1,7 @@
+The internal (“bench”) QC reflects the performance of persons performing the method. 
+If out-of-control conditi ons occur with a frequency more than twice the expected 
+statistical probability (e.g., 95% control limits would normally be exceeded by 5% of the analytical runs), the technical supervisor and laboratory director will assess whether the 
+unacceptable perfor mance is due to the performance of the technologist or other 
+factors (e.g., failing equipment). If the personnel performance is the cause, the technical supervisor and laboratory director determine and implement appropriate remedial 
+action (e.g., training).  
+• A review of all remedial action since the last audit to assess the effectiveness of

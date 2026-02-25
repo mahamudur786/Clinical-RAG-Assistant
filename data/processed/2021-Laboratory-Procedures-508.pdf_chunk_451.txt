@@ -1,0 +1,13 @@
+match the package insert, then rerun the control. 
+– Ensure that the Latron control is not contaminated, is  properly mixed, is not 
+expired, and you have a sufficient volume of sample. 
+   
+ 6-23  Laboratory Procedures 2021   
+– If necessary, use a new vial of control.  Be sure to mix it according to the 
+directions listed above. 
+– Ensure that the flow cell is clear by performing the flush flow cell procedure. 
+– Rerun the control. If the control is still outside the expected ranges, call Beckman 
+Coulter. 
+– Document action taken in the Comment tab on the Coulter screen of Latron Control and in the Troubleshooting Log. 
+– Check the Exclude box on any Latron results that are out of range.  
+6.11.7  Viewing Control Files – Data View (Menu>QA>QC)

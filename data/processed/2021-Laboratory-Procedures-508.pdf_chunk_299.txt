@@ -1,0 +1,7 @@
+4-8  Laboratory Procedures 2021   
+The Application Estimates  that 1 g of Urine is E qual to 1 m L of Urine and R ecords the 
+Weight of the Urine in Whole Numbers Following Standard Rounding Procedures.  The 
+application will automatically assign the comment code “quantity not sufficient” ( QNS) for all urine 
+collections that are calculated to be QNS. The application uses the total collected volume and 
+compares it to the total required volume to determine the QNS status. The laboratory technologist may also manually assign a QNS status to all  samples that are deemed QNS during the verification 
+process.

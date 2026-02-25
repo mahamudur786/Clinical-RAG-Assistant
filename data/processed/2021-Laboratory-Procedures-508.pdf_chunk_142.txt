@@ -1,0 +1,8 @@
+venipuncture protocols. These protocols indicate the types and numbers of tubes in priority order 
+for each age group and person type. The Venipuncture Protocol chart  that is  located in the 
+phlebotomy room and the laboratory also illustrates this information  and is updated as the protocols 
+change . It is extremely important to perform the venipuncture protocol as described for each SP. 
+Document any comments to describe differences between the actual tubes  drawn and the 
+established protocol (i.e., alternative protocol or missed tubes). After the results of the blood draw 
+are entered, labels automatically print for the blood tubes. The phlebotomist immediately labels 
+collected tubes  in the presence of the SP and places them through the pass-through window to the

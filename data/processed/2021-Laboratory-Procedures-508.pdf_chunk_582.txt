@@ -1,0 +1,25 @@
+118 Thyroid Panel  3-5 1.0 Serum  7 mL red 2 mL  
+239 Sex Steroid 
+Hormone Panel  3-5 0.6 Serum  7 mL red 2 mL  
+17 Cotinine  3-5 0.8 Serum  7 mL red 2 mL  
+32 Extra Sera1  3-5 0.5 Serum  7 mL red 2 mL  
+33 Extra Sera2  3-5 0.5 Serum  7 mL red 2 mL  
+7-2  Laboratory Procedures 2021  
+Exhibit 7-3. Blood processing protocol for primary SPs aged 6 -11 years  
+ID Test name  Ages Sample  
+(mL) Sample type  C
+ollection 
+type Vessel  
+type Remarks  
+1 Lead/Cad/HG / 
+Se/Mn  6-11  0.4 Whole blood  4 mL and  
+6 mL EDTA  
+(blue)  2 mL 
+sterile   
+5 Mercury , Ethyl , and 
+Methyl  6-11  0.5 Whole blood  6 mL EDTA 
+(blue)  2 mL 
+sterile   
+235 BChe  6-11  1 Whole blood  6 mL EDTA (blue)  2 mL  
+3 RBC Folate  6-11  0.1 Whole blood  6 mL EDTA (blue)  2 mL Dilute with 1 mL AA 
+1%

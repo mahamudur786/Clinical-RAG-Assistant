@@ -1,0 +1,8 @@
+What is a care bundle?
+A care bundle identiﬁ  es a set of key interventions deriving from evidence-based 
+guidelines that, when implemented, are expected to improve health outcomes of patients. The aim of care bundles is to improve health outcomes by facilitating and promoting changes in patient care and encouraging compliance to guidelines.
+75–77 
+Implementation of care bundles creates an important opportunity for delivering 
+evidence-based and safe healthcare to patients using a multimodal or multidisciplinary approach. Training of staff is one of the most important components of a care bundle for prevention of HAI. 
+Care bundles for prevention of device-associated infections are:x Ventilator-associated pneumonia (VAP) bundle
+x Central line-associated bloodstream infection bundle

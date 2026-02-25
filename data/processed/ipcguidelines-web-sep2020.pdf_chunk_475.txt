@@ -1,0 +1,12 @@
+Safety equipment
+Biosafety cabinets or safety centrifuge cups must be used to minimize aerosol hazards.
+99
+Biosafety cabinets
+These are to be used when performing procedures with high potential for producing infectious aerosols. These include:
+x Open-fronted Class I and Class II biosafety cabinets are primary barriers 
+that offer signiﬁ  cant levels of protection to laboratory personnel and to the 
+environment when used with good microbiological techniques. 
+x The Class II biological safety cabinet also provides protection from external 
+contamination of the materials (e.g. cell cultures, microbiological stocks) being manipulated inside the cabinet. 
+x The gas-tight Class III biological safety cabinet provides the highest attainable 
+level of protection to personnel and the environment.

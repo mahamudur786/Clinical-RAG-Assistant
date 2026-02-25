@@ -1,0 +1,8 @@
+calibration references and to apply any necessary correction factors. The calibration procedure uses 
+replicate measurements of S -CAL calibrator. The S -CAL di vides the average result into the 
+calibrator Assigned Value to give an Adjustment Factor. Then it obtains and adjusts an instrument reading according to the Adjustment Factor. 
+The S -CAL is used to calibrate the DxH 800 at the beginning of each stand (once every 6 -8 weeks), 
+after replacing any component dealing with dilution preparation, if the Beckman Coulter 
+representative suggests it, if controls demonstrate unusual trends or are outside limits, or when the 
+temperature varies by more than 10 °F (5.5°C) from the room temperature during the last 
+calibration.

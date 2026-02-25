@@ -1,0 +1,10 @@
+• Operating manual with measuring protocol and CE conformity assurance document; 
+and 
+• Lithium polymer battery.  
+ Inserting the Battery  
+Charge the battery in the pipette. Make sure the battery is plugg ed in on the Xplorer pipettes. The 
+battery should be charged by using the charging stand with the original power unit. A new battery 
+does not attain its full capacity until several complete charging/discharging cycles have been 
+completed. 
+For charging purposes, place the pipette in the charging stand. During the charging process a 
+flashing rechargeable battery will flash in the display. The display is switched on during the charging process to monitor the flashing rechargeable battery. During charging, the dispensing function is

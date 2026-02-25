@@ -1,0 +1,10 @@
+VERIFY WITH THE CHIEF CLINICAL LABORATORY SCIENTIST  THAT IT IS OK 
+TO PROCEED WITH THE FOLLOWING INSTRUCTIONS.  
+• Delete the database from the previous  stand – Menu >Worklist>Custom>Advanced 
+Search>Insert>Specimen>Analysis Date/Time>Between> Start Date/Time  (Enter 
+MM/DD/YYYY & 24 HR hh:mm:ss that is at least 3 months prior to the current date ) and 
+End Date/Time  (Enter MM/DD/YYYY & 24 HR hh:mm:ss that is 1 day before the current 
+Setup date)> Select OK >Select Save As (Create a Filter Name – Stand  #: the stand you 
+are getting ready to begin )>Search >Delete Order >Select  All Test Orders in Current 
+Filter >Select  OK>Warning Box Will Appear, Select OK . 
+• Delete previously used 6C cell c ontrol f iles – Menu> QA>QC>More Options> QC

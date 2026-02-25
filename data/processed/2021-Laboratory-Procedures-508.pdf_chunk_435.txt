@@ -1,0 +1,12 @@
+may at some time be asked to access thi s screen when on the phone with a Beckman 
+Coulter r epresentative.  
+• Prime the SPM.  
+• Prime provides a method to remove cleaner in case an error occurred during a 
+shutdown cycle. 
+• Select the Prime button at the bottom of the Daily Checks screen to prime the SPM.  
+• A DxH 800 dialog box will display the following message : “You have requested to 
+perform a Prime Cycle .” 
+• Select OK to continue or Cancel. 
+6.11 Quality Control  
+• Quality control is the routine monitoring of performance and service using commercial or patient controls. 
+• Controls have known characteristics when run on a given system and are analyzed periodically in the same manner that patient specimens are analyzed.

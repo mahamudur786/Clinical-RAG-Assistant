@@ -1,0 +1,11 @@
+on the desktop. The Urine Scale icon looks like this: 
+Th
+e Urine Scale application icon will appear in the system tray, similar to the Coulter application.  
+This application captures data from the scale and logs it into the database.  The Urine Scale 
+application must be opened and in the system tray to capture any urine collection readings from  the 
+scale.  
+If
+ the LED reads “ MT Green, ” the scale is in sleep mode. Touching the scale pan, placing a urine 
+container on the scale pan, or clicking on the scale icon will bring the scale to a ready state.  
+To obtain accurate weighing results, the ba lance must be calibrated to match the gravitational 
+acceleration at its location. Calibration is necessary before the balance is used for the first time and

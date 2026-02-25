@@ -1,0 +1,10 @@
+types of items during each inventory. A consumable item  is any thing that is typically consumed during 
+an examination  (e.g., Vacutainer tubes) . A non -consumable item  is one that can be used more than once 
+   
+ 10-21  Laboratory Procedures 2021   
+(e.g., stopwatches, test tube racks, safety glasses, storage boxes) . There are times when non -
+consumable items wil l need to be replaced. These instances would include items that are used in an 
+emergency, when the item expires, or when the item breaks (e.g., clinician  medical kit supplies, 
+stopwatches, thermometers, CPR masks).  
+10.3.6 Shipping Inventory Back to the War ehouse  
+When shipping inventory back to the warehouse, print the Transfer Inventory to Warehouse Sheet,

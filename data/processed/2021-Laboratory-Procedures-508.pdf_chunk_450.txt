@@ -1,0 +1,12 @@
+was not a statistical outlier.  
+– Ensure that  the control material was not contaminated by running another vial or 
+level of control. 
+– Ensure that there are no errors during the cycle.  If necessary, call Beckman 
+Coulter for help in resolution. 
+– Exclude the results on any out-of-range control by checking the Exclude box 
+when reviewing that control. 
+– Document action taken in the comment tab on the Coulter screen of affected control and the Troubleshooting Log. 
+• When Latron QC is out: 
+– Ensure that the control setup information (assigned values and expected ranges) matches the package insert.  If it does  not, change the control information to 
+match the package insert, then rerun the control. 
+– Ensure that the Latron control is not contaminated, is  properly mixed, is not

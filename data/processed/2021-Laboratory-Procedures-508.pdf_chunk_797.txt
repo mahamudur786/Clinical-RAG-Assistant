@@ -1,0 +1,9 @@
+SPs are processed),  at 1:30 pm, and at the end of each day (either 6:30 pm or 9:30 pm depending on 
+the schedule) to monitor the precision of the instrument following procedures described in Chapter 
+6. Successful performance of the Coulter QC is documented in the Start of Session QC tab in the Quality Control section of ISIS and on the Coulter 6C Cell Control Open Vial Stability Log. 
+   
+ 9-13  Laboratory Procedures 2021  
+  
+Standard electronic Levey -Jennings QC charts are maintained for this internal QC specimen. A 
+separate QC chart should be maintained for each QC material used for this internal QC specimen. 
+Standard criteria for run rejection based on statistical probabilities are used to declare a run either in -

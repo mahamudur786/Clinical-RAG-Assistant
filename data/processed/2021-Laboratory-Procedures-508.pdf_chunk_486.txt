@@ -1,0 +1,9 @@
+characteristics different from conventional light sources.  
+The safe use of the laser depends upon familiarity with the instrument and the properties of 
+coherent, intense beams of light. The beam can cause eye damage and instrument damage.  There is 
+enough power from the laser to ignite substances placed in the beam path, even at some distance. The beam might also c ause damage if contacted indirectly from reflective surfaces (specular 
+reflection).  The laser on the DxH 800 is covered by a protective housing. 
+   
+ 6-41  Laboratory Procedures 2021   
+6.15 Calibration  of the DxH 800  
+The S-CAL calibrator kit determines the adjustment factors for the calibration of the Coulter DxH

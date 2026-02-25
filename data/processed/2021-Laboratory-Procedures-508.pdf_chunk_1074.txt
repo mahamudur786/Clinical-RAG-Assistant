@@ -1,0 +1,11 @@
+2. Aliquot 3 mL of urine into each of the two #45 vessels using a large plastic transfer 
+pipette.  
+3. Enter the results of urine processing for the original SP ID and again for the sample ID.  
+After filling the urine specimen vessels for each dry run volunteer, use the Urine Processing module 
+to enter the urine processing status results as described in Chapter 4. 
+The urine-processing clinical laboratory scientist  performs the pregnancy test on female dry run 
+volunteers who require one, and documents the results following the procedures described in 
+Chapter 5. 
+11.5 Dry Run Hematology 
+The clinical laboratory scientist  at Workstation 3 runs two CBCs, in duplicate, for each dry run 
+volunteer from the 4 mL EDTA tubes.  Run the first CBC in duplicate on the first 4 mL EDTA tube

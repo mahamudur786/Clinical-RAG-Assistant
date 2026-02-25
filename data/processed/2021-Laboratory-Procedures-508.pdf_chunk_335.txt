@@ -1,0 +1,14 @@
+Exhibit  4-7. Comment codes  
+Comment code  Use when  
+Awaiting SP sam ple At the end of the session  block  if the SP hasn ’t provided another 
+urine sample.  
+Contamination, foreign matter  The urine sample is contaminated with any materials, such as toilet 
+paper or stool. 
+Contamination, urine container fell in toilet  The urine container fell in the toilet during or after collection.  
+Laboratory error  A technologist makes an inadvertent error when processing.  
+Quantity not sufficient  The amount of urine received in the laboratory is insufficient to fill 
+this vessel.  
+Cont
+inue recording and updating urine collection results as specimens are delivered to the 
+laboratory. Review the information in the urine-processing window and save the data to the 
+database.

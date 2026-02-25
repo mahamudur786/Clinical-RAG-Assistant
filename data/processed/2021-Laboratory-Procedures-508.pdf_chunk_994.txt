@@ -1,0 +1,9 @@
+1.2 Operating Guidelines  
+The intent herein is to present general operational guidelines that will aid in the use of the LFBSC to control airborne contaminants of low to moderate risk as stated in Technical Report No. FPS 56500000001 prepared by Dow Chemical U.S.A. for the National Cancer Institute, May 1, 1972.  
+Procedure protocols defined in terms of the barrier or control concepts unique to LFBSC must be 
+developed to obtain a maximum potential for safety and protection. The pre-planning necessary to 
+develop these protocols is based on several fundamental considerations, each of which will contribute to optimum benefits from the equipment: 
+• Know your “ safe working area.” 
+• Minimize disruption of “ air curtain .” 
+• Minimize room activity . 
+• Use unidirectional airflow.

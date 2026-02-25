@@ -1,0 +1,6 @@
+The 6C cell control is a hematology reference control used to monitor the performance of 
+instruments with complete CBC and VCS differential technology. The 6C cell control consists of stabilized human blood, so that repeated measurements to monitor daily performance of the instrument system are possible. The 6C cell control t ri-pack contains three levels; when used with 
+Beckman Coulter ’s DxH diluent, DxH Lyse Reagent, DxH Diff Pack, they serve as a check on the 
+accuracy of dilution, WBC counts, RBC counts, platelet counts, hemoglobin determinations, and differential counts. 
+The assigned staff members run all three levels at the beginning  of each work day (8:30 am before 
+SPs are processed),  at 1:30 pm, and at the end of each day (either 6:30 pm or 9:30 pm depending on

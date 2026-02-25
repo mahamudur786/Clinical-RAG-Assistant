@@ -1,0 +1,13 @@
+– Check the Exclude box on any Latron results that are out of range.  
+6.11.7  Viewing Control Files – Data View (Menu>QA>QC)  
+• To view control files on the Quality Control (Data View) screen , select the QC Status 
+icon at the top of any screen. 
+• T
+he Quality Control ( Data View ) screen displays the most recently analyzed c ontrol lot 
+with the most recently analyzed run selected by default.  
+• If controls have not been reviewed, a dialog box displays a list of them . 
+• Out of control data as well as the date and time  are displayed in red text. 
+   
+ 6-24  Laboratory Procedures 2021   
+• The Quality Control (D ata V iew) screen  includes summary data, configuration data, a 
+filter section, QC run data, run status, and one thumbnail Levy-Jennings graph for the

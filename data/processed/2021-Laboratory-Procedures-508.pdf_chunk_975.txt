@@ -1,0 +1,15 @@
+number on the display. 
+ Disabling Alarm  
+• Push the black button on the left side of the Temperature Guard for MEC 1 and 
+MEC  3 to see any alarm conditions. For MEC 2, the black button is on the top of the 
+Temperature Guard unit. 
+• Hold the button for 5 seconds to confirm the alarm condition. 
+• Alarm conditions must be confirmed individually. 
+• The alarm relay will de -energize, and the Temperature Guard will stop making callouts 
+for the current alarm condition. 
+ Start of Stand Setup  
+The (FES) will p rogram the Autodialer functions . See the task list below:  
+Note: The MEC manager phone number needs to be updated at each stand. 
+• Enter the “ Full Access ” PIN (Enter 0000).  
+• From the Program Menu, Select 1 to set telephone numbers. 
+• You will hear “ Select contact .”

@@ -1,0 +1,13 @@
+Specimen processing cannot occur unless labels have been printed in advance. Reprint the labels for 
+all SPs or an individual SP in a session. See Chapter 8 for detailed instructions on the Lab Print Application. 
+    2-22  Laboratory Procedures 2021  
+  
+2.13 Coulter and Urine Scale Icons  
+Coul ter 
+This is the NHANES Coulter® Monitor. I t must be open and running at the start of each session. 
+This icon stores all DxH 800 runs in the ISIS database. Open the icon by double- clicking on the 
+Coulter icon on the desktop. The Coulter icon looks like this: 
+Not
+e the red icon in the lower- left corner of the system tray.  
+Not
+e: If there is an interface problem with the database and the Coulter application, t he

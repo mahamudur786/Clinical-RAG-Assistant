@@ -1,0 +1,14 @@
+mouse arrow to the Close button and le ft-click. 
+Average, evaluate, and rerun specimens that exceed precision limits.  
+   
+ 6-68  Laboratory Procedures 2021   
+A
+verage the two results by using the mouse to direct the mouse arrow to the Average 
+ID#XXXXXX button and left -click. If , at this point, precision limits are exceeded  for any 
+individual parameter, the technologist is prompted to run a control and evaluate it  to determine if all 
+control values fall within the control’ s established range.  
+If any parameter exceeds its precision limit, the Hematology Control Run window displays. 
+   
+ 6-69  Laboratory Procedures 2021   
+T
+he Hematology Control Run window indicates that the “ Samples for SP ID XXXXXX are outside

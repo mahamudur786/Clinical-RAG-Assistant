@@ -1,0 +1,7 @@
+EX=Exited), Appointment Type (P=primary, G=guest, VIP=VIP guest, D=dry run), 
+Gender (M=male, F=female), Age, and Name (last, first.) . 
+The heads-up display provides the Process Status for the following modules: UC (urine collection), 
+U (urine processing), P (pregnancy testing), CBC (complete blood count), B (blood processing), and PC (packed cell or vessels 88, 221, and 222 processing). The SP is ineligible for a module when the 
+process status appears as a dot. The  SP is eligible for a module, but the collection is not complete  
+when the process status is  . The SP is eligible for a module and the collection has been completed 
+when the process status is  . The SP is eligible for a module, and some results have been recorded

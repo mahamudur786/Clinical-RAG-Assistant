@@ -1,0 +1,14 @@
+BD 6  mL Royal Blue Top  4-25 C ° 15-25°C (59 -77°F) 
+Covidien 7mL Red Top  4-25 C ° 15-25°C (59 -77°F) 
+The following ranges have been established for monitoring instrument quality control (Exhibit 9- 9). 
+Exhibit 9- 9. Established ranges for monitoring instrument  quality control  
+Instrument  Manufacturer ’s instrument  
+range or limit  Established range  
+Beckman centrifuge (refrigerated)  <-5 to +30 °C (23 -86°F) 4-8°C (39 -46°F) 
+Beckman centrifuge (room 
+temperature)  -5 to +30 °C (23 -86°F) 15-25°C (62 -86°F) 
+Revco freezer  -30°C (-22°F) Limit  -26 to -34 °C (-15 to -29 °F) 
+Jewett freezer  -20°C (-4°F) Limit  -18 to -23 °C (0 to -10 °F) 
+Jewett refrigerator  2-5°C (35 -41°F) 2-8°C (35 -46°F) 
+LFBSC  0.450  m/s 0.350 -0.550  m/s 
+Phlebotomy refrigerator  None  2-8°C (35 -46°F)

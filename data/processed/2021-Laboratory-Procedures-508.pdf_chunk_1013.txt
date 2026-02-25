@@ -1,0 +1,13 @@
+Mitigation Protocols, for as long as the protocols are applicable, or other cleaning protocols when 
+the COVID protocols are no longer needed. Replace the weigh pan when clean.  
+   
+ 10-49  Laboratory Procedures 2021   
+Always use the clear , acrylic scale cover to protect the scale from damage while not in use. Use the 
+scale cover to protect from drafts when weighing samples.  
+10.4.7 .1 Initial Sca le Interface Setup  
+1. Press and hold the Menu key until the word BASIC appears. 
+A. Press Cal key until display shows INT.FACE . 
+B. Press M enu key (this becomes your enter key) . 
+2. R5232 will appear on display.  
+A. Press Cal key until BAUD shows . Press Menu key.  
+B. Press Cal k ey until 2400 appears then hit Menu key.

@@ -1,0 +1,12 @@
+• The results of Daily Checks display on eight tabbed views:  Summa ry (default view), 
+System, Background, Supplies, CBC, Diff, Retic, and NRBC. 
+• When Daily Checks pass, the Daily Checks icon is neutral. Select the individual tabs to 
+view those results.  
+If any of the Daily Checks do not pass, the following occurs:  
+• The Daily  Checks icon is red. 
+• The problematic result is backlit in red on the Summary tab. 
+• The tab that contains the problematic result has a red indicator. 
+• If there are any failures, you must Review Daily Checks (Event Logs >General t ab) to 
+proceed with further analysis.  
+• The Daily Checks must pass or be reviewed in order to run specimens. 
+• From any tab on the Daily Checks screen, select the Review button on the l ocal

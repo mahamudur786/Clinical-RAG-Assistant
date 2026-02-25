@@ -1,0 +1,21 @@
+6.7.2  DxH 800 Supplies 
+• 3-ml K 2 EDTA BD Hemogard Vacutainer® tube; 
+• 4-ml K2 ED TA BD Hemogard Vacutainer® tube; 
+• Tube rocker; 
+• Bleach, 8 .25 percent  sodium hypochlorite; 
+• Bottled d eionized water ; 
+• Plastic squirt bottle ; 
+• Cotton gauze pads; 
+• Three -hole paper punch; 
+   
+ 6-12  Laboratory Procedures 2021   
+• Notebook; 
+• Flashlight ; 
+• Precision screwdriver set ; and 
+• CD-RW. 
+6.8 Shutdown  of DxH 800 System  
+The DxH 800 SPM, SM , and monitor are connected to an uninterruptible power supply. In the 
+event of a power outage at your facility, the components will continue to operate for a short tim e so 
+that you can shut down the system. The printer is connected to the back -up power supply. Shut 
+down the SM as follows:  
+• S

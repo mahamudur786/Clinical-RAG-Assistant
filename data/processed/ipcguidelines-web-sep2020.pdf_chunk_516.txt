@@ -1,0 +1,13 @@
+Healthcare-associated infections and their surveillance 147
+Calculation of incidence rate
+x Central line days: the denominator is calculated as the number of patients with 
+one or more temporary central lines on each unit under surveillance, each day. Surveillance staff should record the number of patients in the surveillance unit who have at least one central line in place. 
+If a patient has more than one 
+central line in place, itis still counted only as one central line day.  
+x Patient-days: the denominator is calculated as the total number of patients per 
+day in the unit under surveillance. Patient-days should be collected at the same time as central line days. 
+x NICU patient-days: the denominator may be stratiﬁ  ed by categories of birth 
+weight:
+119 
+R <1000 g; 
+R <1001–1500 g;

@@ -1,0 +1,10 @@
+and prevents run initiation unless the door is shut and locked. The door is locked when 
+a run is in progress and can be opened only when the rotor is stopped and the LED 
+(light -emitting diode) next to the DOOR key is lit. If there is a power failure, the door 
+lock can be manually tripped for sample recovery.  
+• A steel barrier surrounds the rotor chamber to provide full operator protection. 
+• A rotor identification system prevents the installed rotor from running above its maximum rated speed. During acceleration the microprocessor checks the magnetic 
+rotor identification. Speed is limited to the maximum safe speed of the i dentified rotor. 
+If the system identifies a rotor different than the one entered by the user, the system 
+   
+ 10-23  Laboratory Procedures 2021

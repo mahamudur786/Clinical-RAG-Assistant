@@ -1,0 +1,44 @@
+Acetaminophen  20  
+Acetone  1,000 
+A
+cetylsalicylic Acid  20  
+Acetoacetic Acid  2,000  
+Ampicillin  20 
+Ascorbic Acid  20  
+Atropine  20  
+Albumin  2,000  
+B-Hydroxybutyrate salt  2,000  
+Benzoylecgonine  10 
+Bilirubin  20  
+Brompheniramine  20 
+Caffeine  20  
+Cannabinol  10 
+Clomiphene  100 
+Cocaine  10 
+Codeine  10 
+Cholesterol  500 
+Creatine 20 
+Dextromethorphan  20 
+DMSO  5 percent  
+EDTA  80 
+Ephedrine  20 
+Ethanol  1 percent  
+Estriol  2 
+Estrone 3 -sulfate  10 
+Gentisic acid  20  
+Glucose  2000  
+Hemoglobin  1,000  
+Heroin  1 
+Ibuprofen  20 
+Methadone  10 
+Methamphetamine 10 
+Methanol  10 percent  
+Morphine  0.6 
+Oxalic acid  40 
+Phenothiazine  20 
+Phenylpropanolamine  20 
+Pregnanediol  2 
+Salicylic acid  20 
+Tetracycline  20 
+Triglycerides  1,200  
+Theophylline  20

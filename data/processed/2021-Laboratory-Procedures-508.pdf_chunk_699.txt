@@ -1,0 +1,8 @@
+6. To display more sessions: A. Click the magnifying glass. 
+B. Select the sessions that you want displayed . 
+Note: The fewer sessions you select, the quicker the filter wi ll work.  
+8.4 Create New Container Labels  
+Store processed vessels in boxes and bags (containers). Print and assign container labels using the 
+Create New Container Labels module. Once a label has been created, the container is designated as “open” in the dat abase; it is available for slot assignments as vessels are marked as filled . 
+At the beginning of each stand, print and assign one new container ID for each vessel using either 
+the Print module or the Shipping module. Print additional labels as needed. Each stand is allocated a

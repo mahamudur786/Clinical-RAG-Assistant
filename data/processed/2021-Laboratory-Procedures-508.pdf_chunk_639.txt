@@ -1,0 +1,9 @@
+serum from the remaining tubes. Reserve it for the storage vessels 32 -37. If the serum is
+lipemic, icteric, or hemolyzed, select either icteric, lipemic, or hemolyzed from the drop -
+down menu in ISIS.
+• If fibrin is observed af ter the first centrifugation, DO NOT record a comment in ISIS
+that fibrin was present in the sample. Use a wooden applicator stick to ream the sample
+and loosen the fibrin. Centrifuge the tube again according to the protocol. If fibrin is
+observed after the second centrifugation, select “ Fibrin Observed ” from the drop -down
+menu in ISIS. Submit a UFO with the SP ID indicating the number of centrifugationsrequired to clear the fibrin. Include the lot number of the tubes in the UFO.
+Vesse ls 236, 110, 138, 237, 99, 241 , 70, 87, 13, 118, 137, 239, 17, 122, 229,

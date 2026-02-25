@@ -1,0 +1,12 @@
+These messages are listed in the Lab Actions area of the Patient Results screen.  
+   
+ 6-39  Laboratory Procedures 2021   
+6.13.4  All Specimens  
+• Misleading results can occur if the s pecimen is not properly collected, stored , or 
+transported. Beckman Coulter recommends that you follow Clinical Laboratory 
+Standards Institute ( CLSI ) or equivalent procedures to ensure proper specimen 
+collection, storage, and transport. Always follow the ma nufacturer’s recommendations 
+when using micro- collection devices for capillary specimen collection.  
+• Misleading results can occur if specimens contain clots. Always use good laboratory 
+practices for inspecting specimens for clots and verifying results.  
+• Misleading results can occur if the specimen is not properly mixed. Always use good

@@ -1,0 +1,12 @@
+• Test result with a footnote attached representing the name and address where the 
+laboratory test was performed;  
+• Units of measurement;  
+• Reference range for each analyte, if available;  
+• Condition of specimens not meeting the laboratory’ s criteria for acceptability; and  
+• Signature of the NHANES medical officer.  
+The laboratory report consists of the following: 
+• Cover letter (first page);  
+• An analysis summary table (second page); and  
+• The name and address where the laboratory test was performed (third page).  
+A corrected laboratory report has the same format, except the words “ corrected laboratory results” 
+replace the words “laboratory results” in the letter and title of the pages. In addition, in the text of

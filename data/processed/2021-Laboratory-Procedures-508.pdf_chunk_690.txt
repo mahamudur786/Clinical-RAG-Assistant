@@ -1,0 +1,13 @@
+current date, plus 2 days, and the Cancel button takes you back to the main printing screen. 
+8 -8 Laboratory Procedures 2021  
+Exhibit 8 -4. Filter o ptions  
+8.3.4  Print Key  
+The print key (represented by the printer icon) brings up another menu that allows the user to select 
+different print options and view print details. See Exhibit 8- 5. 
+8 -9 Laboratory Procedures 2021  
+Exhibit 8 -5. Print details  
+8.3.5 Print Options:  Print Labels  
+Labels can be printed using three options: All, Reprinted, or Needs Printing. Exhibit 8- 6 shows an 
+example of where to find these three options. 
+All Vessel Labels  
+• Print laboratory vessel labels for all modules for an SP or for all SPs in a session. All

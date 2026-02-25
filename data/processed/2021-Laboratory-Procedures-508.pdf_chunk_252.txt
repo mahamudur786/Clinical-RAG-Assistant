@@ -1,0 +1,12 @@
+phlebotomy  to have their arm band barcode  scanned and coded. If 
+the SP refuses after starting the blood draw, the phlebotomist  codes 
+the exam  as a refusal . Use this comment to code partial exams when 
+the SP r efuses after one tube has been drawn, or the blood flow stops 
+after one tube but before all tubes have been successfully drawn.  
+No time  Not applicable.  
+Physical limitation  Not applicable.  
+Communication problem  Not applicable.  
+Equipment failure  Not appl icable.  
+SP ill/emergency  Not applicable.  
+Interrupted  Not applicable.  
+Error (technician/software/supply)  Use this comment to code Partial and Not Done exams when there are phlebotomist errors, or software or supply issues.

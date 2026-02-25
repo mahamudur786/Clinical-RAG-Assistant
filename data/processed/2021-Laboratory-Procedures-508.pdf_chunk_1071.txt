@@ -1,0 +1,7 @@
+the sample ID and the types of tests for which the dry run volunteer is eligible. Dry run volunteers 
+with an SP ID and sample ID ending in either an odd or even digit are eligible for urine collection and processing, CBC, blood processing, and the pregnancy tes t (if female ). The urine and blood 
+protocols constitute a limited subset of the primary SP’ s test protocol. Each test has the same age 
+and gender restrictions as a primary SP.  Notice that only one urine collection result and one 
+pregnancy test is  required for each dry run volunteer whether or not the SP ID and Sample ID end 
+in an odd or even digit. 
+Collect  at least  6 mL urine from all dry run volunteers. The MEC coordinator will instruct each

@@ -1,0 +1,14 @@
+Th
+e venipuncture status is complete if all tubes were collected.  
+Comment codes ar e used to explain Partial and Not Done status codes. 
+   
+ 3-52 Laboratory Procedures 2021   
+Choos
+e and enter the appropriate comment code when the venipuncture section status is Partial or 
+Not Done. To record a comment in the Comments text box, direct the mouse arrow to the scroll 
+arrow on the drop- down list, left -click, drag the mouse arrow to the desired choice, and left -click. 
+Use the scroll bar to view all choices. Alternatively, use the up and down keyboard arrows to scroll 
+through the choices or type the first letter of the desired comment code. 
+Exhibit 3-9 presents the comment codes for partial or not done venipuncture. 
+   
+ 3-53 Laboratory Procedures 2021

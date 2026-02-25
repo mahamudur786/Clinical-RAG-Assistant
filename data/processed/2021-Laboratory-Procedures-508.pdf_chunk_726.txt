@@ -1,0 +1,12 @@
+two-part Form ID 0215. This barcode is located on the lower lef t side toward the 
+bottom of the form. Hold the gun in the right hand, squeeze the trigger, and move the gun up and down to adjust the laser light so that it covers the width of the barcode . 
+Once the gun successfully scans the barcode , an audible beep is emitted . 
+• Use the keyboard keys to type the airbill number from either the FedEx Ship Manager 
+airbill or the FedEx airbill F orm ID 0215.  
+To assign a container to the corresponding airbill: 
+• Set the Status filter to: “ NOT assigned ”; and 
+• Set the Frequency to: weekly, non -weekly, or both, depending on the shipping situation. 
+Set the Status and Frequency filters.  
+8 -40  Laboratory Procedures 2021  
+Exhibit 8 -35. Assign containers to shippers (3) 
+T

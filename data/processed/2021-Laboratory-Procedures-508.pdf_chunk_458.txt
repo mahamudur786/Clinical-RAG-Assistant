@@ -1,0 +1,9 @@
+and is greater than the Systematic Error limit, the Delta Diff will be highlighted in 
+yellow for that parameter if N>=2 and N<15 or in red if N>=15.  
+If the parameter’s target is not applicable, N/A displays in this field.  
+Mean  The calculated mean of the included points within the specified filter.  
+25D The calculated SD of the included points within the specified filter.  
+Percent CV The calculated Coefficient of Variation of the included points within the specified filter.  
+Note:  If the Extended  QC is enabled and Extended QC limits have been configured 
+and the CV value is greater than the Random Error limit, the Percent  CV will be 
+highlighted in yellow for that parameter if N>=2 and N<15, or in red if N>=15.

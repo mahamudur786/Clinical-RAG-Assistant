@@ -1,0 +1,10 @@
+• The point cursor on the thumbnail graphs is synchronized with the selected run within the data grid and the point cursor in the expanded graph. 
+• If you select a thumbnail graph, it will be displayed in the expanded graph section on the lower half of the screen.  
+• Any thumbnail graph’s border displays red if it contains a QC Out point. 
+– Once all runs in a graph are reviewed, its border will return to normal color, but the QC Out point will remain red in the graph. 
+– If the results violate the extended QC Single Measurement Error, the poi nt will 
+be yellow.  
+   
+ 6-32  Laboratory Procedures 2021   
+• The expanded Levey -Jennings graph at the bottom of the Quality Control (Graph 
+View) screen displays all of the results for a selected parameter in the control file.

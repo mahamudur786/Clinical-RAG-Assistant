@@ -1,0 +1,9 @@
+Other, specify  If the above reason for a status code of Not Done is not explained by one of the comment codes, the examiner must choose Other, specify 
+and record a comment in the text field.  
+No suitable vein  Use this comment to code exams as Not Done (no tubes drawn) when 
+the SP does not have an accessible vein, any arms available, casts on 
+both arms, there is a rash over the entire area, or the blood draw was 
+started but there was no blood in the tubing. 
+Vein collapsed  Use this comment to code exams as Partial when one or more tubes 
+are successfully drawn but blood flow stops before all tubes are 
+drawn or when the vein collapses.

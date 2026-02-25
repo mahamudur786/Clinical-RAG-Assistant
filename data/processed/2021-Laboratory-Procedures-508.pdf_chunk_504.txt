@@ -1,0 +1,14 @@
+of each session. This icon stores all DxH 800 runs in the ISIS database. Double-click on the Coulter 
+icon so that it displays in the lower-right taskbar. Once the icon is displayed, the Coulter and the 
+ISIS Laboratory application are communicating with each other.  
+6.16 Run Study Participant  Samples  
+Exhibit 6-10 presents a picture of blood tubes. 
+Exhibit 6 -10. Picture of tubes  
+• Plac
+e tube in the cassette and place in the SPM . 
+   
+ 6-48  Laboratory Procedures 2021   
+• Run all samples in duplicate. The DxH is set to automatically rerun SP samples in 
+duplicate, but not controls. 
+To set DxH 800 for automatic repeat of each SP sample, use the  following sequence of 
+steps: Menu >Set-up> Flagging/Rules >Rules >Select decision rule workbench tab (upper

@@ -1,0 +1,9 @@
+Risk Group 3  (high individual risk, low community risk): A pathogen that usually causes 
+serious human or animal disease but does not ordinarily spread from one infected individual to another. Effective treatment and preventive measures are available.
+Risk Group 4  (high individual and community risk): A pathogen that usually causes 
+serious human or animal disease and that can be readily transmitted from one individual to another, directly or indirectly. Effective treatment and preventive measures are not usually available.Annex 12: Classiﬁ  cation of infective microorganisms by 
+risk group
+ Annexes 237
+Annex 13: Forms for surveillance of HAI*
+(Adapted from NHSN by ICMR-AIIMS HAI surveillance network)
+13.1. Denominator data collection forms

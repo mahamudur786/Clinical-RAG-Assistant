@@ -1,0 +1,10 @@
+x The system for RA-RM needs to be divided into individual functional, structural 
+and operational components.
+x The hypothetical frequency of occurrence of a given event needs to be semi-
+quantiﬁ  ed, e.g. unlikely, extremely rare, infrequent, frequent or imminent.
+x Semi-quantiﬁ  cation of the magnitude of impact of a given event needs to be 
+done, e.g. mild, moderate, severe or catastrophic.
+x The scales used in the semi-quantiﬁ  cation of the frequency of occurrence and 
+magnitude of impact are arbitrary and generally are 3-point or 5-point scales.
+x The annual IPC implementation plan of an HCF should be based on the 
+30 National Guidelines for Infection Prevention and Control in Healthcare Facilities

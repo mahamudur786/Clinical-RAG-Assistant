@@ -1,0 +1,25 @@
+sterile   
+3 RBC Folate  1-2 0.1 Whole blood  3 mL EDTA  2 mL Dilute with 
+1 mL AA 
+1% 
+236 COVID Serology  1-2 0.6 Serum  7 mL red 2 mL   
+110 Folate  1-2 0.7 Serum  7 mL red 2 mL Dilute with  
+0.05 mL AA 
+7%  
+138 Cytomegalovirus (CMV)  1-2 0.4 Serum  7 mL red 2 mL  
+237 EVD68  1-2 0.2 Serum  7 mL red 2 mL  
+99 Ferritin/Transferrin 
+Receptor  1-2 0.5 Serum  7 mL red 2 mL  
+70 VID 1-2 0.5 Serum  7 mL red  2 mL   
+87 Hepatitis ab  2 0.3 Serum  7 mL red 2 mL Ages 2-5 
+only 
+13 CRP 1-2 0.3 Serum  7 mL red 2 mL  
+Exhibit 7-2. Blood processing protocol for primary SPs aged 3- 5 years  
+ID Test name  Ages Sample  
+(mL) Sa mple type  Collection 
+type Vessel  
+type Remarks  
+1 Lead/Cad/HG/  
+Se/Mn  3-5 0.4 Whole blood  3 mL EDTA  2 mL 
+sterile   
+5 Mercury, Ethyl, and

@@ -1,0 +1,13 @@
+6-83  Laboratory Procedures 2021   
+To
+ clear all downloads from the SP Data section, direct the mouse arrow to any  row in  the SP Data 
+section and right- click to display the alternative data manipulation choices. To select “ Clear All 
+Downloads,” drag the mouse arrow to the Clear All Downloads  choice and left -click. 
+Release the mouse button to clear all downloads. 
+   
+ 6-84  Laboratory Procedures 2021   
+A
+ll data in the SP Data section are  erased , but any averaged result remains in the Results section of 
+the window. To clear the result section, close the Hematology module. To close the Hematology 
+module, direct the mouse arrow to the Close button and left -click. 
+Use the data manipulation functions to erase or delete one SP’ s data in the SP Data section.

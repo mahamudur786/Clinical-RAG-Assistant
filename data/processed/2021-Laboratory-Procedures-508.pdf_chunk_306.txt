@@ -1,0 +1,12 @@
+blood, record the “blood/clot contamination” comment for both sufficient and QNS urine 
+collections .  
+   
+ 4-14  Laboratory Procedures 2021   
+The
+ “blood/clot contamination” comment should supersede the “quantity not sufficient” com ment 
+code when blood is present in a QNS specimen. To record a comment, direct the mouse arrow to 
+the drop- down list, click to display the comment codes, and select  “blood/clot contamination” from 
+the drop-down list. Alternatively, use the up and down keyb oard arrows to scroll through the 
+choices or type the first letter of the desired comment code and left -click when the correct choice is 
+highlighted. 
+Record a comment for all insufficient urine collections. The laboratory application will automatically

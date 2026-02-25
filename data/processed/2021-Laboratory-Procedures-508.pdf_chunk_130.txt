@@ -1,0 +1,18 @@
+scanned in, the sample ID will be displayed in green.  
+    2-13  Laboratory Procedures 2021  
+  
+I
+f incorrect vessel is scanned , the following will happen: 
+• The sample # will be highlighted in blue; this allows the user to rescan the correct vessel 
+without deleting the incorrect #.  
+• A pop-up box will be displayed, indicating the correct contents of that slot. 
+    2-14  Laboratory Procedures 2021  
+  
+T
+he following screenshot shows a vessel that requir es a red cap insert and a vessel that is incorrectly 
+scanned in side-by-side. The red cap insert is identified with a red outline around the box of the 
+vessel, whereas the incorrect specimen number is highlighted in blue with red shading underneath. 
+    2-15  Laboratory Procedures 2021  
+  
+If
+ you encounter an empty slot:

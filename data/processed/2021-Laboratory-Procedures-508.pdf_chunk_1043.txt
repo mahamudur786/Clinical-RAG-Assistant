@@ -1,0 +1,13 @@
+10-65  Laboratory Procedures 2021   
+Exhibit 10 -16. Quality Control Application  
+T
+o record an activity as Complete  or Done, use the mouse to direct the mouse arrow to the check 
+box in the Done column, and left- click to insert a checkmark. Press Tab or Enter to move to the 
+Result text box.  
+Enter the response or reading in the Result text box as shown in E xhibit 10- 17. 
+Exhibit 10 -17. Data e ntry in the Quality Control Application  
+   
+ 10-66  Laboratory Procedures 2021   
+Enter “ Yes” or “ No” for text respon ses; whole numbers for RPM measurements, minutes, and 
+seconds for timer readings; three decimals for w.g.; and whole negative and positive numbers for 
+thermometer readings in the Result text box. Press Tab or Enter to move to the Comment text box.

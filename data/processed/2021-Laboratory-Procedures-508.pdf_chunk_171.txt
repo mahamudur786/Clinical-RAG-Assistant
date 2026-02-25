@@ -1,0 +1,12 @@
+text exactly  as written (verbatim) and record the responses.
+The pesticide use questions are: 
+1. In the past 7 days , were any chemical products used in {your/their } home to control 
+fleas, roaches, ants, term ites, or other insects? The responses for this question are: 
+“Yes,” “No,” “Refused,” or “Don’t Know.” 
+2. In the past 7 days , were any chemical products used in {your/their } lawn or garden to 
+kill weeds?  The responses for this question are: “ Yes,” “No,” “Refused,” or “ Don’t 
+Know.” If the SP does not have a lawn or garden, code the response as “ No.” 
+   
+ 3-13 Laboratory Procedures 2021   
+3.7.1  Pregnancy Shared Exclusion Question  
+For female SPs aged 12 -59 years, the shared exclusion pregnancy questions are enabled and are

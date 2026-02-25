@@ -1,0 +1,17 @@
+– Data: Barcode  delete “ Click me ” or “ 0000001” and type in proficiency sample 
+number, i.e., FH6 -01; 
+– Align: Center ; 
+– Size: Medium ; and 
+– Show barcode text : Below . 
+   
+ 6-56  Laboratory Procedures 2021   
+• Print: Will print on D ymo label maker . 
+• Repeat for all five  samples . 
+• Exit out and select “ No” to “do you want to save?” 
+To auto print results for profi ciency samples:  
+• Select Menu >Set Up >Reporting>Auto Report. 
+• Check  box “Print Lab Report as Each Analysis is Complete.” 
+• Back out of setup. 
+• BE SURE to uncheck box after you have finished running samples  and printing results. 
+Run proficiency samples in cassette ( samples will be run twice under current setup and each result 
+will print separately ).

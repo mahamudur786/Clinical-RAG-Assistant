@@ -1,0 +1,10 @@
+When all results are acceptable, the Edit System Recommendations  button at the bottom- right 
+corner of the screen is enabled. This button allows the modification of the calibration recommended 
+   
+ 6-47  Laboratory Procedures 2021   
+by the system by selecting or deselecting check boxes.  Verify the calibration by running controls. 
+Menu >QA>QC>Select Control> Select the control that you want to view >Select OK> Select “Reviewed 
+By” to review controls> Print . 
+Note: Place all printed charts and control inserts into the DxH Logbook. 
+Below is an image of the NHANES Coulter Monitor icon. It must be open and running at the start 
+of each session. This icon stores all DxH 800 runs in the ISIS database. Double-click on the Coulter

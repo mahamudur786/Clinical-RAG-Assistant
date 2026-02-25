@@ -1,0 +1,17 @@
+H  High reference range limit exceeded.  
+  L  Low reference range limit exceeded.  
+   P Partial aspiration detected during sample analysis.  
+   N Non-blood sample detected.  
+   D Delta check triggered.  
+6.13.2  Codes  
+Codes appear in place of results when the s ystem cannot generate results:  
+• Codes are also called non numeric results. 
+• Codes in the following table are shown in order of the placement on screens and 
+printouts, with the highest priority flags at the top within each space. 
+   
+ 6-37  Laboratory Procedures 2021   
+Refer to the following list to interpret DxH codes. 
+= = = = =  Analysis was disabled at the configuration level of the SM  
+(Menu >Setup >System >Analysis ). 
+For example:  
+IF NRBC is temporarily disabled, any results with an NRBC enumeration in the

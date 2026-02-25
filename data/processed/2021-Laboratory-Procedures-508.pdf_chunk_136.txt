@@ -1,0 +1,11 @@
+2.12 Warning and Error Messages  
+Throughout the course of an examination, warning and error messages may appear when an attempt 
+is made to perform an action the program cannot execute or that requires confirmation to continue the action. The message normally appears with statements explainin g the error condition. Complying 
+with the error message statement will normally remedy the error. When required to confirm an 
+action, such as deleting records, be sure the action is necessary because, in most cases, it is 
+irreversible. 
+    2-21  Laboratory Procedures 2021  
+  
+For example, if th e SP ID is incorrect in the SP Logon window, a warning message box displays, 
+indicating the problem and giving remedial instructions. To remove the warning message box, click 
+the OK button.

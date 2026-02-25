@@ -1,0 +1,15 @@
+10. Implement control and prevention measures
+The primary goal is to stop transmission, not necessarily to ﬁ  nd the source. Thus, 
+a variety of control measures should be implemented targeting various possibilities based on initial observations.
+131 A few of the immediate control measures to be 
+implemented are given in Table 7.3.
+Examples of HAI outbreak control measures
+x Reinforcing hand hygiene 
+x Establishing a barrier between infected/ colonized patients and non-infected/ 
+colonized patients 
+x Enhanced cleaning 
+x Review disinfection of environment, equipment 
+x Remove suspected common source(s) 
+Table 7.3.  Immediate control measures for outbreak management
+Type of transmission suspected Suggested action
+Cross-transmission (transmission

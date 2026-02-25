@@ -1,0 +1,12 @@
+11.3 Dry Run Urine Processing and Pregnancy Testing  
+Access the laboratory application and logon using the MEC Logon window. 
+P
+lace urine and pregnancy labels at Workstation 3. Each volunteer has two unique blood processing 
+racks —one with labels containing the SP ID and the second with labels containing the sample ID.  
+Review the laboratory heads-up display. Use the heads-up display to view the modules for which the 
+dry run volunteer is eligible and for the current process status. 
+   
+ 11-4 Laboratory Procedures 2021   
+T
+he heads-up display lists each dry run volunteer twice. Note the difference between the SP ID and 
+the sample ID and the types of tests for which the dry run volunteer is eligible. Dry run volunteers

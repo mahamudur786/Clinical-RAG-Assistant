@@ -1,0 +1,8 @@
+There should be written protocols for cleaning and disinfecting surfaces and equipment 
+in the dialysis unit. Instructions should includethe steps for careful mechanical cleaning before disinfection. For equipment where the manufacturer has provided instructions for disinfection and sterilization, manufacturer’s instructions should be followed.
+Details on cleaning and disinfection of dialysis equipment can be obtained from APIC 
+Guide to the Elimination of Infections in Haemodialysis
+a and CDC Recommendations for 
+prevention of infections among chronic haemodialysis patients.b
+a APIC Guide to the Elimination of Infections in Hemodialysis https://apic.org/wp-content/
+uploads/2019/02/APIC-Hemodialysis.pdf

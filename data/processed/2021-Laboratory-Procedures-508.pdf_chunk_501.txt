@@ -1,0 +1,11 @@
+– Presentation: Cassette ; and  
+– Calibrator Type: BCI . 
+• Select  Uploa d>Scan the S -Cal Insert Barcode> Verify ALL Values >Select OK . 
+• Mix the  S-CAL  by hand by rolling the tube slowly between the palms of the hands 
+eight times in an upright position. Invert the tube and slowly roll it again eight times. 
+Gently invert the tube eight times. Repeat these actions. When all cells are uniformly  
+distributed, place the calibrator in the cassette.  
+• Place the cassette in the input buffer and select  OK to start calibration procedure. 
+• Exclude the first run by checking the box beside that run. 
+• Review the calibration results. 
+• If all the results are within the specified parameters: Print >Select Finish .

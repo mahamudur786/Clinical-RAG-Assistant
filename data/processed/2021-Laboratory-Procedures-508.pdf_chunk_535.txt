@@ -1,0 +1,10 @@
+to average and save only one run.  To save results where only one run is possible, direct the mouse 
+arrow to the Average Selected ID box and left -click. A warning message text box displays that states, 
+“You have downloaded only one (1) run from the Coulter for SPID XXXXXX” and asks, “Do you 
+want to create an average based on a single run? ” To record a “ Yes” response, direct the mouse 
+arrow to the Yes button and left -click or type [Y/y]. To record a “ No” response, direct the mouse 
+arrow to the No button and left- click, or type [N/n], or press Enter. If a “ Yes” response is recorded, 
+   
+ 6-65  Laboratory Procedures 2021   
+the CBC results display in the bottom Results section of the window. A “ No” response cancels the 
+action and returns the window to its previous state.

@@ -1,0 +1,12 @@
+* Adapted from NuAire, Inc., (2005). Operation and Maintenance Manual. Plymouth, MN: Author.  
+   
+ 10-38  Laboratory Procedures 2021   
+Exhibit 10-7. Operating the laminar flow biological safety cabinet  (continued)  
+1.1.4 Outlet Switch  
+This switch provides on/off control for the 115 VAC power available in the outlet(s) within the 
+cabinet work zone.  
+1.1.5 Blower Switch  
+The blower switch applies power to the internal motor/blower when in the ON position. The 
+blower switch also has a second set of poles, which are available for use as a contact closure for an 
+exhaust system. In addition, power can be applied to the accessory outlet located on the upper left 
+corner of the cabinet, behind the front window assembly.

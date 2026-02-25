@@ -1,0 +1,54 @@
+Run
+Initials
+Run
+Initials
+Run
+Initials
+Run
+Initials
+Run
+Initials
+Run
+Initials
+Run
+Initials
+Run
+Initials
+Run
+Initials
+Run
+Initials
+Run
+Initials
+A
+P
+E
+P
+CT
+TTEAM # COULTER SYSTEM IDMEC # STAND LOCATION
+BOX EXP. DATE LOT #STAND #
+BOX OPEN DATE
+Level 2
+Level 3Set # 1 
+Exp. Date:
+Set # 3 
+Open Date:Set # 2 
+Open Date:
+Set # 2 
+Exp. Date:Level 2Level 3*Coulter 6C Cell Control has an open vial stability of 18 events over 16 days     
+Concurrent Lot TestingRUNEVENTS   
+QC Run Completed AM
+Precision CheckSet # 3
+Exp. Date:
+Set # 4 
+Open Date:
+Set # 4 
+Exp. Date:P
+A
+C
+K
+ 
+#4Level 1
+QC Run Completed PM
+QC Run Completed EVE
+Troubleshooting

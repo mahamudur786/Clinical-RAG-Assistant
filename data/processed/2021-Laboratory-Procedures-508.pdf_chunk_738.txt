@@ -1,0 +1,11 @@
+box displays as shown in Exhibit 8- 40. 
+8 -47  Laboratory Procedures 2021  
+Exhibit 8 -40. Informed consent user err or 
+The
+ system tracks each vessel in the Informed Consent Exclusion module to ensure that every 
+vessel is marked as removed. Follow the instructions in the pop-up box: “ Please physically remove 
+these containers and mark them  removed  before proceeding.” To acknow ledge the message, direct 
+the mouse arrow to the OK button and left -click, or type Enter.  
+8.11 Packing Procedure for the Shippers  
+Most of the shipments require dry ice to keep the specimens frozen during shipment. Some 
+shipments require reusable refrigeran t packs to keep specimens cold but not frozen. Store reusable

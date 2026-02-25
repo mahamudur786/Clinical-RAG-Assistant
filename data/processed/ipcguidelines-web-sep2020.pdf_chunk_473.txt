@@ -1,0 +1,8 @@
+Biosafety levels
+Laboratory facilities are designated as Biosafety levels 1 to 4 based on a composite 
+of design features, construction, containment facilities, equipment, practices and operational procedures required for working with agents from various risk groups.
+98
+The principal hazardous characteristics of an agent are: its capability to infect and cause disease in a susceptible human or animal host, its virulence as measured by the severity of disease, and the availability of preventive measures and effective treatments for the disease.
+x Biosafety level 1 (BSL-1) is the basic level of protection and is appropriate for 
+agents that are not known to cause disease in normal, healthy humans.
+x Biosafety level 2 (BSL-2) is appropriate for handling moderate-risk agents that

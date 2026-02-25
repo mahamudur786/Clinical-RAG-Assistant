@@ -1,0 +1,8 @@
+6-71  Laboratory Procedures 2021   
+Ev
+aluate each parameter for error, overlimit, and precision checkmark s, and “H” or “L” action limit, 
+reference range flags, and comment in the above screen . Use the scroll bar to view all results.  When 
+there are checkmark s in any of the Precision columns, meaning that the precision limit was 
+exceeded, rerun the blood sample a third time. If there is insufficient blood to run the CBC again 
+(total of four runs, since the instrument is set to run all samples in duplicate) , delete the run that 
+caused the precision error. Save one run and comment based on a single run. (In the above example, delete the second run for SP 416714 and save the first run.) To save the res ults to the database,

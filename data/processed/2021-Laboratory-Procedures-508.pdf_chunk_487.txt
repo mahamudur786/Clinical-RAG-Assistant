@@ -1,0 +1,10 @@
+6.15 Calibration  of the DxH 800  
+The S-CAL calibrator kit determines the adjustment factors for the calibration of the Coulter DxH 
+800. Calibration is a procedure to standardize the instrument by determining its deviation from calibration references and to apply any necessary correction factors.  Calibration is performed in the 
+close d-vial mode at ambient room temperature range ( 17–25°C, 63–77 °F), using S- CAL as an 
+alternative to whole blood. 
+6.15.1  Perform Calibration  
+• At the start of each stand, before you begin analyzing samples;  
+• After you  replace any component dealing with dilution preparation, such as the BSV 
+primary measurement, such as an aperture; and  
+• If your Beckman Coulter representative suggests that you calibrate.

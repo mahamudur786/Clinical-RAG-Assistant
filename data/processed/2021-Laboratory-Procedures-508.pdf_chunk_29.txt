@@ -1,0 +1,9 @@
+6.16 Run Study Participant Samples ...........................................................  6- 48 
+6.16.1  Review Data and Transmit  ..................................................  6- 49 
+6.16.2  Daily Shutdown .....................................................................  6- 49 
+6.16.3  Prolonged Shutdown ............................................................  6- 49 
+6.16.4  Beginning and End of Stand Operations ..........................  6- 50 
+6.17 Coulter Reportable Range of Results .................................................  6- 51 
+6.18 Integrated Survey Information System  ..............................................  6- 52 
+6.18.1  Record 6C Cell and Latron Lot Numbers in 
+Integrated Survey Information System  ..............................  6- 52

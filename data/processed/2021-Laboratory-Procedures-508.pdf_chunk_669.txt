@@ -1,0 +1,31 @@
+Exhibit 8 -1. Sample  shipping protocol 
+Location Vessels Conditions  Vessel storage  Shipping 
+frequency  
+Wh
+ole b lood 
+CDC/
+NCEH Tobacco and  
+Vo
+latiles Branch  
+Lab 122  VOC Blood  
+Vessel 54  Refrigerated  5 x 5 five -inch box 
+with foam insert  Weekly  
+CBR 
+Lab 6 L ead/Cad/HG /Se/Mn  
+Vessel 1  Frozen  9 x 9 two -inch box  Weekly  
+CBR 
+Lab 6  Mercury , Ethyl and Methyl  
+Vessel 5  Frozen  9 x 9 two -inch box  Weekly  
+CBR 
+Lab 122 BChe  
+Vessel 235  Refrigerated  9 x 9 two -inch box  Weekly  
+CDC PGO/LMB 
+Warehouse Lab 6  
+CBR RBC Folate  
+Vessel 3  Frozen  9 x 9 two-inch box  Weekly  
+University of Missouri 
+Lab 10  Glycohem  
+Vessel 4  Refrigerated  5 x 5 five -inch box 
+with foam insert  Weekly  
+ATCC Bethesda Maryland  
+Lab 123  Genetics

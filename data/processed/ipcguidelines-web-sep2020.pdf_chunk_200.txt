@@ -1,0 +1,9 @@
+Procedures and practices for IPC 47
+4. Prevention of injuries from sharps
+Handling sharps
+Handling sharps (needles, scalpels, etc.) is one of the most hazardous activities 
+carried out by HCWs in the course of their duties. Sharps should be handled with extreme caution to avoid injuries during use, disposal or reprocessing.
+x Used needles must not be recapped by hand; if necessary, use the single hand 
+“scoop” method.
+x Used needles should not be bent or broken after use.
+x Used sharps should be disposed of immediately in designated puncture-proof

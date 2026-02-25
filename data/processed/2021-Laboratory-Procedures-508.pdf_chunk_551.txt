@@ -1,0 +1,13 @@
+exceeded), save the result to the database.  To save the result to the database, direct the mouse arrow 
+to the Save button and left -click. To exi t without saving the result to the database, direct the mouse 
+arrow to the Close button and left -click. If there are any precision checkmark s, run a 6 C cell control, 
+evaluate the control results, rerun the blood tube a third time, re- average, evaluate, and  save the 
+results.  
+Use alternative data manipulation choices as desired.  
+Use the “Clear All Downloads” function to delete all data for all SPs in the SP Data section.  
+   
+ 6-82  Laboratory Procedures 2021   
+   
+ 6-83  Laboratory Procedures 2021   
+To
+ clear all downloads from the SP Data section, direct the mouse arrow to any  row in  the SP Data

@@ -1,0 +1,16 @@
+at least one HAI.
+x In LMICs the frequency of ICU-acquired infection is at least 2–3-fold higher 
+than that in high-income countries; device-associated infection densities are up to 13 times higher than those in the USA. 
+x Similarly, newborns admitted in NICUs are at higher risk of acquiring HAI in 
+developing countries, with infection rates 3 to 20 times higher than those in high-income countries. 
+Patients at risk of HAI
+Patient, therapy and environment-related risk factors for the development of HAI are:
+74
+x Age >70 years
+x Shock, major trauma, acute renal failure, coma
+x Prior antibiotics
+x Mechanical ventilation
+x Indwelling catheters
+x Immunocompromised patients on steroids or chemotherapy
+x Prolonged ICU stay (>3 days) 
+IPC practices

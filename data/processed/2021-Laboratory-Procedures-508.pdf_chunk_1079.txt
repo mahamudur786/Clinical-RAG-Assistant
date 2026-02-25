@@ -1,0 +1,27 @@
+serum (Exhibit 11 -4). 
+   
+ 11-7 Laboratory Procedures 2021   
+Exhibit 11 -4. Dry run blood processing protocol— serum  
+ID Te st name  Groups  Sample (mL) Sample type  Collection type  Vessel type  
+110 F olate1  Even  0.7 Serum  15- and 7 -mL 
+Red 2 mL  
+118 T hyroid Panel  Both  1.0 Serum  15- and 7 -mL 
+Red 2 mL  
+99 Ferritin  Odd 0.4 Serum  15- and 7 -mL 
+Red 2 mL  
+238 AGP/ Ter Odd 0.5 Serum  15- and 7 -mL 
+Red 2 mL  
+70 Vit D  Odd 0.9 Serum  15- and 7 -mL 
+Red 2 mL  
+137 Sex Steroid 
+Hormones  Both  3.5 Serum  15- and 7 -mL 
+Red 5 mL  
+122 Hepatitis Profile  Even  1.0 Serum  15- and 7 -mL 
+Red 2 mL  
+229 Hep C 
+Cond /extra  Even  1.8 Serum  15- and 7 -mL 
+Red 2 mL  
+17 Cotinine  Even  1.8 Serum  15- and 7 -mL 
+Red 2 mL  
+21 Lipids  Both  1.0 Serum  15- and 7 -mL 
+Red 2 mL

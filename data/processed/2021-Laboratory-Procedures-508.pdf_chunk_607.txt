@@ -1,0 +1,13 @@
+period of time. The pipette will automatically switch back on when it is moved.  
+• To set date and time:  
+1. Select Date or Time using the rocker.  
+2. Press the Select softkey.  
+3. Change the value using the rocker.  
+4. Press the Next softkey to c hange the field. 
+5. Press the End softkey to end the entry.  
+6. Change the second parameter in the same manner.  
+7. Press the End softkey to end the entry.  
+7.5.1.2 Principl e of Operation  
+The Xplorer Plus pipette is equipped with various operating modes and a primary mode for 
+configuring the pipette. During operation, the piston in the pipettes is moved according to how the 
+rocker is actuated. When you press the rocker up, the piston in the pipette moves up. Liquid is

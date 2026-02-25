@@ -1,0 +1,11 @@
+steps: Menu >Set-up> Flagging/Rules >Rules >Select decision rule workbench tab (upper 
+right) >Add Rules> Rule name: Type ‘ Repeat ’ at the *> Specimen Type: use drop -down 
+menu and select whole blood> Rule description: Type automatic repeat if  condition 
+RBC<10 >Additional test: Check Rerun box in additional test box> OK. Place analyzer 
+offline >Activate Decision Rules tab (middle center tab) >Activate Rule (lower left).  
+• Run samples in the primary mode.  
+Check to make sure the printer is working properly.  Operate the analyzer with the doors and panels 
+closed. Monitor reagent levels. 
+6.16.1  Review Data and T ransmit  
+• Review the data.  Select Menu >Patient  Results. 
+• Data  from the Coulter D xH 800 are  automatically transmitted to the ISIS system when

@@ -1,0 +1,13 @@
+The clinical laboratory scientist  in Workstation 2 processes whole blood from the 4 and 6 mL 
+EDTA tubes according to the whole blood processing protocol (see Exhibit 11- 3). 
+Exhibit 11 -3. Dry run processing protocol— whole blood 
+ID Test name  Groups  Sample (mL) Sample type  Collection type  Vessel type  
+1 L ead/Cad/HG/Se/Mn  Both  0.4 Whole blood  6 mL EDTA  2 mL 
+3 R BC Folate  Even  0.1 Whole blood  6 mL EDTA  2 mL 
+4 Glycohem  Odd 0.4 Whole blood  4 mL EDTA  2 mL 
+5 Mercury  Both  0.5 Whole blood 6 mL EDTA  2 mL 
+88 Acryl onitrile  Odd 1.6 Packed cells 6 mL EDTA  2 mL 
+221 RBC Folate Forms  Odd 1.1 Packed cells 6 mL EDTA  2 mL 
+222 Fatty Acids Odd 1.6 Packed cells 6 mL EDTA  2 mL 
+235 Acetylcholinesterase  Even  2.0 Whole blood 6 mL EDTA  2 mL 
+Eac

@@ -1,0 +1,14 @@
+by the total number of RBC between 36 and 360 fL. The a nalyzer 
+then multiplies by a calibration factor.  
+• Corrected for WBC interference.  
+• Expressed in fL.  
+ 
+The DxH 800 system includes a Specimen Processing Module (SPM), a Pneumatic Supply Module 
+(PSM), and a system manager (SM), precisely integrated to provide process co ntrol, data 
+consolidation, and cassette or single- tube delivery of specimens.  
+6.3 Components of DxH 800 
+6.3.1  The Specimen Processing Module  
+The SPM is made up of the following functional modules: 
+• Specimen Transport Module (STM ). The STM automatically transports specimens , 
+deliver ing closed -vial and open- vial specimens , which  accommodates  a wide range of 
+specimen tubes. The STM supports the following:

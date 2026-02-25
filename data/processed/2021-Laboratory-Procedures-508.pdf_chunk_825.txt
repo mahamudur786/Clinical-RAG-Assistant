@@ -1,0 +1,5 @@
+methods performed in-house. The documentation of individual analytical procedures included in the 
+LPM specifies acceptable equipment, reagents, materials, and supplies. If special requirements concerning water quality, temperature, humidity, electrical power, or other conditions are required for acceptable method performance, these are described for each procedure in the LPM. Special 
+procedures to monitor these requirements are also included in the documentation of the individual 
+procedure. A lack of requirements in the documentation of the analytical procedure means that the expected day -to-day variation in any of these parameters is acceptable for proper method 
+performance.

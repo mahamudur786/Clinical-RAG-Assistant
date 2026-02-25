@@ -1,0 +1,15 @@
+60
+Factors to be considered for a decision on patient placement are:
+x mode and route of disease transmission;
+x clinical factors
+R e.g. diarrhoea, cough, exudates, broken skin, mental impairment, 
+incontinence
+R immune status of the patient or cohorts
+x room availability;
+x requirement as per public health advisory
+R e.g. pandemic inﬂ  uenza, Ebola and Nipah.
+Placement in protective environment and isolation
+A protective environment with ultra clean unidirectional air may be required for 
+neutropenic patients and in some units such as transplant and oncology according to the level of immunosuppression of the patients.
+61
+To minimize airborne particles, air must be circulated in the room with a velocity of at least 0.25 m/s through a HEPA ﬁ  lter. The HEPA ﬁ  lter removes particles of

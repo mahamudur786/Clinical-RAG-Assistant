@@ -1,0 +1,28 @@
+NHANES  (ARDL) 
+Lab 51  Lipids  
+Vessel 21  Frozen  9 x 9 two -inch box  Weekly  
+University of M issouri   Biochem  
+Vessel 18  Refrigerated  9 x 9 two -inch box  Weekly  
+University of Missouri  
+Lab 10  Insulin  
+Vessel 23  Frozen  9 x 9 two -inch box  Weekly  
+CDC/NCIRD DVD  
+Lab 52  HPV Serum  
+Vessel 77  Frozen  9 x 9 two -inch box  Full or end of stand  
+CDC/NCID AIDS Division  
+Lab 3  HIV 
+Vessel 22  Frozen  9 x 9 two -inch box  Weekly  
+Emory University  
+Lab 9  HSV 
+Vessel 24  Frozen  9 x 9 two -inch box  Weekly  
+CDC/NCEH Tobacco and 
+Volatiles Branch  
+Lab 122 Serum Terpenes  
+Vessel 240  Frozen  9 x 9 two -inch box  Weekly  
+CBR  
+Lab 6  Perfluor1  
+Vessel 90  Frozen  9 x 9 two-inch box  Full or end 
+of stand  
+CBR 
+Lab 6  POP/Dox  
+Vessels 29  Frozen  4x4 five and a half -

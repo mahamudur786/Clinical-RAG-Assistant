@@ -1,0 +1,7 @@
+Agent
+The microorganism capable of causing the infection is known as the infective agent. 
+Infective agents include bacteria, viruses, fungi, protozoa, helminths and prions. The ability of a microorganism to cause infection depends upon its ability to invade, proﬁ ciency in overcoming the host defences, its pathogenicity, degree of virulence, 
+and the infectious dose. Equally important is the agent’s capability to survive in the environment, and its resistance to antimicrobials.
+Reservoir 
+A reservoir is the source of the infectious agent where it lives and multiplies. These can be animate (humans, animals) or inanimate (the environment, contaminated food and water). 
+Human reservoirs can be symptomatic (exhibiting signs and symptoms of the

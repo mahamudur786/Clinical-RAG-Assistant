@@ -1,0 +1,13 @@
+(Menu >Setup >System >Analysis ). 
+For example:  
+IF NRBC is temporarily disabled, any results with an NRBC enumeration in the 
+panel will display = = = = = in place of the NRBC v alues. The = = = = = 
+persists in the database after the analysis has been re -enabled.  
+xxxxx  Although available on a panel, this parameter was not enabled as a T est 
+(Menu >Setup >Reporting> Tests) at the time of analysis; however, after this 
+analysis, the parameter was enabled as a t est. 
+For example:  
+Sample A was analyzed for a CR panel, but the IRF and MRV were not enabled 
+as Tests. 
+Later, IRF and MRV were enabled as T ests; therefore, the system will not display 
+the IRF and MRV parameters for CR panel results but, for Sample A, xxxxx displays in place of a value for those parameters.

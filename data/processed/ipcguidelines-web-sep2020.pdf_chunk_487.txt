@@ -1,0 +1,14 @@
+x For device-related HAIs: total device days of the existing patients in the ward 
+x Reporting and feedback
+Reporting to the HICC and feedback to the wards/ units is essential. This gives:x an estimate of the burden of HAIs in the hospital;
+x comparison between wards and units;
+ Healthcare-associated infections and their surveillance 137
+x the interventions that are needed; and
+x priority for interventions.
+Prevalence surveys should be repeated at speciﬁ  ed intervals for trends and 
+effectiveness of interventions.
+Incidence surveys
+The minimum outcome incidence rates that should be calculated on a continuing basis are SSIs and device-related infections in the ICU.
+Minimum requirements
+x Administrative support 
+x Surveillance coordinator: Infection control physician/ doctor or ICN in

@@ -1,0 +1,11 @@
+10-27  Laboratory Procedures 2021   
+• Turn the power switch on. The control panel display shows “ Allegra X -15R” and the 
+software version.  
+• Press DOOR. The centrifuge will accept this command only when the rotor is at rest 
+and the DOOR LED is lit. The door opens and the LED goes out. 
+• Install the rotor. Ensure that the rotor is seated on the drive hub. Avoid bumping the control panel keys during rotor installation or removal. 
+• Close the chamber door by firmly pressing down on both sides. The door locks. When the latches engage, the LED next to the DOOR  key lights up.   
+Exhibit 1 0-3. Lubrication points  
+1
+0.4.1.3 Cleaning the Rotor  
+Note: Do not wash the rotor components or accessories in a dishwasher. Do not soak components

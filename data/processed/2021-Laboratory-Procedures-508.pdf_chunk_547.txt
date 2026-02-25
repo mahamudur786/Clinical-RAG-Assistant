@@ -1,0 +1,15 @@
+there was a laboratory error.  
+   
+ 6-78  Laboratory Procedures 2021   
+T
+o attach a comment to the results in the database, direct the mouse arrow to the drop-down list on 
+the Comment box, left -click to display the codes, drag the mouse arrow to the most appropriate 
+choice, and left-click. Alternatively, to record a comment, d irect the mouse arrow to the drop-down 
+list on the Comment box, click to display the codes, use the up and down keyboard arrows to scroll 
+through the choices or type the first letter of the desired comment code, and when the correct 
+choice is highlighted, left -click.  
+Exhibit 6-11 presents the comments for the samples and when they are to be used. 
+   
+ 6-79  Laboratory Procedures 2021   
+Exhibit 6 -11. List of comments to be used  
+Comment  Use when

@@ -1,0 +1,18 @@
+in a specific container as processing results are entered. Slots in containers are assigned according to 
+a standard left to right, top to bottom procedure. Store each vessel in the appropriate slot in the correct container immediately after processing.  
+Exhibit 7 -16. Storage pro tocol for blood 
+Shipping location Vessels Conditions  Vessel storage Sh
+ip 
+frequency  
+CBR 1 Lead/Cad/HG/ Se/Mn  Frozen  9 x 9 two-inch box Weekly  
+CBR 5 Mercury, Ethyl , and 
+Methyl  Frozen  9 x 9 two-inch box Weekly  
+CBR 235 Butrylcholinesterase  Refrigerated  9 x 9  two-inch box  Weekly  
+CBR 3 RBC Folate  Frozen  9 x 9 two -inch box  Weekly  
+University of Missouri 4 Glycohem  Refrigerated  5 x 5 five -inch foam 
+box Weekly  
+CBR 
+CBR 
+CBR 88 Acrylamide  
+221 RBC Folate Forms 
+222 Fatty Acids  Frozen

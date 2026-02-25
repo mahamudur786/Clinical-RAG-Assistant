@@ -1,0 +1,10 @@
+x Biosafety level 2 (BSL-2) is appropriate for handling moderate-risk agents that 
+cause human disease of varying severity by ingestion or through percutaneous or mucous membrane exposure.
+x Biosafety level 3 (BSL-3) is appropriate for agents with a known potential for 
+aerosol transmission, for agents that may cause serious and potentially lethal infections and that are indigenous or exotic in origin.
+x Exotic agents that pose a high individual risk of life-threatening disease by 
+infectious aerosols, and for which no treatment is available, are restricted to high containment laboratories that meet biosafety level 4 (BSL-4) standards (Table 6.6).
+Safety equipment
+Biosafety cabinets or safety centrifuge cups must be used to minimize aerosol hazards.
+99
+Biosafety cabinets

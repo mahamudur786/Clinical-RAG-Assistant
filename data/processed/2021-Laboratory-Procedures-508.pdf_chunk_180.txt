@@ -1,0 +1,9 @@
+this procedure.  Explain that we ca nnot perform phlebotomy on participants who 
+have received cancer chemotherapy within the past 4 weeks. If the 
+SP is excluded, the Blood Draw Exclusion box is displayed. Read the 
+script in the box to the SP and escort them back to the coordinator 
+or to the next component as directed by the Message Center.  
+Record the response by typing Y for “ Yes,” N for “ No,” R if they  refuse, or D for “ Don’t know.” 
+Alternatively, move the mouse to the drop-down arrow on the drop- down list, click to display the 
+responses, and drag the mouse arrow to “ Yes,” “No,” “Refused,” or “ Don’t know” and left- click. If 
+the response is “ Yes,” “Refused, ” or “ Don’t know,” direct the mouse arrow to the bright blue right

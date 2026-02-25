@@ -1,0 +1,10 @@
+10.3.2 End-of-Stand Inventory Procedures  
+The End of Stand Inventory Count Sheet (EOSCS) includes the stand number, s ite ID (MEC 
+number), a Counted By line, and Exam Supply columns for item number, general item description, 
+unit designation, par level, and a count box. The MEC M anager prints these EOSCSs for every 
+component. MEC staff is responsible for accurately counting (inventorying) exam supplies 
+and entering this number into the count box.  MEC staff will give the completed sheets back to 
+the MEC M anager who sends them to the warehouse manager. The warehouse manager enters the 
+item counts into the IMS . 
+• Print  only one name in the Counted By field. This is the person responsible for taking 
+and verifying the inventory count. Please write legibly for all counts.

@@ -1,0 +1,6 @@
+Box 2.1. Common organisms causing bloodstream infections
+Escherichia coli, Enterococcus spp.,  Staphylococcus aureus, Klebsiella spp., 
+Salmonella  spp., Candida  spp., Pseudomonas  spp., Corynebacteria  spp., Acinetobacter  
+spp., coagulase-negative Staphylococcus (CNS) 
+Healthcare-associated bloodstream infections 
+Healthcare-associated bloodstream infections are serious infections that

@@ -1,0 +1,10 @@
+Alternatively, move the containers to Styrofoam shippers and distribute the dry ice 
+across the shippers. Do not add dry ice to the freezers. This will cause the freezer to explode.  
+• Leave a no te on the unit indicating the new location of the specimens. 
+• Turn off the affected unit by flipping the corresponding wall switch to the left of the units. 
+10.8 .3 Scenario 3 —Power Loss W ith a Backup Generator  
+If the power loss occurs when the MEC is conducting a session and there is a backup generator 
+available, continue to monitor the temperature of the freezers and refrigerators and assess the 
+situation with the MEC Manager. If the temperature approached the established thresholds , the FES 
+will do the following: 
+• Retrieve the generator from the trailer belly compartment.

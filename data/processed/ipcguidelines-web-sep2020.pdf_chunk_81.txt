@@ -1,0 +1,4 @@
+Healthcare-associated bloodstream infections 
+Healthcare-associated bloodstream infections are serious infections that 
+can be associated with high mortality, which may be more than 50% for some microorganisms. These infections are often associated with intravascular catheters. Infection can occur at the entry site of the catheter or along the subcutaneous tract of the catheter (line), known as tunnel infection. This type of infection is largely dependent on the care taken during insertion and handling of the intravascular catheter. The duration for which catheters are in place is also important. Both central and peripheral lines can be a source of infection.
+(For the deﬁ  nition criteria of catheter-related bloodstream infections, see Chapter 7

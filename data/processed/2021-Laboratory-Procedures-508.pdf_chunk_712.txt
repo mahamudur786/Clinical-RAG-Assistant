@@ -1,0 +1,14 @@
+the system so no more samples can be added to those containers. 
+After the containers are closed, a list will be displayed  (Exhibit 8 -27) of the containers that need 
+labels printed before any specimens can be put into the new containers. 
+8 -32  Laboratory Procedures 2021  
+Exhibit 8 -27. Print labels for closed containers  
+8.6 Trash or Reprint Container Labels 
+If unused container labels become lost or damaged, use the “ Trash Containers” module 
+(Exhibit 8- 28) to delete the container IDs . 
+Exhibit 8 -28. Trash containers  
+T
+o access the “Trash Containers” module, direct the mouse arrow to “Shipping,” left -click, drag the 
+arrow to “Trash Containers,” and left -click.  
+8 -33  Laboratory Procedures 2021  
+The Trash Unuse d Containers window displays as shown in Exhibit 8- 29.

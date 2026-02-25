@@ -1,0 +1,10 @@
+• Access to container verification is located under the shipping tab from the lab’ s 
+heads-up display. 
+• Perform container verification after each session.  
+• Verify the container ID on the box against the container ID listed on the screen and 
+verify each vessel sample ID against its location in the system.  
+• Mark the specimens that have been checked by placing a mark unique to each medical technologist in the center of the vial cap. When subsequently checking the Container 
+Content Verification system for this container, begin checking the first specimen after the unique mark. 
+T
+he container content verification includes the container ID , container size , name of container , 
+vessel ID , vessel name , last filled slot #, vessel p riority number, and the number of unverified

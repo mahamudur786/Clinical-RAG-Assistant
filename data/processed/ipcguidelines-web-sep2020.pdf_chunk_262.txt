@@ -1,0 +1,14 @@
+Airborne precaution room
+Airborne precaution rooms can be naturally ventilated or mechanically ventilated. It is acknowledged that mechanical ventilation is expensive to instal and maintain Fig. 5.2.  Diagram of mechanical ventilated room with optimum directional airﬂ  ow control63
+Exhaust
+ExhaustSupply
+Supply
+ Control of the environment 67
+in precaution rooms, often does not deliver the recommended ventilation rate, and 
+may fail to maintain negative pressure. 
+Recommended speciﬁ  cations and procedures for airborne precaution rooms are:
+1. Room layout 
+x Post signage on the door. 
+x Ensure appropriate hand-washing facilities. 
+x Ensure appropriate room ventilation (>12 ACH). 
+x Ensure directional control of air ﬂ  ow, with air ﬂ  ow entering the room only when

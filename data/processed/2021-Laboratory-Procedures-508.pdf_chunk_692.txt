@@ -1,0 +1,11 @@
+The labels can be printed  grouped by SP, Vessel, Module, or Sample. The Group By option will 
+automatically default to Module. See Exhibit 8- 7. 
+Exhibit 8 -7. Label print group by options  
+8 -12  Laboratory Procedures 2021  
+8.3.7 Print Options:  Module Filter  
+This option allows printing the labels by select ing all modules, a single module, or a combination of 
+modules using the check box in front of the desired module as shown above in Exhibit 8-8. 
+Exhibit 8 -8. Print by module  
+8.3.8 Print Order  
+The print order matches the order the vessels are displayed on the print screen for the entire session. 
+See Exhibit 8- 9. All urine vessels are printed first, which are grouped by SP ID. Do not label the

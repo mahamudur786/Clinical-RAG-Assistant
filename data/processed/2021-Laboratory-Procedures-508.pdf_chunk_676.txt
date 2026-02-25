@@ -1,0 +1,31 @@
+Vessel 48  Frozen  5 x 5 three -inch 
+box Full or end of stand  
+CDC/NCEH Pesticide Laboratory  Lab 6  Organophos  
+Vessel 49  Frozen  5 x 5 three -inch 
+box Full or end of stand  
+CBR 
+Lab 6  Urin Merc /Iodine  
+Vessel 62  Frozen  5 x 5 three -inch 
+box Weekly  
+CBR 
+Lab 6  Metal s 
+Vessel 50  Frozen  9 x 9 three -inch 
+box Weekly  
+CBR 
+Lab 6  Arsenic/Chromium/Nickel  
+Vessel 220  Frozen  5 x 5 five-inch 
+foam box  Weekly  
+CBR 
+Lab 6  PAH 
+Vessel 66  Frozen  9 x 9 two-inch box  Full or end of stand  
+CBR 
+Lab 6  Phthalates  
+Vessel 67  Frozen  5 x 5 two-inch box  Full or end of stand  
+CBR  
+Lab 6  Perchlorate/VOC/Thiocyante  
+Vessel 102  Frozen  9 x 9 two-inch box  Full or e nd 
+of stand  
+CBR 
+Lab 6  TSNA  
+Vessel 156  Frozen  9 x 9 three -inch 
+box Full or end of stand

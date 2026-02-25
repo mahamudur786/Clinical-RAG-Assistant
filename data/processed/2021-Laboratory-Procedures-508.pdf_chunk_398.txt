@@ -1,0 +1,8 @@
+detection of the processed samples. The TTM produced three measurement signals —volume, 
+conductivity, and light scatter.  
+The DxH 800 system replaces the TTM with the Multi -Transducer Module (MTM), which measures 
+additiona l multiple angles of light scatter, a major improvement over the single light scatter measured 
+by the TTM.  All Diff, NRBC, and Retic analysis occurs in the Volume Conductivity and Scatter 
+properties module. The VCSn module is responsible for controlled sample preparation and delivery 
+of the prepared sample to the flow cell for analysis of the WBC differential, reticulocyte , and NRBC. 
+The VCSn module includes the Air Mix and Temperature Control (AMTC) and the MTM.

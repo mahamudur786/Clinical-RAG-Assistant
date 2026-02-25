@@ -1,0 +1,21 @@
+4.7 Urine Specimen Protocols  
+Exhibit 4-4 summarizes the urine processing protocol for primary SPs. Process urine in priority 
+order with vessel 45 filled first, 46 second, etc. 
+Exhibit 4 -4. NHANES urine processing protocol – primary  
+Vessel  
+no. Assay  Age 
+(years ) S
+ample  
+size (mL) Vessel  
+45 Alb/Creat  3+ 1 2 -mL cryovial  
+46 Chlam/Trichomonas/Mgen 14-39 2  5-mL Aptima  
+154 Trichomonas/Mgen  40-59 2 5-mL Aptima  
+86 Spc Arsenic 3+ 2 2-mL  cryovial  
+48 Prior Pest  3+ 4.5 5-mL cryovial  
+49 Organophos  3+ 4.5 5-mL cryovial  
+62 Urin Merc/Iodine  3+ 5 10-mL w/presv  
+50 Metals  3+ 4 5-mL cryovial  
+220 Arsenic/Chromium/Nickel  3+ 4 5-mL Five-O cryovial  
+66 PAH 3+ 1.5 2-mL cryovial  
+67 Phthalates  3+ 1.5 2-mL cryovial  
+102 Perchlorate/Thiocyanate  3+ 2 2-mL cryovial

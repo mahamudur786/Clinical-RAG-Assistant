@@ -1,0 +1,16 @@
+foam box  
+60 88 Acryl onitrile  CBR 2 mL cryovial  9x9 two -inch box  
+54 221 RBC Folate Forms (all)  CBR 2 mL cryovial  9x9 two -inch box  
+54 222 Fatty Acids (all) CBR 2 mL cryovial  9x9 two -inch box  
+60 109 Transfatty Acid  CBR 2 mL cryovial  9x9 two -inch box  
+123 119 Genetics  ATCC Bethesda Maryland  6 mL EDTA 
+tube  5x5 five -inch 
+foam box  
+10 9 Glucose  University of Missouri  2 mL cryovial  9x9 two -inch box  
+4 54 VOC CDC/NCEH Tobacco and 
+Volatiles Branch  7 mL gray tube  5x5 five -inch 
+foam box  
+2 236 COVID-19/SARS -CoV -2 Serology  CDC/NCID Hepatitis Ref Lab  2 mL cryovial  4x4 two-inch box  
+54 110 Folate  CBR 2 mL cryovial  9 x 9 two-inch 
+box 
+116 138 Cytomegalovirus  CDC/NCIRD CMV Diagnostic Lab  2 mL cryovial  9x9 two -inch box

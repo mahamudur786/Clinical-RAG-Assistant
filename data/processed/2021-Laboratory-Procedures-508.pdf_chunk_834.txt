@@ -1,0 +1,11 @@
+or analyzing a sample of persons (n>20) and examining the measurement output 
+searching for interference. The appropriate procedures for verifying analytical specificity 
+will vary by analytical method. Substances that interfere with the analysis in the 
+reportable range are listed in the method procedure. 
+• The reportable range of test results  is described in the documentation of the 
+analytical procedure.  
+• Reference range (normal range) of test results, if available, is described in the documentation of the analytical procedure and on the test report. 
+• Other pertinent performance specifications  that are required for adequate method 
+performance are specified in the documentation of the ana lytical procedure.  
+9.9 Equipment Maintenance and Function Checks  
+9.9.1 Introduction

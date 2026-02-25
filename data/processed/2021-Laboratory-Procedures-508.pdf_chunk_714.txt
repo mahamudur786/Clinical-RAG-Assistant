@@ -1,0 +1,12 @@
+to the OK button and left -click, or select Enter. To exit the Trash Unused Containers module 
+without recording or executing the Trash Containers function, direct the mouse arrow to the Cancel 
+button and left -click. 
+8.6.1 Reprint Container Labels for Existing Containers  
+Reprint labels for existing, not shipped containers. 
+Reprinting Container Labels from the Container Map Screen  
+Right-click on the container ID you wish to reprint, select “Print Container Label .” 
+See Exhibit 8- 30. The label will print to the associated Dymo printer.  
+8 -34  Laboratory Procedures 2021  
+Exhibit 8 -30. Print container label  
+8.7 Shipping Overview  
+The integrity of laboratory specimens is critical to NHANES. Storage temperatures have been
