@@ -1,0 +1,9 @@
+performed, or samples stored for future research; this utility is available only 
+for coordinator, physician /clinician , and phlebotomy. A complete description 
+of this functionality is described in Section 2.5.  
+*Send Message (Ctrl+M)  Opens a dialog box to send messages to the coordinator.  
+*UFO Sighting  Opens the Unusual Field Occurrence utility to document unusual equipment, SP, protocol, trailer, or supply issues.  
+Set Session  Allows the laboratory medical technologist to change the current session in the laboratory application. A complete description of this functionality is 
+described in Section 2.6.  
+English (Ctrl+E)  This option is grayed out in the l aboratory application and is not applicable.  
+Toggle option to set exam language to English.

@@ -1,0 +1,10 @@
+drop-down arrow and left- click, then drag the arrow to the desired choice and left -click. Use the 
+scroll bar to view all the c hoices . See Exhibit 8- 18 for an example.  
+Exhibit 8 -18. Number of container s drop down  
+A
+dd these vessels to the Print and Assign Containers and Labels window or cancel the action. 
+To accept the choices displayed in the Generate Additional Containers window, direct the mouse arrow to the OK button and left- click or type [Enter]. To close the window without creating a new 
+container, direct the mouse arrow to the Cancel button and left -click.  
+If the OK button is selected, the containers are added to the Print and Assign Containers and Labels window. 
+8 -24  Laboratory Procedures 2021  
+Review the information on the screen (Exhibit 8 -19).

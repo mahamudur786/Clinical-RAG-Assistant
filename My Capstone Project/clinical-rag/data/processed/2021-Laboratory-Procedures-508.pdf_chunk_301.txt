@@ -1,0 +1,10 @@
+If the SP has voided <1.0 ml, the laboratory will ask the coordinator for a re-collection of Urine 
+Collection (UC) 1. Do not record any results for this urine instance. Manually enter the urine weight 
+as described below.  Discard  this sample and wait for a new UC 1. An exception is when a female SP 
+requiring a pregnancy test provides <1 ml. In this instance the SP’s UC1 must be entered manually. 
+• On the urine collection screen: 
+– The lowest volume that can be entered in the urine collection screen is 1 mL, so 
+the urine weight will be left blank. 
+– Ente r the collection date and time.  
+– Select “ QNS ” as the status and select the comment, “ <1 mL of Urine. ”  
+– Click the verify button.

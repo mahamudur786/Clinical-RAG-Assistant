@@ -1,0 +1,16 @@
+Clotted The blood is clotted.  
+Not enough blood  There is insufficient blood to perform at  least one complete 
+aspiration.  
+S
+ave the result after attaching a comment.  
+S
+ave the averaged result and update the comment by using the mouse to direct the mouse arrow to 
+the Save button and left -click. To exit without saving any data to the database, direct the mouse 
+arrow to the Close button and left -click. 
+   
+ 6-80  Laboratory Procedures 2021   
+6. Using alternative data manipulation choices  
+Retain data for multiple SPs in the SP Data section of the window.  
+I
+n general, run one SP in duplicate through the Coulter, retrieve the data, average the result, and 
+save the data to the database.  The Hematology module will display data for multiple SPs in the SP

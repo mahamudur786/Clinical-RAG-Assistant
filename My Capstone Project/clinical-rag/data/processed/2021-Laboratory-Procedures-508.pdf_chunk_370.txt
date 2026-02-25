@@ -1,0 +1,14 @@
+clicking when the correct choice is highlighted. Alternatively, use the up and down keyboard arrows 
+to scroll through the choices or type the first letter of the desired comment code. 
+   
+ 5-12  Laboratory Procedures 2021   
+Review the comment.  
+R
+eview all the information in the QC window to verify its accuracy.  
+To
+ add a new QC record and repeat the control for invalid or unexpected results , rerun or repeat 
+the control that demonstrated the unexpected result. Add a new test line to record the new control 
+results. To add a new QC test line, direct the mouse arrow to the Add button and left- click. Record 
+   
+ 5-13  Laboratory Procedures 2021   
+the new results. If this resolves the i nconsistency, direct the mouse arrow to the OK button and

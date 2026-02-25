@@ -1,0 +1,12 @@
+Lab Limits are used, the label below this heading reads “2SD” or “Lab,” respectively.  
+Date/Time  The date and time of the control analysis.  
+Exclude  Allows you  to exclude the results of that run from the control statistics calculations. 
+Reviewed By  Displays one of the following:  
+•If the run has not yet been reviewed: A Click to Review link , which allows you to 
+review the run.  
+•If the run has been reviewed: The reviewer ’s user  name and the review date and 
+time.  
+Presentation  Displays the method of presentation for each run in the control file.  
+•C = Cassette Presentation  
+• S = Single -tube Presentation  
+Comment  A comment icon  displays in this column if any comments have been added.

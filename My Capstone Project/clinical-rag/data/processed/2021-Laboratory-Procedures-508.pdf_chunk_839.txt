@@ -1,0 +1,14 @@
+9-29  Laboratory Procedures 2021  
+  
+Beckman Coulter, Vacutainer, and Sure -Vue have recommended the following storage conditions 
+for reagents and  tubes (Exhibit 9- 8). Quality control temperature ranges have been established based 
+on these recommendations. 
+Exhibit 9- 8. Recommended storage conditions for reagents and tubes  
+Reagent  Manufacturer ’s recommended 
+storage conditions  Established range  
+Coult erDxH Lyse  2-40° C (36 -104° F) 15-25° C (59 -77°F) 
+DxH Diluent  2-40°C (36 -104°F) 15-25°C (59 -77°F) 
+DxH Cleaner  2-25°C (36 -77°F) 15-25°C (59 -77°F) 
+DxH Diff Pack  2-25°C (36 -77°F) 15-25°C (59 -77°F) 
+S-CAL at room temperature  16-32° C (60 -90°F) 15-25° C (59 -77°F) 
+S-CAL at refrigerated temperature  2-8°C (35 -46°F) 2-8°C (36 - 46°F)

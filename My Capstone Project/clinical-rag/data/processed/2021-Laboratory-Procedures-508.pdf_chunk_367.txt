@@ -1,0 +1,14 @@
+the calendar function, direct the mouse arrow to the Cancel button and left- click.  
+   
+ 5-9  Laboratory Procedures 2021   
+T
+o enter a result in the positive  result text box, type [P/p] for Positive, or use the up and down 
+arrow keys to toggle among the three choices: Positive, Negative, and Invalid , and press the Tab 
+key. Alternatively, direct the mouse arrow to the drop -down list; drag the mouse arrow to Pos itive, 
+and left- click.  
+T
+o enter a result in the negative result text box, type [N/n] for Negative  or use the up and down 
+arrow keys to toggle among the three choices: Positive, Negative, and Invalid and press the Tab 
+   
+ 5-10  Laboratory Procedures 2021   
+key. Alternatively, direct the mouse arrow to the drop-down list; drag the mouse arrow to Negative,

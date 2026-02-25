@@ -1,0 +1,13 @@
+Programming – SD Extras  
+Step 1  Follow steps 1-4 in the 12 and Up procedure.  
+Step 2  You will be prompted to name the program. Use the rocker to select the character and the 
+“Next ” softkey to advance to the next space. Name this program “Extras. ” 
+Step 3  Follow steps 6-16 in the “12 and Up” programming instructions using the following steps and 
+volumes:  
+•8 steps  
+•0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5 mL 
+Step 4  Set the selection dial to “ Program ” after all editing is complete.  
+7.5.1.4 Mode of Operation  – Pipetting for 5- 100 µL, 50-1,000 µL, and  0.2-5 mL 
+Pipettes 
+If the display of the Xplorer Plus is dark, activate the pipette by pressing  the toggle switch (up and 
+down button). If the pipette has not been used for a long period, a motor reset is executed after it

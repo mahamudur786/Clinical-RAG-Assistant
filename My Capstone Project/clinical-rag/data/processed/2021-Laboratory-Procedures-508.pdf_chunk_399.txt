@@ -1,0 +1,10 @@
+The VCSn module includes the Air Mix and Temperature Control (AMTC) and the MTM. 
+In the flow cell, low -frequency direct curre nt measures volume, while high-frequency (RF) current 
+senses cellular internal content through measuring changes in conductivity. 
+   
+ 6-3 Laboratory Procedures 2021   
+The MTM u ses a flow cell to pass particles through a sensing zone, one particle at a time , and a 
+diode laser to illuminate the particles.  The illuminated particles both scatter and absorb a portion of 
+the incident light. Sensors strategically placed around the flow cell collect the scattered light of 
+interest.  An additional sensor placed in the laser path measures the amount of light removed due to 
+light scatter and absorption. This measurement is called a xial light l oss.

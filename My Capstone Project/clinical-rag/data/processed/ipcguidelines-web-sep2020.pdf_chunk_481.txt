@@ -1,0 +1,9 @@
+x Clinical/patient-based surveillance.  This involves counting of HAIs, 
+assessing risk factors, and monitoring patient care procedures and practices 7. Healthcare-associated infections and 
+their surveillance
+ Healthcare-associated infections and their surveillance 135
+for adherence to the principles of IPC. This also requires ward rounds and 
+discussion with caregivers.
+x Laboratory-based surveillance.  This surveillance is based solely on the 
+ﬁ ndings of laboratory studies of clinical specimens. The microbiology laboratory 
+also carries out studies on patterns of AMR for common isolates and new or emerging pathogens and patterns of resistance. This information is reported to the HICC and various clinical units of the HCF.

@@ -1,0 +1,7 @@
+• All results are generated based on results stored in the database. The IS IS system 
+prohibits the MEC technologist from changing data in the database after the SP has checked out of the MEC or if the MEC Report of Findings has been printed. All 
+subsequent copies of results should match the original results. If any result is ever 
+changed in the database, a back -end editing request system form is submitted, tracked, 
+and maintained by ISIS. 
+• A comprehensive security system guards against unauthorized access. A complete description of this system is maintained by and available through NCHS.  
+The basic mechanism for the QAP is the quality audit. The quality audit is conducted by the

@@ -1,0 +1,14 @@
+Verification of Urine Collection  
+To verify a urine sample, locate the correct  SP ID and Name  on the Lab Subsystem display; the row 
+will have a blue UC circle . The blue color indicates that there is a urine sample in the laboratory 
+ready to be verified by the laboratory technician.  
+1. S
+elect an SP with a blue UC circle and access the Urine Collection module.  Right -click 
+on the blue circle under the UC column on the heads-up screen to a ccess the Urine 
+Collection module. 
+2. Left-click on “Urine Collection” on the module pop-up menu. The Urine Collection 
+Verification screen will open.  
+   
+ 4-6  Laboratory Procedures 2021   
+The urine collection verification window displays an upper and lower section. The top of the urine 
+collection window contains:

@@ -1,0 +1,9 @@
+Calibration and calibration verification are specified in the documentation of the Calibration of the 
+DXH 800 section  in Chapter 6. 
+   
+ 9-18  Laboratory Procedures 2021  
+  
+9.6.8 Proficiency Testing  
+Participation in the College of American Pathologists (CAP) proficiency testing (PT) program is part 
+of the comprehensive quality control program. Each MEC submits results for CAP specimens when scheduled for evaluation. CAP compares the results to established values and issues a report. A schedule of which MEC is receiving each survey is disseminated at the beginning of each year.  
+The laboratory will satisfactorily participate in the HCFA -approved PT program for each method

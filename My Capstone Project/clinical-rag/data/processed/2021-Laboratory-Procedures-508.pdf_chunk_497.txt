@@ -1,0 +1,10 @@
+6-45  Laboratory Procedures 2021   
+Help Menu of the  Unicel DxH 800 Help Manual for additional informati on regarding repeatability 
+limits for acceptability ( Table 1 -1 and Table  1-7). 
+6.15.6  Carryover  
+Supply l ist: One 3 -ml EDTA tube filled with normal blood and three  empty 3-ml EDTA tubes.  
+Note: Remove S -CAL from refrigerator to allow time to acclimate to room temperature . Before you 
+can start or restart the c arryover process, the SPM  must be offline. 
+• Fill three  empty  3-ml Vacutainer EDTA  tubes with diluent.  Select  Single -Tube 
+Presentation icon>Dispense Diluent >Select  OK. Place one empty capped EDTA tube 
+in the purple tube holder on the left side of the cradle; 1 m l of diluent is dispensed during this

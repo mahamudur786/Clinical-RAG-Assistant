@@ -1,0 +1,14 @@
+x Other routes of infection, resulting from laboratory manipulations (parenteral, 
+airborne, ingestion);
+x Stability of the agent in the environment;
+x Concentration of the agent and volume of concentrated material to be 
+manipulated;
+x Prevalence of particular infections in the local community;
+x Information available from animal studies and reports of laboratory-acquired 
+infections or clinical reports;
+x Laboratory activity planned (sonication, aerosolization, centrifugation, etc.);
+x Likelihood of infection occurring (including during normal work and in the event 
+of an accident);
+x Risks to laboratory staff and others such as visitors, cleaners, maintenance 
+staff, contractors;
+x Competency of laboratory staff in handling the pathogen, whether the staff is

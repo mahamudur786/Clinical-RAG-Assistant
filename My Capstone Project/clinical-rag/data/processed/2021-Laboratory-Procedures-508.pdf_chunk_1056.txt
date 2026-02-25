@@ -1,0 +1,7 @@
+Freezers and Refrigerators  
+Overview.  All three MECs have the Temperature Guard system installed. This system monitors the 
+room temperature and the internal temperature of the refrigerators and freezers in the MEC 
+laboratory. When the system detects a significant increase in the temperatures, it begins calling 
+designated staff. The MEC M anagers and facilities and equipment specialists ( FESs) have been 
+identified as those individuals responsible for responding to the call by typing in the response code. The temperature increase could be confined to one freezer or refrigerator, to multiple units, or all 
+units. The temperature increase could be due to any number of circumstances such a s a loss of

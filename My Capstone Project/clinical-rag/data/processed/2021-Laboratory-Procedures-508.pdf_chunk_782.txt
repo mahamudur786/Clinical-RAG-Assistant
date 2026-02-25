@@ -1,0 +1,4 @@
+are those that affect the reproducibility of the measurement. These include instability of the instrumentation; variations in the temperature; variations in reagents and calibrators; handling techniques such as pipetting, mixing, and timing; and operators. Terms used to describe random error include precision, imprecision, reproducibility, and repeatability. 
+Systematic error describes the error that is consistently  low or high, as evidenced by a change in the 
+mean of a control value. The change in the mean may be gradual and demonstrated by a trend in the 
+control values, either above or below the mean. A trend may be caused by the accumulation of debris in tubing or reagent, aging of reagents, gradual deterioration of the control material, or

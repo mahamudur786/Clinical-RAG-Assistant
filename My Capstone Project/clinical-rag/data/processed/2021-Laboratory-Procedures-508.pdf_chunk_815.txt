@@ -1,0 +1,8 @@
+difference will be calculated as absolute (x1 -x2)/mean (x1,x2). An example calculation of the percent 
+difference is the following: WBC: MEC 1=3.1 and MEC 2 =3.2. The percent d ifference is 
+|3.1- 3.2|/((3.1+3.2/2)) = 0.1/3.15 or 3.2 percent. The absolute difference will be calculated as 
+absolute (x1-x2). An example calculation of the absolute difference is the following: Eosinophil %: MEC 1=6.4 and MEC 2=6.7. The absolute difference is |6.4- 6.7| = 0.3. The percent difference and 
+absolute difference criteria were derived from bench quality contro ls for the DxH 800 from 
+January -May 2013 or from the Beckman Coulter DxH 800 imprecision data from the Beckman 
+Coulter Hematology Performance Verification Manual.  The following criteria (Exhibit 9- 7) will be 
+used:

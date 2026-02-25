@@ -1,0 +1,12 @@
+Healthcare-associated infections and their surveillance 161
+and current map of the health facility with patient ﬂ  ow mechanisms. If this is not 
+available it may be necessary to prepare such a map for the health facility/ inpatient wards or ICU.
+Calculating the attack rates
+These data allow the calculation of an attack rate, deﬁ  ned by:
+x The number of people who are infected divided by the total number of people 
+at risk; and
+x The attack rate can also be calculated stratiﬁ  ed by relevant characteristics 
+such as sex, age, location or speciﬁ  c exposure (ventilation, catheterization, 
+OTs and occupational exposure).
+Descriptive analysis results
+At the end of descriptive analysis, it should be possible to:

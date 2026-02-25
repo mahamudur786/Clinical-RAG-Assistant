@@ -1,0 +1,16 @@
+Mono%  25 NA 
+Mono#  35 NA 
+Eos%  NA 1.0 
+Eos #  NA 1.0 
+Baso % NA 1.0 
+Baso#  NA 1.0 
+nRBC%  NA 1.0 
+nRBC#  NA 1.0 
+9.6.9 Calibration Verification  
+Calibration verification is defined by CLIA as “ the assaying of calibration materials in the same 
+manner as survey participant specimens to confirm that the calibration of the instrument, kit, or test 
+system has remained stable throughout the laboratory’ s reportable range for survey participant test 
+results. ” Thus, calibration verification ensures that the accuracy of the measurement process across 
+the reportable range is ma intained over time. For methods approved by the FDA, calibration 
+verification is performed according to the manufacturer’ s specification and at the frequency 
+recommended by the manufacturer.

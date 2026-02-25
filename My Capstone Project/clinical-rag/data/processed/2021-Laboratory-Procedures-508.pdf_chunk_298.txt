@@ -1,0 +1,10 @@
+sufficient. ” A QNS result immediately notifies the coordinator to prompt for an additional urine 
+collection. A second instance of urine collection for the first QNS sample or a third instance of 
+urine collection for the second QNS sample will appear below the current sample for SPs aged 
+6 years or older. For SPs aged 3- 5 years, if the first instance of urine collection is QNS, a second 
+instance will appear.  If the quantity of urine collection does meet the requirement of the urine 
+protocol, the system will automatically select “ Yes” and no additional collections will appear. 
+Evaluate the quantity of urine received in the laborat ory. 
+   
+ 4-8  Laboratory Procedures 2021   
+The Application Estimates  that 1 g of Urine is E qual to 1 m L of Urine and R ecords the

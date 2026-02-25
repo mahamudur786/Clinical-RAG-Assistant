@@ -1,0 +1,7 @@
+Airborne transmission
+Airborne dissemination may occur via particles containing infectious agents that 
+remain suspended in air over time and distance. Small-particle aerosols (<5 microns) are created during breathing, talking, coughing or sneezing and secondarily by evaporation of larger droplets in conditions of low humidity. 
+Certain procedures, particularly those that induce coughing, can promote airborne 
+transmission. These include diagnostic sputum induction, bronchoscopy, airway suctioning, endotracheal intubation, positive pressure ventilation via facemask and high-frequency oscillatory ventilation. 
+14 National Guidelines for Infection Prevention and Control in Healthcare Facilities
+Aerosols containing infectious agents can be dispersed over long distances by air

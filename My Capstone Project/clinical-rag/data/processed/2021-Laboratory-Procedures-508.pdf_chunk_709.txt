@@ -1,0 +1,12 @@
+8 -27  Laboratory Procedures 2021  
+When a container is full, an opportunity to open a new container is automatically displayed on the 
+Print and Assign Container and Labels window (Exhibit 8 -22). Repeat the process of marking the 
+check  box and selecting the Print button. 
+Exhibit 8 -22. Print l abels  – Full c ontainer  
+8 -28  Laboratory Procedures 2021  
+8.5 Close Containers 
+Use the shipping module with the laboratory application to close containers (Exhibit 8- 23). 
+Exhibit 8 -23. Close containers navigation  
+T
+o access the {Close Containers} module, direct the mouse arrow to {Shipping} in the menu bar 
+and left- click. D rag the mouse arrow to {Close Containers} and left -click.

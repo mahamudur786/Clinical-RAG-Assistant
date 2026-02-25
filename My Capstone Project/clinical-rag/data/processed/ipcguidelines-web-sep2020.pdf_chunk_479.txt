@@ -1,0 +1,5 @@
+102 
+Routine HAI surveillance in HCFs should be conducted by an infection control ofﬁ  cer 
+or ICN by systematically collecting patient-based, prospective, priority-directed data that yield risk-adjusted rates of incidence. Risk-adjusted rates are controlled for variations in the distribution of major risk factors associated with the occurrence of an HAI event. Such rates enable comparison between units within an HCF and between HCFs.
+Types of surveillance appropriate for HAIs103
+x Active surveillance.  This involves systematic collection of data by a

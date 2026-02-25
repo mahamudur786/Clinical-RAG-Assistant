@@ -1,0 +1,23 @@
+107
+Risk factors for SSI are: 
+x Host factors
+R Extremes of age
+R Concurrent disease, malnutrition
+R Underlying clinical condition
+R Skin infections
+x Surgical procedure
+R Surgical category: clean, clean contaminated or dirty
+R Implant or prosthesis
+R Poor surgical technique
+R Excessive use of diathermy
+R Duration of surgical procedure
+ Healthcare-associated infections and their surveillance 141
+R Haemorrhage, necrosis, haematoma
+R Presence of drains
+x Preoperative preparation
+R Inadequate skin preparation – e.g. inappropriate skin disinfectant 
+R Shaving the day before surgery 
+R Inappropriate antibiotic prophylaxis – inappropriate choice, inadequate 
+dose, inappropriate timing (not within 60 minutes of incision)
+x OT – design, discipline, staff
+R Increased trafﬁ  c and movement of staff

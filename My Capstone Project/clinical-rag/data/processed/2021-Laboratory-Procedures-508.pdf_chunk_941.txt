@@ -1,0 +1,9 @@
+– Request changes to set par levels in mid -stand UFOs.  
+– Enter equipment issues in a UFO listed as inventory/supplies. 
+• All completed UFO entries will be reviewed by the MEC M anager for that MEC before 
+the warehouse will pull and ship supplies requested. 
+• Once the supplies have been pulled by the warehouse and packed for shipping to the MEC, the warehouse manager will finalize the UFO.  
+10.3.4 Start -of-Stand Inventory Procedures  
+The Start of Stand Pull Sheets (SOSPS) include the stand number, s ite ID (MEC number), and 
+Exam Supply columns for part number, general item description, previous EOS count number, par 
+level, unit designation, and a ship- to-stand box. The warehouse manager uses this report to stock

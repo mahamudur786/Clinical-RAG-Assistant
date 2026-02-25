@@ -1,0 +1,12 @@
+inspection of the control data. 
+Exhibit 6 -5. Westgard Rule 1 3s 
+ Rule 1 3S. Identifies unacceptable random error or possibly the beginning of a large systematic 
+error. Any QC outside ±3 SD violates this rule. A run is rejected when a single control 
+measurement exceeds the mean ± 3 control limits.  
+   
+ 6-26  Laboratory Procedures 2021   
+Exhibit 6 -6. Westgard  Rule 2 2s 
+ Rule 2 2S. There are two rejection criteria for this rule: two consecutive QC results that are 
+greater than 2 SD that are on the same side of the mean. Violation within the run indicates 
+that systematic error is present and that it potentially affects the entire analytical curve. 
+Violation across the run indicates that only a single portion of the analytical curve is affected

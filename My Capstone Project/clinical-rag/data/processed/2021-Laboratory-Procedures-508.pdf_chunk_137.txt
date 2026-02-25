@@ -1,0 +1,11 @@
+indicating the problem and giving remedial instructions. To remove the warning message box, click 
+the OK button. 
+2.12.1  “Not Filled ” Requires a Comment  
+Data cannot be saved until all vessels marked as “ Filled –No” are assigned a comment.  
+I
+f the Save or the OK button is selected and all vessels are not marked as either Filled –Yes or 
+Filled –No, a warning message box displays , requesting a comment for each unfilled vessel. To 
+remove the warning message box, click the OK button. 
+2.12.2  Labels Must Be Printed in Advance  
+If labels have not been printed in advance, all SPs will be displayed in red. A pop-up box will appear with Label Action Required. 
+Specimen processing cannot occur unless labels have been printed in advance. Reprint the labels for

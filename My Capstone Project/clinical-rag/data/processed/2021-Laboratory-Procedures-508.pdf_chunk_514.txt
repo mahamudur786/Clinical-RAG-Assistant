@@ -1,0 +1,14 @@
+6.18 Integrated Survey Information System  
+6.18.1  Record 6C Cell and Latron Lot Numbers in Integrated Survey 
+Information System  
+The Integrated Survey Information System ( ISIS) maintains the capability to download all 6C cell 
+and Latron control data. The data are used to monitor quality control results. Upload or enter data 
+for each lot number each time a new lot number is put into use. The ISIS uses the same 6C cell 
+control package insert and Latron package insert as the DxH  800. 
+• Access the Coulter QC Lot Info module. 
+• Right- click on the Coulter icon in the bottom-right corner of window. 
+   
+ 6-52  Laboratory Procedures 2021   
+• Click on Expected Values to bring up the Coulter QC Input s creen for 6C cell controls 
+and Latron QC. 
+• M

@@ -1,0 +1,8 @@
+10.3.6 Shipping Inventory Back to the War ehouse  
+When shipping inventory back to the warehouse, print the Transfer Inventory to Warehouse Sheet,  
+which is found on the portal . This  form looks similar to the End of Stand Count Sheets. Print your 
+name in the Counted By field and mark only the items (with quantity being returned) in the count 
+boxes that are being shipped back to the warehouse. Ship  the items to be returned along with the 
+Transfer Inventory to Warehouse Inventory Sheet back to the warehouse. This information is entered into the Inventor y Management System by the warehouse manager and is used to adjust the 
+stand inventory and usage information and to increase the warehouse inventory counts. 
+10.3.7 Tracking Expired and Broken Inventory

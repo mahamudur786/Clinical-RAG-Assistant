@@ -1,0 +1,14 @@
+window. Use the lower vertical scroll bar to view all sessions. Use the mouse to select the desired 
+session. To proceed, hit the OK button or press Enter. To cancel and return to the previous session, 
+click the Cancel button. 
+After selecting a session from the Session Pickup list and selecting OK, the laboratory heads -up 
+screen displays.  
+    2-10  Laboratory Procedures 2021  
+  
+2.7 Container Map  
+Check the slot assignment of all containers at the end of each session. Access the Container Map 
+report under the Reports or Shipping menu. 
+U
+se Container Mapping to v erify the contents of each container.  
+• Use as a reference for determining the position of each vessel within a container.  
+• If “Opened” under “Filter on Container” is selected, then all open containers will

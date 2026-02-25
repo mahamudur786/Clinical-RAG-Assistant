@@ -1,0 +1,13 @@
+epidemic.
+R Implement measures to ensure that the hospital has the capacity to meet a 
+sudden increase (“surge”) in the demand for speciﬁ  c services, equipment or 
+supplies created by the emergency/ epidemic.
+R Deﬁ  ne the roles and responsibilities of the key departments and individuals 
+involved in the response. 
+120 National Guidelines for Infection Prevention and Control in Healthcare Facilities
+R Deﬁ  ne the nature and magnitude of the epidemic and its likely impact on the 
+health system.
+R Identify the number and competencies of staff present or available for recall, 
+with emphasis on requirements for infection control and treatment of cases.
+R Organize frontline services (e.g. emergency department) for triage of 
+patients.

@@ -1,0 +1,11 @@
+Lin-X™ (PN 628029) – The Lin -X linearity control verifies the reportable range of  Coulter 
+hematology system  parameters for WBC, RBC, Hgb , and Plt. 
+Run the Lin-X survey material:  
+• At installation ; 
+• At least yearly ; and 
+• Whenever experiencing an altitude change of 1 mile or more between stands . 
+Principle – Lin -X linearity controls are human blood components from which repeated 
+measurements verify the reportable range of Coulter hematology systems. Controls contain  12 vials, 
+ranging from 0 -12. Lin -X verifies the ranges for the following parameters: WBC, RBC, Hgb, and Plt. 
+To ensure the accuracy of linearity control ranges, Coulter system calibrates with S -CAL calibrator.  
+6.19 Interpretation of Results and Remedial Action

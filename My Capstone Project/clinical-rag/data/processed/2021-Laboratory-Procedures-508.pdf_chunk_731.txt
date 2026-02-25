@@ -1,0 +1,9 @@
+“Previously Proc essed ,” and one row for each airbill assigned in the Assign Container to Shipper 
+module. The row includes a Mark for Processing check  box, the Airbill Number, Shipment Date, 
+and Ship to Lab ID, and one che ck box to mark or unmark all airbills . 
+The lower portion of the window includes the Shipment ID or Airbill Number , Shipment Date, Lab 
+Name, Lab ID number, Address, Contact personnel, Survey Year, C ontainer ID associated with the 
+shipment ID, Container Size, C ontainer Type, Test(s) associated with the container, and a list by 
+Slot ID of the Sample/Vessel ID, Astro ID, and Date Collected. 
+Select one of the filters.  
+Set the filter to “Unprocessed” to print manifests and generate email files for shipments created but

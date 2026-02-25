@@ -1,0 +1,10 @@
+comment  code if applicable. Verify the urine collection . 
+If the urine collection is the first or second collection and is QNS, second and third instances of 
+urine collection may be added by using the “ New Collection ” button at the bottom of the screen. 
+Add a
+ second or third collection only if the previous collection was QNS. Enter the second or third 
+urine collection results when the sample is submitted to the MEC laboratory. Do this by typing in the boxes for Volume and Collection Date/Time and then selecting the appropriate urine collection status and a comment code if applicable.  
+Verify the urine collection  and save the changes.  
+   
+ 4-20  Laboratory Procedures 2021   
+4.5.2 Manually Document Urine Collection Without Barcode Scanning

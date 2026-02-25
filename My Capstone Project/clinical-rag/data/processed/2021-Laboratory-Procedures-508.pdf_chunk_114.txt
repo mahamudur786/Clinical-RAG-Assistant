@@ -1,0 +1,14 @@
+status regularly updates and changes after each result is saved.  
+The active SP ’s information is contained in a rectangular box on the heads-up display. Use the 
+heads- up display to select the correct SP. Select a different SP if the active SP is not the correct SP.  
+2.3 Laboratory Task Bar  
+Monitor the activity in the laboratory task bar, which is located on the bottom of the screen. 
+T
+he laboratory task bar displays the following information: 
+• The status of the refresh routine such as when the labels are printing or the data is  
+updating; 
+• The status of the heads-up display such as when it is “ idle”; 
+    2-2  Laboratory Procedures 2021  
+  
+• The current version of the MEC layout; 
+• The current version of the application;

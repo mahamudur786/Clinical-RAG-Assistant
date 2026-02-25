@@ -1,0 +1,16 @@
+MEC address and Lab address for each shipping week.  
+Shipping Procedures  
+• Create airbill return packets.  
+• Create airbills  before designated shipping day. 
+– Select the FedEx icon on the WS1 desktop . 
+– Select “ Create Shipment ” from the “Shipping” drop-down menu as  shown in 
+Exhibit 8- 31. 
+Exhibit 8 -31. FedEx create shipment  
+8 -36  Laboratory Procedures 2021  
+– Enter the username (standXXX where XXX is the current stand number). 
+– Enter the password (NhanesXXXY where XXX is the current stand number and 
+Y is a unique character ). 
+– From the drop-down menu in the shipping screen (E xhibit 8- 32), select the first 
+lab that will receive samp les from the current shipment. The laboratory 
+information will autopopulate. 
+Exhibit 8 -32. FedEx lab addresses

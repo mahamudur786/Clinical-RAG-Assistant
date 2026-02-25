@@ -1,0 +1,12 @@
+The basic mechanism for the QAP is the quality audit. The quality audit is conducted by the 
+NHANES technical supervisor or laboratory director who maintains documentation of the results of the quality audits, including remedial actions taken to addr ess conditions that merited corrective 
+action. 
+The QAP audits are reviewed monthly during the NCHS- Westat Laboratory Quality Assurance 
+meeting.  
+   
+ 9-35  Laboratory Procedures 2021  
+  
+9.14.2  Quality Audit: Study Participant Test Management  
+The quality audit for study participant test management is conducted at least yearly and consists of:  
+• A survey of the testing laboratory staff, and of the analytical procedures used in 
+NHANES. The survey includes requests for information on:

@@ -1,0 +1,12 @@
+are reviewed at the DxH 800 SM monitor. 
+The ISIS hematology module in the laboratory application automatically receives the results , or 
+results are  transmitted  manually to the hematology module. The laboratory application evaluat es the 
+data for completeness and accuracy.  The final decision to accept or reject a result is the 
+responsibility of the clinical laboratory scientist . 
+All data is  backed up and stored at Westat’s home office. 
+6.6 Specimen  Collection and Preparation  
+6.6.1  S pecimen C ollection  
+• The phlebotomist collects a 3 - or 4 -ml K2 EDTA  (ethylene diamine -tetracetic acid) 
+tube, used for a CBC on all SPs age d 1 year and older, following the  established 
+venipuncture protocol and procedures. (A 1 %–2% dilution effect occurs in this liquid 
+EDTA tube.)

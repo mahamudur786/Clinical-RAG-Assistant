@@ -1,0 +1,9 @@
+• Select Operators and Roles  button. 
+• Select New Operator button, enter all information. HINT: Do not enter the password 
+you want to use; the first time you sign on you will be asked to change your password. Under operators access you need to select Level 3 to do all tasks on the DxH 800.  
+6.10 Run Daily Checks  
+• Select the Daily Checks button (Calendar icon) from the top of any screen to display the Daily Checks Summary screen with results of the most recent Daily Checks.  
+• Obtain printout of Daily Checks from printer, initial as “ Reviewed by ” and place in 
+Hematology Log Book. 
+• If Daily Checks passed all criteria, run Latron Control.  
+• Running Daily Checks manually if Automati c Daily Check failed:

@@ -1,0 +1,12 @@
+performance are specified in the documentation of the ana lytical procedure.  
+9.9 Equipment Maintenance and Function Checks  
+9.9.1 Introduction  
+Laboratory equipment is regularly checked to ensure acceptable performance. Maintenance 
+(including preventive maintenance ), and external checks are documented in the Laboratory and 
+Phlebotomy Quality Control modules in ISIS. The frequency of maintenance and daily checks 
+follows the manufacturer’ s recommendations, when available. The manufacturer ’s recommendations 
+are included in the manuals that are located in notebooks in the laboratory. 
+   
+ 9-28  Laboratory Procedures 2021  
+  
+Each analytical procedure outlines the equipment maintenance and function checks for proper

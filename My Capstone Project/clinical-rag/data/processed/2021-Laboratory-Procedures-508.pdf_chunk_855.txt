@@ -1,0 +1,9 @@
+9-34  Laboratory Procedures 2021  
+  
+The initial database and reporting system design include the following requirements: 
+• All data is  released in a timely manner relative to its intended use. All CBC results are 
+provided to the SP in a preliminary Report of Findings when the SP checks out of the 
+MEC. If the results are not available by the time the SP checks out of the MEC, they are 
+reviewed by the MEC clinician as soon as they are available, and the SP is notified by 
+telephone of any abnormal results. A hard copy of the CBC results is included in the final Report of Findings sent to the SP 6 – 12 weeks after the MEC examination. In the 
+case where no blood was drawn, the preliminary or final Report of Findings states,

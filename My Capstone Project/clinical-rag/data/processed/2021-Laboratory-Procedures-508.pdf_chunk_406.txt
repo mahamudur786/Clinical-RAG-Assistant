@@ -1,0 +1,11 @@
+deliver ing closed -vial and open- vial specimens , which  accommodates  a wide range of 
+specimen tubes. The STM supports the following: 
+– Operator loading and unloading of specimens; 
+– Transport and queuing of specimens; 
+– Mixing and presentation of specimens; and 
+– A magnetic transport s ystem to move cassettes containing specimens.  
+• Sample Aspiration Module (SAM).  The SAM aspirates from capped specimen tubes 
+(presented via cassette or single -tube presentation) or open vials (single-tube 
+presentation). Body fluids are presented via single-tube, while whole bloods can be 
+presented in either presentation mode. The identification and integrity of samples are 
+verified prior to delivery and transfer to the analytical modules within the system. The

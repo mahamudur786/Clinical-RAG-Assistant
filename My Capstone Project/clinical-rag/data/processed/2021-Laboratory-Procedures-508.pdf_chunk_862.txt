@@ -1,0 +1,9 @@
+qualit y audit is to ensure that the QC analyses were performed and appropriate actions were taken 
+when out-of-control conditions occurred. The quality audit of quality control shall consist of: 
+• A review of a random 10 percent sample of 6C cell and Latron control  results.  The 
+review evaluates whether appropriate corrective action was performed and documented 
+for out-of-control conditions. This review is conducted at the end of each stand and 
+documented by the technical supervisor. Any problems with Coulter QC will be 
+discussed at the monthly quality assurance meeting.  
+• An analysis of the proficiency testing results.  The analysis and review will assess PT 
+performance and, if unsatisfactory, whether the deficiencies have been adequately

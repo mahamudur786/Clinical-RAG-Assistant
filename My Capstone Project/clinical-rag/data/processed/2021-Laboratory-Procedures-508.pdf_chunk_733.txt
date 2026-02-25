@@ -1,0 +1,10 @@
+Processed ” radio button and left- click.  
+To select or mark one manifest for printing and email, dire ct the mouse arrow to the check  box and 
+left-click. Repeat this process to include other airbills. Use the scroll bar to display all existing airbills. 
+The lower portion of the window updates to display only marked airbills . 
+To collectively mark all the airbills , direct the mouse arrow to the “mark/unmark all” check  box and 
+left-click. To collectively unmark all the airbills , direct the mouse arrow to the “mark/unmark all” 
+check  box and left -click a second time. The lower portion of the screen will update to display the 
+marked airbills . 
+The right side of the window includes two buttons: Process and Close. Process the shipping 
+manifests using the Process button.

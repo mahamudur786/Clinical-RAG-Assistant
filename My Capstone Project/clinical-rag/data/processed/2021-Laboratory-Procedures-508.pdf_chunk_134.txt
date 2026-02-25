@@ -1,0 +1,13 @@
+the exclusion status for the following tests or groups of tests: 
+• HIV (vessel 22 – serum);  
+• STD (vessel 24 – HSV);  
+• Future research (32 -39 – serum, 52 and 139 – urine); and 
+• The status is “Y” or “ Yes” if the SP is excluded , and “N” if the SP is not excluded. 
+2.11 Access a Processing Module  
+Select the correct SP and access the module of interest. Use the scroll bar to view all SPs scheduled 
+into the session. The active SP is contained in a rectangular box. Use the heads-up display to select 
+the correct SP. Select a different SP if the active SP is not the correct SP.  
+    2-20  Laboratory Procedures 2021  
+  
+T
+o select an SP, use the up and down keys to move up and down the list until the correct SP is

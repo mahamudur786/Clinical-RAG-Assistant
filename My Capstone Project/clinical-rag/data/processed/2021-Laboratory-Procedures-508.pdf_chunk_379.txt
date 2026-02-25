@@ -1,0 +1,9 @@
+When SPs return  a second  day for completion of a n exam (e.g., the DXA  machine was down for a 
+session ), they  must submit another urine sample to confirm a negative pregnancy test on the day of 
+the partial exam . In these cases  a second urine pregnancy test will appear on the heads up for the 
+repeat visit. Laboratory staff  will perform the urine pregnancy test, then send a message to the 
+coordinator to appropriately assign the SP to pertinent component exams. Should the result of the 
+second visit pregnancy test be positive, a UFO will be submitted in addition to notifying the clinician and the coordinator. The SP will not be assigned to any component where this is an 
+exclusion. 
+   
+ 5-20  Laboratory Procedures 2021

@@ -1,0 +1,15 @@
+6-79  Laboratory Procedures 2021   
+Exhibit 6 -11. List of comments to be used  
+Comment  Use when  
+Results repeated and confirmed  Any parameter exceeded an action, range, or precision limit and the 
+specimen (blood tube) was run more than once. 
+Laboratory error  There was a technologist error.  
+Result based on single run  The quantity of specimen is insufficient to run it more than once. 
+Equipment failure  The Coulter malfunctioned.  
+No diff results/diff  vote out The Coulter does not report parameter results for any part of the 
+differential or the instrument reported a voteout for any of the 
+differential parameters.  
+Clotted The blood is clotted.  
+Not enough blood  There is insufficient blood to perform at  least one complete 
+aspiration.  
+S

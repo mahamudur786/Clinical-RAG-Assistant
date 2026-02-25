@@ -1,0 +1,10 @@
+check the WBC scattergram for abnormal cell population(s). Evaluate and save results when 
+precision limits are not exceeded.  
+Ev
+aluate results for all parameters.  Evaluate each parameter for error, overlimit, and precision 
+checkmark s, and “H” or “L” action limit and reference range flags.  If there are no checkmark s in the 
+Precision column (no precision limit was exceeded), save the results to the database.  To save the 
+results to the database, direct the mouse arrow to the Save button and left -click. After results are 
+saved, they are erased from the screen.  To exit without saving the result to the database, direct the 
+mouse arrow to the Close button and le ft-click. 
+Average, evaluate, and rerun specimens that exceed precision limits.

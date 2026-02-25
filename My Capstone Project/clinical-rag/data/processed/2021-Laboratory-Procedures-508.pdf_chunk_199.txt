@@ -1,0 +1,13 @@
+the 8 -hour fasting requirement has been met. The coordinator will assign the SP to phlebotomy 
+when that time has been met.  
+The
+ Phlebotomy Status screen will automatically default to Not Done with a comment of “ Waiting 
+to meet fast. ” 
+   
+ 3-29 Laboratory Procedures 2021   
+If the SP wi ll not meet the 8-hour fast during the session, they are  prompted to have their  blood 
+drawn without waiting for the 8-hour fast . If the 8-hour fast will not be met by the end of the 
+appointment block, the application will allow the blood to be drawn in the phlebotomy exam. 
+Note: The system does not indicate if the SP is leaving early. The blood should be drawn if the SP 
+hasn’t met their  8-hour fast and needs to leave the MEC.  
+3.9 Venipuncture Procedures

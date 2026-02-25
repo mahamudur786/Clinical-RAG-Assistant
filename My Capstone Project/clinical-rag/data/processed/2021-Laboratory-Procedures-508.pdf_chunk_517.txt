@@ -1,0 +1,16 @@
+• Folder: CD Recorder Radio Button. 
+Repeat for each of the three levels of QC.  
+6.18.2.1  Reviewing IQAP Peer Group Means (Chief Techs)  
+• Use the website  https://qapweb.beckmancoulter.com/qapweb/. 
+• Log in. 
+• Choose the Analyzer (with note that B1 is MEC 3, B2 is MEC 2, B3 is MEC 1) . 
+• Review active pool statistics . (Note the number of labs in current pool. A small 
+sample size can have a significant effect on data.)  
+• Put in lot number of 1st level 6C. 
+• View report . 
+• Note:  Look at Mean and SD (not the assayed value), which is what is on the assay sheet 
+we get. The Mean and SD are the averages for  all the  labs submitting data for this lot 
+using 800 DXH. The shown SD is 2 SD from the peer mean. 
+• Select “ BACK .” 
+   
+ 6-55  Laboratory Procedures 2021

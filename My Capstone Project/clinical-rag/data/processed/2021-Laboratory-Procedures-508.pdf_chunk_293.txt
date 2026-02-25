@@ -1,0 +1,11 @@
+If the urine collection cup appears to contain < 1 ml, do NOT weigh the cup; see Section 4.5.1. 
+Place the urine collection cup on the Mettler Toledo scale.  Cover the scale with the clear box cover 
+to protect the scale from draft.  Look at the scale ’s LED display.  In the bottom left corner of the 
+   
+ 4-4  Laboratory Procedures 2021   
+   
+ 4-5  Laboratory Procedures 2021   display, the stability detector “o” will appear briefly. Once the stability indicator goes away, the 
+weight result is valid. Scan the barcode on the cup using the barcode scanner next to the scale . 
+Lo
+ok at the scale ’s LED screen to ensure that the SP ID displays. Checking for the SP ID display on 
+the LED screen is verification that the collection was recorded in the database.

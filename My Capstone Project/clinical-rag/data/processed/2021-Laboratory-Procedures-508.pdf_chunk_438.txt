@@ -1,0 +1,8 @@
+are analyzed. The header of the docu ment will also be completed with pertinent 
+information. The document will be housed on the WS 3 computer until completed and then sent to the Laboratory Component Lead as part of the end-of-stand QC.  
+1. The same tray of the current lot number in use of 6C controls should be 
+used until one or more levels of the QC have been analyzed the maximum 
+number of times (18 occurrences in 16 days). Once one or more levels of 
+the QC have been injected the maximum number of times, the entire tray 
+should be discarded and a new tray should be used. 
+2. If the 6C controls do not pass at the end of the session, troubleshooting will be performed. Once the QC passes, the CBC ’s for the session will be

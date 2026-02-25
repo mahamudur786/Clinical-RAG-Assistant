@@ -1,0 +1,11 @@
+save the data to the database.  The Hematology module will display data for multiple SPs in the SP 
+Data section.  Each individual SP’ s results or pairs of results are displayed in a different color. To 
+select or highlight any one SP, direct the mouse arrow to the row containing the correct SP ID and 
+left-click. 
+Average the results for one SP at a time.  
+   
+ 6-81  Laboratory Procedures 2021   
+Ev
+aluate each parameter for error, over limit , and precision checkmark s, and “H” or “L” act ion limit 
+and reference range flags.  If there are no checkmark s in the Precision column (no precision limit was 
+exceeded), save the result to the database.  To save the result to the database, direct the mouse arrow

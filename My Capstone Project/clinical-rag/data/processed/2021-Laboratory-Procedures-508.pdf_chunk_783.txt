@@ -1,0 +1,12 @@
+gradual deterioration of the calibration. A change in the mean may be sudden and demonstrated as a 
+shift in control values. Factors that contribute to systematic error are independent of the analyte concentration. Examples of these factors include change in reagent lot, major instrument maintenance, change in room temperature or humidity, failure in the sampling system, or inaccurate 
+calibration. 
+Exhibit 9- 1 presents examples of shifts and trends in QC data. 
+   
+ 9-9 Laboratory Procedures 2021  
+  
+Exhibit 9- 1. Example of shifts and trends in QC data  
+A
+ QC program includes both internal (intralaboratory) and external (interlaboratory) surveillance 
+and monitors the following five parameters: 
+1. Clerical Error. This includes properly documented acknowledgment of transmittal and

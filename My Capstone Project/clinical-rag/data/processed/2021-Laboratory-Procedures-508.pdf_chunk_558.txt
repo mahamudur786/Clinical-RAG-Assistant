@@ -1,0 +1,13 @@
+action limit is detected for any CBC parameter . 
+   
+ 6-94  Laboratory Procedures 2021   
+T
+o access the observation function, direct the mouse arrow to Utilities in the menu bar, left -click, 
+drag the mouse arrow to Observations, and left -click. Select or highlight the correct SP. 
+T
+o select or highlight an SP, drag the mouse arrow to the correct SP and left -click or use the 
+keyboard arrows to move up and down the list. Verify that the SP ID, name, and age are correct. 
+Use the scroll bar to view the complete list of SPs. To continue, direct the mouse arrow to the OK button and left -click, or sel ect Enter. To cancel these actions and exit the observation function, 
+direct the mouse arrow to the Cancel button and left -click. 
+   
+ 6-95  Laboratory Procedures 2021

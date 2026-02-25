@@ -1,0 +1,13 @@
+Specimens if Test System Fails  
+There is no alternative method for this test. Store EDTA tube at room temperature for no more than 
+24 hours. Restore the instrument to functionality and then run the specimen after thorough mixing. 
+6.25 Test Results Reporting System:  Protocol for Reporting 
+Action Limits 
+Results outside the action limits are brought to the clinician ’s attention  by sending the clinician  an 
+observation and requesting a decision on “course- to-follow.” 
+   
+ 6-101  Laboratory Procedures 2021   
+All records, including QA/QC data, will be maintained for 6 years.  Use only numerical identifiers 
+for SP results.  
+6.26 Quality Control Summary Statistics and Graphs  
+Chapter 10 includes a separate detailed description of the comprehensive quality control plan.

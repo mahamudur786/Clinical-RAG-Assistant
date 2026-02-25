@@ -1,0 +1,15 @@
+124,125 
+1. Veriﬁ  cation of diagnosis 
+Veriﬁ cation of diagnosis is the ﬁ  rst step in an outbreak investigation as sometimes 
+spurious or misinterpreted reports might give a false alarm. It is therefore necessary to have on-the-spot veriﬁ  cation of diagnosis as quickly as possible. Common steps 
+involved in veriﬁ  cation of the diagnosis in an HAI are
+x Evaluating the clues
+ Healthcare-associated infections and their surveillance 155
+x Evaluating signs and symptoms
+x Laboratory ﬁ  ndings
+x Duration of symptoms
+x Suspected exposure
+x Suspected virus, bacteria or toxin
+x Hospital onset
+2. Conﬁ  rm the existence of the outbreak
+The next step is to conﬁ  rm if an outbreak exists.This is done by review of surveillance

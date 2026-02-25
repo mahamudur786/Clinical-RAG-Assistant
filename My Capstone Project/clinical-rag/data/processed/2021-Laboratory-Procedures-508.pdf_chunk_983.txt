@@ -1,0 +1,9 @@
+filter onto and around the critical work area. The filter of the LFBSC is a permanent part of the 
+disposable plenum. A magnehelic gauge is calibrated in “ inches of water gauge  (w.g. )” pressure. The 
+gauge indicates when the supply HEPA filter is clogged. As the filter loads with particulate matter, 
+the amount of pressure registered on the gauge will increase. The initial pressure reading is 
+approximately 0.4 w.g. + 0.05 w.g. depending  on the altitude from sea level.  
+   
+ 10-36  Laboratory Procedures 2021   
+Clean the LFBSC at the beginning and end of each stand using the NHANES COVID- 19 
+Mitigation Protocols for as long as the protocols are applicable, or using other cleaning protocols

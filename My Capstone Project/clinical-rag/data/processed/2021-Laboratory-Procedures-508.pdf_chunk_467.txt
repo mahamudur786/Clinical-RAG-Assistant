@@ -1,0 +1,14 @@
+6.11.11  Add, Modify, or Delete Comments to QC Re sults  
+• From the Quality Control (D ata View) or the Quality Control (Graph V iew) screen, 
+select the Comment button to display the QC Comment dialog box. 
+• T
+he Creation Date/Time, Modified Date/Time, and Last Modified Operator ID will 
+not be populated until the entry of the comment has been completed.  
+• To add or modify a comment on a control run, select the Run tab, type in the text box, and select OK.
+ 
+   
+ 6-33  Laboratory Procedures 2021   
+• To add or modify a comment on a control file, select the File tab, type in the text box , 
+and select OK.  
+• To delete a comment, select the Delete button.  
+6.11.12  View Contr ol Files Under Error Conditions

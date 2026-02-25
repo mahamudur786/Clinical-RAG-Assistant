@@ -1,0 +1,12 @@
+blood during a power loss because of safety concerns due to insufficient light. 
+   
+ 10-69  Laboratory Procedures 2021   
+ Centrifuges 
+Overview . Each MEC has  two centrifuge s. Both centrifuge s are operated at refrigerated 
+temperature s (4°C to 8 °C). All blood tubes can be spun in the refrigerated centrifuge. 
+While power is generally required to open or unlock the centrifuge door, an emergency pull cord 
+under the centrifuge will allow the technologists to open the door to retrieve the blood tubes if a 
+power failure occurs.  
+Consequences.  According to the manufacturer, a ll blood tubes can remain in the locked centrifuge 
+for up to 4 hours; however, for optimal test results, serum/plasma should be separated from the red 
+blood cells within 2 hours from collection.

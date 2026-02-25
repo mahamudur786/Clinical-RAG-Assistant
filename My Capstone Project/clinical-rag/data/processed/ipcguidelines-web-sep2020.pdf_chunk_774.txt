@@ -1,0 +1,15 @@
+12. The occupier or operator of a common biomedical waste incinerator shall use combustion 
+gas analyser to measure CO
+2, CO and O2.
+2. Operating and emission standards for disposal by plasma 
+pyrolysis or gasiﬁ  cation
+A. Operating standards
+All the operators of the plasma pyrolysis or gasiﬁ  cation shall meet the following operating 
+and emission standards:1. Combustion Efﬁ  ciency (CE) shall be at least 99.99%.
+2. The combustion efﬁ  ciency is computed as follows:
+     (%CO
+2)C.E. =  x 100
+   (% CO2 + %CO)
+3. The temperature of the combustion chamber after plasma gasiﬁ  cation shall be 1050±50 °C 
+with gas residence time of at least 2 (two) second, with minimum 3% oxygen in the stack gas.
+4. The stack height should be a minimum of 30 m above ground level and shall be attached

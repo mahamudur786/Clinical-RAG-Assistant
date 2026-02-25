@@ -1,0 +1,12 @@
+All instruments participate in Coulter’s IQAP program. The IQAP program includes saving results 
+of 6C cell controls, transferring them to a CD , and sending them to Beckman Coulter , which  
+compares the results t o other laboratories. Beckman Coulter issues a repo rt that contains a statistical 
+analysis to evaluate performance.  Perform this pro cedure at the end of each stand. 
+The procedure to download IQAP files to CD follows: 
+• Slide the CD into the drive and gently close CD holder. 
+• Menu >QA>QC>More options (bottom of screen) >Export. 
+• Type: CVS.  
+• Data Selection: All runs in current control file. 
+• Folder: CD Recorder Radio Button. 
+Repeat for each of the three levels of QC.  
+6.18.2.1  Reviewing IQAP Peer Group Means (Chief Techs)

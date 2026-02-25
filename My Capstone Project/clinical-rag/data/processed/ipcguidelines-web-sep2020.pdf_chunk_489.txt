@@ -1,0 +1,15 @@
+antibiogram. The laboratory also detects emerging pathogens and resistance. 
+Data sources
+Clinical ward
+x Patients who have devices inserted and undergone procedures that have a risk 
+of infection such as indwelling vascular or urinary catheters, surgical operations
+x Record of fever and other clinical signs consistent with infection
+x Antimicrobial therapy
+x Laboratory tests such as microbiology cultures
+x Medical and nursing chart reviews
+Laboratory reports
+Daily review of laboratory reports may be helpful in identifying HAIs. 
+x Review patients who have isolation of organisms potentially associated with 
+infection.
+x Patterns of AMR can help in identifying issues of emerging resistance.
+138 National Guidelines for Infection Prevention and Control in Healthcare Facilities

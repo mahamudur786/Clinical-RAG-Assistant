@@ -1,0 +1,17 @@
+2-2  Laboratory Procedures 2021  
+  
+• The current version of the MEC layout; 
+• The current version of the application; 
+• The status of the connection to the coordinator; and 
+• The current time.  
+2.4 Menu Bar Options  
+Each MEC application has tailored menu options to support the specific examination. The menu 
+options below list all available options. Options are grayed (inverted) or not present when they are 
+not available for a specific subsystem.  
+2.4.1  File Menu Options  
+Ast
+erisks (*) denot e menu options common to all MEC examination components. 
+*File 
+*Open (Ctrl+O)  Opens a new, partial, or not done SP exam; the SP must be assigned by the 
+coordinator if the application is not in standalone mode. 
+*Close  This option is grayed out and not applicable.

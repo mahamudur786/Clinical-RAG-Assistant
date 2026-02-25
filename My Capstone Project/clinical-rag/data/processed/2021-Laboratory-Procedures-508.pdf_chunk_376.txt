@@ -1,0 +1,14 @@
+Pregnancy Testing, and left -click. 
+   
+ 5-17  Laboratory Procedures 2021   
+The Pregnancy Testing window displays.  
+T
+he text is black for S Ps who have urine collection results recorded as “ Yes” or “ Yes/QNS. ” The 
+text is gray for SPs who do not have urine collection results recorded. The window lists the SP ID, 
+Person Name, Gender, and Age and includes a Test Results column (text box). 
+   
+ 5-18  Laboratory Procedures 2021   
+If
+ the Test Result field is black or highlighted, record the result by typing [P/p] for positive, [N/n] 
+for negative, or [I/i] for an invalid result. Enter [N/n] for “not done” when the test was not 
+performed. Alternatively, to record a result, direct the mouse  arrow to the drop-down list, drag the

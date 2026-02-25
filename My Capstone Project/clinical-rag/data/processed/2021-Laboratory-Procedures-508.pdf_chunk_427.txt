@@ -1,0 +1,15 @@
+occurs every 24 hours to prevent flow cell and sample line clogging.  
+• Shutdown can be initiated manually or automatically. 
+• Shutdown removes diluent from the UniCel DxH 800 and replaces it with cleaner.  
+• At the end of the time with cle aner, the cleaner is replaced with diluent. Then, the 
+compressor automatically shuts off. 
+   
+ 6-13  Laboratory Procedures 2021   
+   
+ 6-14  Laboratory Procedures 2021   6.8.2  Shutdown at the Mobile Examination Center  
+• Shutdown will be set automatically . 
+– Select Calendar icon on top of DxH monitor screen. 
+• From the Daily Checks screen,  select the Shutdown button to display the Manual 
+Shutdown dialog box. 
+– Select Autoconfiguration at the bottom of the screen. 
+– Select Configure Shutdown.

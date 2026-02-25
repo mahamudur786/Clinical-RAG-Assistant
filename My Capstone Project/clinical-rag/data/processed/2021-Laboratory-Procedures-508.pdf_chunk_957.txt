@@ -1,0 +1,14 @@
+During centrifugation —the number of the program being run is displayed.  
+Pressing 
+ , then 
+  begi ns the run. (
+  must  be pressed within 
+5 seconds of pressing
+  .) T
+his key combination can also be used to abort 
+a deceleration process and restart the centrifuge.  
+Can be pressed at any time while the rotor is spinning to terminate a run. The 
+centrifuge decelerates to a complete stop according to the deceleration setting. The green light next to the key ﬂashes whil e the rotor decelerates. A tone sounds 
+when the rotor comes to a complete stop.  
+Unlocks and opens the door. (The instrument will not accept the unlock command if the rotor is spinning.)  
+• During a run, they show the actual (real time) operating conditions.

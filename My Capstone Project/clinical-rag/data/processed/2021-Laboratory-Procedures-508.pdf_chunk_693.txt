@@ -1,0 +1,11 @@
+See Exhibit 8- 9. All urine vessels are printed first, which are grouped by SP ID. Do not label the 
+urine vessels; save the urine labels , which will be distributed to workstation 3 the day of the session 
+being labeled. 
+8 -13  Laboratory Procedures 2021  
+Exhibit 8 -9. Lab print utility  
+8.3.9 Print Display Options  
+To change the display on the screen to display in numerical order for all SPs, click on the “ Vessel ” 
+tab and the display will change to numerical order for the entire session. 
+8.3.10  Printing One SP ’s Labels  
+Using the tree on the left side of the screen, expand the session by clicking on the + sign to the left 
+of the session number. This will display all the SPs scheduled for that session. Click on the SP you

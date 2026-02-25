@@ -1,0 +1,19 @@
+Shutdown dialog box. 
+• Se
+lect the Perfo rm Startup After Shutdown check box to automatically begin Daily 
+Checks after shutdown. 
+• Type in Time in Cleaner  0 Hours and 30 Minutes check box es to determine the time in 
+cleaner.  
+• Select OK to begin shutdown or Cancel to exit the pop-up window without starting shutdown. 
+   
+ 6-15  Laboratory Procedures 2021   
+6.9 Log On as User  
+Logging on to the SM: 
+• T
+ype your user name.  
+• Type your password. If you forgot it, ask one of the senior techs to reset it for you. 
+6.9.1  Entering New Operator  
+• Select Menu button in the upper- left corner of the  DxH 800 screen.  
+• Then select Setup button. 
+• Select Operators and Roles  button. 
+• Select New Operator button, enter all information. HINT: Do not enter the password

@@ -1,0 +1,5 @@
+• The preliminary and final Report of Findings format includes reference ranges, units of measure, or notation for inadequate specimen. Sample preliminary and final English and Spanish Report of Findings are printed and the format is tested annually. 
+• NCHS is responsible for sending the final Report of Findings to each SP. Mailing labels are printed, the mailing label is matched to the final Report of Findings, and the final 
+Report of Findings is inserted into the envelope. NCHS monitors communications 
+from SPs who report that they have received the incorrect Report of Findings. 
+• All results are generated based on results stored in the database. The IS IS system

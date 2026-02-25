@@ -1,0 +1,11 @@
+Storage, handling, and stability: Sealed vials are stable through the expiration date when stored at 
+2-8˚C (35 -46˚F). S-CAL when opened is stable for 1 hour once the calibratio n procedure has started . 
+6.15.5  Repeatability, Carryover Check, and Calibration  
+ Repeatability  
+Supply l ist: Two 3 -ml EDTA tubes filled with normal blood. 
+Before you can start or restart the c arryover process, the SPM must  be offline.  
+Ensure that you have enough normal whole blood from a single donor  for a minimum of 10 cycles, 
+and delete any data on the Repeatability screen before  starting a new study.  
+• Use two 3 -ml EDTA tubes (aspiration probe damage can occur if a specimen tube is 
+pierced more than five times).  
+• Select Menu >QA>Repeatability >Repeatability Setup:

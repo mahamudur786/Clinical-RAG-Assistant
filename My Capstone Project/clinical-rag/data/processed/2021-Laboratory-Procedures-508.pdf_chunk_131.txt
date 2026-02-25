@@ -1,0 +1,19 @@
+2-15  Laboratory Procedures 2021  
+  
+If
+ you encounter an empty slot: 
+• You must tab off that slot to the next available slot to continue. 
+• This serves as verification for the empty slot . 
+• If you scan a vessel in a slot that should be empty, a pop-up box will appear to indicate 
+the slot should be empt y. 
+– Hit OK to verify message . 
+– Tab to next slot. 
+    2-16  Laboratory Procedures 2021  
+  
+T
+o save your verification , you must hit the Save and Next button or OK button. If you hit the 
+Cancel button, your last scanned vessel will not be saved. 
+• The enter key is the same as hitting the OK button on the pop-up boxes and on the 
+Verification screen . 
+– It will save your work and exit you from the V erification screen.  
+    2-17  Laboratory Procedures 2021

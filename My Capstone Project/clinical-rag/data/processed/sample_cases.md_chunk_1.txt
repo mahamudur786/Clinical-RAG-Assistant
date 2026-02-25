@@ -1,0 +1,6 @@
+---
+
+# Case 5: Possible Appendicitis
+Symptoms: right lower quadrant abdominal pain, nausea, vomiting  
+Risk factors: age 19  
+Notes: rebound tenderness, fever

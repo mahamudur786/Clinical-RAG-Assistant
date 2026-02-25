@@ -1,0 +1,10 @@
+6-69  Laboratory Procedures 2021   
+T
+he Hematology Control Run window indicates that the “ Samples for SP ID XXXXXX are outside 
+the defined precision limits.” It instructs the technologist to “ Please run a successful control for 
+Session ID XXXXXX, and then run another sample for SP ID XXXXXX.” If it has been more 
+than 30 minutes since running the sessions QC (all three levels of 6C cell control), run any one level 
+of 6C cell control and evaluate the results.  Respond to the two questions, “Did you run a control 
+run?” and “ Were all control value s within established range?” To confirm these actions, direct the 
+mouse arrow to each of the two check box es and  left-click to record the checkmark s. 
+Save the responses to the check box questions.

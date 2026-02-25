@@ -1,0 +1,15 @@
+action and returns the window to its previous state. 
+For results where only one run was possible, the Comment box at the bottom of the window 
+defaults to “result based on single run.” 
+4. Running samples in duplicate  
+Run all samples in duplicate and average the data. 
+W
+henever a sample is run in duplicate, both results display in the SP Data section.  To average these 
+two results , direct the mouse arrow to Average ID# XXXXXX button and left -click. 
+Results display in the lower section of the window. 
+   
+ 6-66  Laboratory Procedures 2021   
+T
+he difference s between duplicate values for WBC, RBC, Hgb, MCV, Plt, NE#, LY#, MO#, EO# 
+and BA# are calculated and evaluated to determine if the y are within the following CDC-established 
+precision limits  (Table 6 -4).

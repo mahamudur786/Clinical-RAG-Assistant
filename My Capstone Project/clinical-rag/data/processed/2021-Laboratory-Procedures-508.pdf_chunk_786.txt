@@ -1,0 +1,9 @@
+laboratory scientist performing the assay to detect error outside of previously 
+determined limits before reporting data; documentation of daily bench performance for 
+detection of less obvious error (particularly those that tend to accumulate over time, so-
+called “ drift”); and established procedures to be followed wherever error is found to 
+exceed previously determined limits.  
+5. Instrumentation.  This includes periodic preventive maintenance of all instruments in 
+use in the laboratory and documentation that each instrument is maintaining a 
+previously dete rmined level of each performance at each check.  
+In this context, QC procedures monitor and evaluate the quality of the analytical testing process of

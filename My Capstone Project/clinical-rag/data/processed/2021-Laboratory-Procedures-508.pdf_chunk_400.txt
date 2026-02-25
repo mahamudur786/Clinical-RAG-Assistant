@@ -1,0 +1,11 @@
+light scatter and absorption. This measurement is called a xial light l oss. 
+6.2.3  Dataplot Development  
+The technician performs a series of operations on the stored digital raw values received from the 
+flow cell to identify populations and calculate the frequency of cells within each population. The system produces the dataplot displays for visual representation of the differential, NRBC  
+membership (types of cells), and density (concentration). 
+The DxH 800 sy stem algorithm uses tools designed for finding optimal separation between 
+overlapping clusters of data. The algorithm can: 
+• Adapt to unusual population shifts and overlaps; 
+• Define highly irregular separation; 
+• Make subsequent analysis of the identified regions; and 
+• Correct deficiencies in  separation.

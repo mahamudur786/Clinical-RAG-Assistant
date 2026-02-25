@@ -1,0 +1,12 @@
+Exhibit 7 -14. Qual ity comment codes  
+Comment for filled vessels  Use when  
+Clotted  The whole blood sample contains a fibrin formation. This is due to 
+inadequate mixing or inadequate clotting. 
+Equipment failure  Pipettes are malfunctioning.  
+Hemolyzed  There is a red appearance to the serum or plasma. “Hemolysis ” refers to 
+the abnormal lysis of erythrocytes. Hemolysis can occur before 
+venipuncture ( in vivo  hemolysis) or during the analytic procedure ( in vitro  
+hemolysis). If in vivo, hemolysis will give plasma a red  color. Use when 
+describing visible hemolysis, which occurs when the concentration of 
+hemoglobin exceeds 200 mg/L.  
+Icteric  There is visible orange color to the serum or plasma. “Icteric ” refers to

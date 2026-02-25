@@ -1,0 +1,6 @@
+remaining examinations. Shared exclusion questions are component specific. Answers provided 
+during previous components appear on the screen for the next examiner to see, but the text box for data entry is disabled. Only shared exclusion questions relevant to the age and component that have not been answered are  enabled. Example: If the SP goes to the clinician  component before 
+phlebotomy, the questions about “pregnancy” and “ how many weeks ” would be asked by the 
+clinician . The “pregnancy” question would be disabled in the phlebotomy component. 
+• If the SP is a male, a female less than 12 years, or a female older than 60 years, the 
+shared exclusion pregnancy questions will not be displayed, unless a younger female

@@ -1,0 +1,7 @@
+calibration. The physical records are archived by MEC stand through a contract company after 2 years of being maintained at the Westat home office.  
+New lot number crossover studies are performed on Coulter 6C cell controls. The new lot is run against the old lot 20 times before the new lot is put into use. 
+9.7 Test Methods, Equipment, Reagents, Supplies, and 
+Facilities  
+9.7.1 Introduction  
+Analytical procedures use equipment, reagents, materials, and supplies that are appropriate for achieving acceptable accuracy, precision, analytical sensitivity, and analytical specificity from the 
+methods performed in-house. The documentation of individual analytical procedures included in the

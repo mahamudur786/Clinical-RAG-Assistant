@@ -1,0 +1,10 @@
+recorded. All freezers are monitored automatically by built -in visual systems (with thermographic or 
+digital reading), which is determined by the probe in the antifreeze solution. The range of allowable 
+temperature for the - 30 Revco model is -2 6°C to - 34°C. If the range is exceeded, the clinical 
+laboratory scientist should contact the FES . 
+ Digital Thermometer Verification Process  
+• Check the (NIST) traceable thermometers to ensure the expiration date has not been 
+exceeded. If the thermometer ’s certificate is expired, contact the warehouse to have a 
+new thermometer delivered.  
+• Place the appropriate thermometer  probe in the refrigerator, freezer, or next to the 
+room temperature digital thermometer  (Temp -Guard). Placing the traceable

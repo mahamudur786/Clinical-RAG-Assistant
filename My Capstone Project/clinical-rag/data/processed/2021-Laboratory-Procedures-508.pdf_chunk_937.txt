@@ -1,0 +1,9 @@
+and verifying the inventory count. Please write legibly for all counts.  
+• Place a number in each count box. Do not leave any count box empty.  If there is no 
+stock remaining for a specific item, enter a “ zero” (0)  in the count box. 
+• Do not count partial units; record only whole numbers in the count box. Do not  write 
+entries such as a few, .5 , ½, couple , partial, some, many, or multiple.  
+• If the PAR for an item is only one (1) unit and it is more than half empty, enter a zero 
+(0) in the count box. A full unit will be supplied to the component at the opening of the 
+next site  where the MEC is active . 
+• All active lot numbers and expiration dates are listed on the inventory count sheets if

@@ -1,0 +1,9 @@
+black ( for QNS or  for Yes).  A black urine collection circle indicates that no additional action 
+needs to be taken on that SP for urine collection at that time. 
+4.5 Manually Documenting Urine Collection 
+4.5.1 Manually Document Urine Collection w ith Barcode Scanning  
+The clinical laboratory scientist can manually record the volume, status, and collection date and time 
+in the Urine Collection module within the laboratory application. Place the urine collection cup on 
+the scale and cover with the clear acrylic scale cover. Scan the barcode on the urine cup.  
+Note: Use this function when the interface between the scale and the laboratory system is not 
+functioning prope rly or if there is a change in the tare weight of either the urine collection cups or

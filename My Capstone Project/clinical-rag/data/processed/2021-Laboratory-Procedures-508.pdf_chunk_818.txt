@@ -1,0 +1,5 @@
+verification is performed according to the manufacturer’ s specification and at the frequency 
+recommended by the manufacturer.  
+Note that the calibration materials must bracket the reportable r ange; that is, results should not be 
+reported as a numerical value unless they are within the reportable range. If a result is higher than the upper end of the reportable range and the method permits sample dilution, the sample may be diluted to bring it within the reportable range. If dilution has been necessary, the reported value will exceed the upper end of the reportable range. Each analytical procedure specifies acceptable limits 
+for results of analyses of the calibration materials based on the method precision of these materials.

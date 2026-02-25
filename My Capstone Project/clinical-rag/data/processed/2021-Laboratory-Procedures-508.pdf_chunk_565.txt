@@ -1,0 +1,12 @@
+platelets as with oxalate or heparin, platelet fragments, or cellular debris near the lower platelet threshold. 
+• MPV – known factors that interfere with the Plt count and shape of the histogram or known effects of EDTA.  
+• Hct – known factors that interfere with the parameters used for computation: RBC and MCV.  
+• MCH – known factors that interfere with the parameters used for computation: Hgb and RBC. 
+   
+ 6-98  Laboratory Procedures 2021   
+• MCHC – known factors that interfere with the parameters used for computation: Hgb, 
+RBC, and MCV.  
+• Diff Parameters  – known factors that affect the WBC count as listed above or high 
+triglycerides that affect lysing.  
+6.21 Reference Ranges  
+Tables 6 -5 and 6- 6 respectively present references ran ges for blood cell counts for males and

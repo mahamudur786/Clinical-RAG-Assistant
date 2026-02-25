@@ -1,0 +1,10 @@
+ignore System messages (R).  
+– Remove Coulter Lin- X cell control vials from refrigerator and warm at ambient 
+temperature for 15 minutes.  
+– Ensure there is sufficient reagent to complete the analysis.  
+– Roll the tube slowly between the palms of the hand s eight times in an upright 
+position. Invert the tube and slowly roll between the palms of the hands eight times. Then gently invert the tube eight times. Repeat mixing procedure three times.  Temporarily disable the NRBC mo dule. 
+– Run the Lin- X cell controls in consecutive order beginning with Level 0 and 
+ending with Level 11. Run controls in cassette presentation on the instrument. 
+– Level 11 is used to clean the system. The values for this level are not recorded.  
+• How to run linearity in the MEC:

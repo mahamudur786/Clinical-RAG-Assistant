@@ -1,0 +1,24 @@
+Unknown
+If YES, type(s) of central 
+line(s) in place (check all that apply)Non-tunneled short-term catheter (e.g. double or triple lumen)
+Peripherally inserted central catheter (PICC)
+Port-a-cath                     
+Hemodialysis catheter    
+Tunneled catheter       
+Umbilical catheter       
+Unknown
+Other, specify: ______________________________ 
+ Annexes 239
+Location(s) of central line(s) 
+in place (check all that apply)Jugular
+Subclavian
+FemoralBrachial
+Umbilical
+Unknown
+Other, specify: ____________________________________
+3. Infections at other body sites
+Was a positive, matching 
+culture obtained from another body site(s) during the secondary BSI attribution period?Yes
+No (skip to 4, outcome)
+Unknown
+If YES, specify specimen(s)

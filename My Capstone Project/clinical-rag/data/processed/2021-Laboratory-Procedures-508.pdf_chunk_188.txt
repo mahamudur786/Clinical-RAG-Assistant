@@ -1,0 +1,11 @@
+Type in A for times  between midnight and 11:59 AM or P for times between noon and 11:59 PM 
+and press Tab . Alternatively, to select AM or PM, direct the mouse arrow to the drop -down arrow 
+on the right side of the text box, left -click, drag the mouse arrow to AM or PM and left -click.  
+   
+ 3-24 Laboratory Procedures 2021   
+Enter the date.  
+Ty
+pe in the date using the keyboard’s numeric keys and the mm/dd/yyyy format and press Tab , or 
+use the calendar to enter the date. To access the calendar, select [F2]. To select the correct month, 
+direct the mouse arrow to the drop -down list, drag the arrow to the correct month (use the scroll 
+bar if necessary), and left -click. To select the correct day, direct the mouse arrow to the correct day

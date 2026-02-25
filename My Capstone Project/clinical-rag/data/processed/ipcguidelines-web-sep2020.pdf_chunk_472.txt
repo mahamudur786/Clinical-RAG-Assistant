@@ -1,0 +1,5 @@
+Risks must be assessed at all sites where diagnostic testing is carried out, including 
+hospital wards, clinics, health centres and surgeries. If the assessments show that risks cannot be adequately controlled, either appropriate arrangements must be made or the specimens may be sent elsewhere for processing. SOPs must be in place in the laboratory for any anticipated accidents or contamination. The laboratory must also keep a record of occurrence of any accidents in the laboratory, staff exposures, action taken and procedures put in place to prevent future occurrences.
+132 National Guidelines for Infection Prevention and Control in Healthcare Facilities
+Biosafety levels
+Laboratory facilities are designated as Biosafety levels 1 to 4 based on a composite

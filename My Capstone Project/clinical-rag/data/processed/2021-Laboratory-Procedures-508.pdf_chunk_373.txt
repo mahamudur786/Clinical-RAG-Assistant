@@ -1,0 +1,13 @@
+the test region (T).  
+   
+ 5-15  Laboratory Procedures 2021   
+Exhibit  5-4. Invalid result  
+Control line fails to appear.  
+Posit
+ive R esult . A specimen that produces two distinct red lines is positive for the presence of 
+hCG. One line should be in the control region (C) and another line should be in the test region (T). 
+Negative R esult . A specimen that produces a red line in the control region (C) and no apparent 
+red or pink line in the test region (T) is negative for the presence of hCG.  
+Invalid R esult (any of the following). For the test to be valid, a red line must appear in the 
+control region (C). Insufficient sample volume or incorrect procedural techniques are the most 
+likely reasons for control line failure. Review the procedure and repeat the test with a new test

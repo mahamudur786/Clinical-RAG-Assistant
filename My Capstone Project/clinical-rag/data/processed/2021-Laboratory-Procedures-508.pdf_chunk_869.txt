@@ -1,0 +1,5 @@
+Pre-analytic sample quality will be measured through analysis of the following variables:  the number 
+of samples hemolyzed, number of samples clotted, number of samples with insufficient volumes, and number of samples damaged during transport. The threshold for these variables is 1 percent  of 
+the total samples processed. The incidence of these occurrences are documented through the use of the Unusual Field Occurrence application with the ISIS computer system. These will be measured monthly and reported during the monthly laboratory meeting. Any variable over 1  percent  of the 
+total sample volume requires a plan of corrective action and follow-up. 
+9.14.7  Quality Audit – Post -Analytic Extreme Result Reporting

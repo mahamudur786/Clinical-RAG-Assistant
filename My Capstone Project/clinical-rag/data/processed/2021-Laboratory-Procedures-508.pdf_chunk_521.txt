@@ -1,0 +1,14 @@
+Run proficiency samples in cassette ( samples will be run twice under current setup and each result 
+will print separately ). 
+• Average results on NHANES Hematology CAP Results worksheet . 
+• Select Computer> MECSTAFF >Lab. 
+• Save as KitName -KitNumber_YYYY- MMDD_MEC#_Tech Initials_ P (for primary) 
+or S (for secondary operator). 
+• Enter results on CAP paperwork. 
+• Enter results in CAP site on computer using your own personal CAP login: 
+– Log in  to the CAP site with individual account info; 
+– Click on the e-lab solutions suite; 
+– On the right side of the screen, click on the “ Request access to laboratory data ” 
+link; 
+– The screen will open that will ask you to enter the CAP number; and 
+– Enter 6910001.

@@ -1,0 +1,8 @@
+drop-down arrow on the right side of the text box, left-click, drag the mouse arrow to “ AM” or 
+“PM,” and left- click.  
+Type in the date using the keyboard’s numeric keys and the mm/dd/yyyy format and press Tab , or 
+use the calendar to enter the date. To access the calendar, select [F2]. To select the correct month, 
+direct the mouse arrow to the drop-down list, drag the arrow to the correct month (use the scroll 
+bar if necessary), and left -click. To select the correct day, direct the mouse arrow to the correct day 
+on the displayed month and left -click. To correct the year, direct the mouse arrow to the up -down 
+controls on the spin box and toggle the number up and down. To transfer this date into the date

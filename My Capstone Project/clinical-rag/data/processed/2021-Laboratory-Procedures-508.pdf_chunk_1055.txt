@@ -1,0 +1,9 @@
+will not function without the hard drive and monitor. The blood components for the CBC 
+(complete blo od count) are stable for a maximum of 24 hours when stored at room temperature. 
+Consequences.  None. 
+Actions. None. 
+10.8 .2 Scenario 2 —Power Loss When the MEC Is N ot Conducting Exams  
+If the power loss occurs when the MEC is not conducting a session, the freezers and refrigerators require action to protect the integrity of the specimens. The lab staff can continue to ship if all of the ISIS processes are complete. If the ISIS processes are not complete, the lab staff can s till pack 
+the shippers and complete the ISIS process once power is restored. 
+ Freezers and Refrigerators  
+Overview.  All three MECs have the Temperature Guard system installed. This system monitors the

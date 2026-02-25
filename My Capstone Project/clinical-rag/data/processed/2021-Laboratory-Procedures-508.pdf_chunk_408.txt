@@ -1,0 +1,10 @@
+associated electronics and fluidics. Samples prepared at the AMTC are delivered to the 
+MTM where the sample detection occurs.  
+• CBC Assembly.  The CBC Assembly provides the physical processing elements 
+necessary for CBC sample conditioning (combining of reagents and the sample segment, mixing, and incubation) and measurement via the aperture bath assemblies, the Hgb assembly, and the electrical signal conditioning circuits. 
+• Common Services Consist of t he Electronic Supply Module, Pneumatic Services,  
+and Reagent Services (Supply and Distribution) . Common services provide and 
+monitor electronic power and supplies, and monitor the reagent and waste levels as well as the pressure and vacuum. 
+   
+ 6-6  Laboratory Procedures 2021   
+6.3.2  The System Manager

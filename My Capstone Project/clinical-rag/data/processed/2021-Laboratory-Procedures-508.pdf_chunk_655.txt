@@ -1,0 +1,14 @@
+must be marked individually. 
+All vessels marked as Filled —No require a comment or explanation. 
+Enter commen t codes to describe why a vessel is marked as Filled —No, or why the protocol is 
+incomplete (Exhibi t 7-15). 
+Exhibit 7 -15. Comments for not filled vessels  
+Comment for not filled vessels  Use when  
+Laboratory error  A tube breaks in the centrifuge, contents spill, or other technologist 
+error.  
+Quantity not sufficient  Quantity of blood is not sufficient to complete the protocol.  
+SP refusal  The SP  does not provide consent , and is consequently excluded from HIV  
+testing . 
+To at
+tach a Filled —No comment to an individual vessel, use the mouse to direct the mouse arrow 
+to the drop-down list under the Comments button to display the choices, drag the arrow to the

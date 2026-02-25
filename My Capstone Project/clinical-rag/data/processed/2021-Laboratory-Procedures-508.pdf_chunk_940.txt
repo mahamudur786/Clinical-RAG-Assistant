@@ -1,0 +1,13 @@
+are needed to complete  sessions at  the current MEC site.  
+• A UFO will be entered (sighted) by one MEC staff member per component. 
+• MEC staff will enter a UFO by component name and then select  “inventory/supplies” 
+for the type of UFO entry. 
+• In the description field, the MEC staff member will request the supply or supplies 
+needed for the component. 
+• Entries are to be made as item description, then quantity requested (per item).  
+• If no additional supplies are needed for the component, record  “Nothing needed ” in 
+the description field. 
+• Do not : 
+– Request items in the UFO that are not on the component inventory list . 
+– Request changes to set par levels in mid -stand UFOs.  
+– Enter equipment issues in a UFO listed as inventory/supplies.

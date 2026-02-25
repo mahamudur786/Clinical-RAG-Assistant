@@ -1,0 +1,9 @@
+the log, drag the mouse arrow to the Print button and left -click. To clear the log and close the 
+screen, direct the mouse arrow to the Reset button and left -click, or select Enter.  
+6.19.3  DxH 800 Suspect Messages  
+Suspect messages flag an abnormal cell distribution or population. The system generates these 
+messages according to an internal algorithm.  Specific suspect messages indicate some abnormalities 
+that exhibit characteristic cluster patterns.  Suspect messages indicate the possibility of a particular 
+abnormality. Not every atypical scatterplot has a corresponding suspect message.  
+• Remedial A ction . Rerun the specimen. If the flag is “H&H Does Not Match,” use the 
+SP’s EDTA sample from processing station, if available, as a check for proper tube

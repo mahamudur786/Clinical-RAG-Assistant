@@ -1,0 +1,7 @@
+participant specimens). We will also use five blinded samples if the MECs are within driv ing distance 
+of each other. For the blinded samples, we will draw five EDTA whole blood samples from random 
+participants. These samples will be run in duplicate and compared to the second DxH 800 
+instrument. Also, we will use the 6C cell control provided by Beckman Coulter. The 6C cell control contains three levels of material that will be run in duplicate and compared to the second instrument.  
+We will compare the two or three DxH 800 instruments for each test and results (3 -5 results/test) 
+using either a percent difference or absolute difference criteria (see Exhibit 9- 7). The percent 
+difference will be calculated as absolute (x1 -x2)/mean (x1,x2). An example calculation of the percent

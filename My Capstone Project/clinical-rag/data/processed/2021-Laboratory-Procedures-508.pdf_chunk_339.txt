@@ -1,0 +1,6 @@
+assignment of each urine processing container at the end of each processing session by accessing the content container verification. Verify the contents of each container against the system. Mark the 
+top of the last vessel verified for each session with a mark specific to each individual clinical 
+laboratory scientist . 
+At the beginning of each stand, generate and print a series of barcoded, numbered labels for storage containers as described in Chapter 8. Use the shipping module to assign a barcode label to a specific 
+storage container (test). This process “opens” a storage box. Each vessel is assigned to a specific slot 
+in a specific container as processing results are entered. Slots in containers are  assigned according to

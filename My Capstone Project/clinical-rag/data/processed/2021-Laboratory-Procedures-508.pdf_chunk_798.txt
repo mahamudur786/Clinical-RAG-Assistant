@@ -1,0 +1,7 @@
+Standard criteria for run rejection based on statistical probabilities are used to declare a run either in -
+control or out-of- control. No results for a given analyte are reported from an analytical run that has 
+been declared out-of- control for that analyte as assessed by internal ( “bench” ) QC. Rejection criteria 
+are described in each method procedure in the LPM. Quality control results are captured by and stored in the ISIS. Any remedial actions for out-of-control conditions are documented in a QC 
+logbook. 
+In addition, a latex control (Latron® CP-X control) is used to monitor the volume, conductivity, 
+and light scatter (VCS) of the diff mode only. This control is run at the beginning of each day.

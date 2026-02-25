@@ -1,0 +1,13 @@
+the container(s). 
+8.11.5 Label the Shippers  
+Affix  a preprinted FedEx barcoded airbill containing the shipping address, account number, package 
+specifications and warehouse return address  on all shippers. 
+All shippers must contain a FedEx barcode label and appropriate orientation and warning labels. 
+Label all shippers with the appropriate warning labels as follows: 
+• Add a “Keep Frozen” labe l and a FedEx Class 9 – Miscellaneous Dangerous Goods 
+label on shippers containing dry ice. 
+• Add a “ Refrigerate ” label on shippers containing refrigerant packs. 
+• The warehouse places a UN 3373: “ BIOLOGICAL SUBSTANCE, CATEGORY B ” 
+label on all shippers. 
+• The warehouse places an “ overpack ” label on all shippers. 
+• The warehouse places orientation labels on the shippers.

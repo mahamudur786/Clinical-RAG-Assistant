@@ -1,0 +1,9 @@
+x Patient transport: the patient should wear a triple-layered surgical mask. 
+Contact precautions
+Contact transmission of microorganisms during patient care is responsible for the 
+majority of HAIs in patients and healthcare staff. Contact transmission can be direct or indirect.
+56 National Guidelines for Infection Prevention and Control in Healthcare Facilities
+Direct transmission
+This occurs when infectious agents are transferred from one person to another 
+without a contaminated intermediate object or person. For example, blood or other body substances from an infectious person may come into contact with a mucous membrane or breaks in the skin of another person. 
+Indirect transmission
