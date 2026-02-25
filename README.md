@@ -1,153 +1,96 @@
-# Clinical RAG Assistant
-GenAI Capstone – LLaMA-Based Clinical RAG System (TCS Internal Initiative)
-•	Designed and implemented end-to-end Retrieval-Augmented Generation (RAG) architecture using LLaMA (Ollama backend) for domain-grounded medical query support.
-•	Built custom FAISS vector index with SentenceTransformers embeddings and metadata persistence for efficient semantic retrieval.
-•	Implemented document ingestion pipeline (PDF/TXT), recursive chunking, and contextual retrieval framework.
-•	Developed safety guardrails and escalation detection logic for high-risk symptoms.
-•	Integrated Streamlit-based user interface for interactive query evaluation and structured response generation.
-•	Demonstrated practical enterprise use-case for AI-assisted reporting and knowledge retrieval systems.
+**Clinical RAG Assistant: LLaMA-Based Medical Query System**
 
-1️⃣ Config & Environment Control
+A sophisticated Retrieval-Augmented Generation (RAG) architecture designed for domain-grounded medical query support. This project, developed as a TCS Internal Initiative, focuses on high-precision retrieval, medical safety guardrails, and deterministic evaluation frameworks.
+🚀 Key Features
 
-You centralized environment configs, embedding models, LLM backend, and safety disclaimer in config.py 
+    Domain-Grounded Retrieval: Utilizes a custom FAISS vector index with SentenceTransformers for high-accuracy semantic search over clinical documentation.
 
-config
+    Safety & Escalation Layer: Integrated logic to detect high-risk symptoms and enforce emergency disclaimers—essential for regulated-domain AI.
 
-That shows:
+    Production-Style ETL: Implements recursive character splitting with controlled overlap to maintain context window integrity.
 
-Environment abstraction
+    Infrastructure Abstraction: Centralized configuration management for seamless environment switching and model parameterization.
 
-Model configurability
+    Interactive UI: A Streamlit-based interface providing a clean, professional entry point for clinical researchers and practitioners.
 
-Production-style parameterization
+🛠️ Technical Stack
+Component	Technology
+LLM Backend	LLaMA (via Ollama)
+Embeddings	SentenceTransformers
+Vector Database	FAISS (with metadata persistence)
+Orchestration	LangChain / Python
+Frontend	Streamlit
+Data Formats	PDF, TXT
+📂 Project Structure
+Bash
 
-That is strong engineering hygiene.
+├── config.py           # Environment abstraction & model hyper-parameters
+├── ingest.py           # Document ETL: PDF/TXT ingestion & recursive chunking
+├── embed_index.py      # Vector embedding generation & FAISS index management
+├── rag_pipeline.py     # RAG logic: Context assembly & Ollama integration
+├── safety.py           # Guardrails, escalation logic, & disclaimer enforcement
+├── evaluation.py       # Framework for deterministic system validation
+└── ui_streamlit.py     # Streamlit-based interactive user interface
 
-2️⃣ Document Ingestion & Chunking
+⚙️ Implementation Details
+1. Document Ingestion & Chunking
 
-You implemented:
+The pipeline utilizes a Recursive Character Text Splitter with a strategy designed for medical density:
 
-PDF + TXT ingestion
+    Chunk Size: 800 tokens
 
-Recursive chunking (LangChain splitter)
+    Chunk Overlap: 150 tokens
+    This ensures that clinical nuances are not lost across split boundaries.
 
-Overlapping chunk strategy
+2. Vector Indexing
 
-Processed storage pipeline
+Unlike "black-box" vector database implementations, this system features a manual FAISS index management layer. By persisting metadata locally, the system ensures full control over the retrieval layer without relying on expensive managed services.
+3. Safety Guardrails
 
-From ingest.py 
+In a clinical context, "hallucination" can be dangerous. The safety.py module acts as a middleware that:
 
-ingest
+    Scans queries for emergency keywords.
 
-This shows:
+    Triggers escalation logic for high-risk symptoms.
 
-Document ETL mindset
+    Appends mandatory medical disclaimers to every response.
 
-Structured preprocessing pipeline
+🚦 Getting Started
+Prerequisites
 
-Controlled chunking strategy (800 size, 150 overlap)
+    Python 3.9+
 
-That is exactly how enterprise RAG systems are built.
+    Ollama installed and running locally.
 
-3️⃣ Vector Embedding & Indexing
+    LLaMA model pulled: ollama pull llama3 (or your preferred version).
 
-You:
+Installation
 
-Used SentenceTransformers
+    Clone the repository:
+    Bash
 
-Generated embeddings
+    git clone https://github.com/your-repo/clinical-rag-assistant.git
 
-Built FAISS index
+    Install dependencies:
+    Bash
 
-Persisted metadata
+    pip install -r requirements.txt
 
-From embed_index.py 
+    Initialize the vector store:
+    Bash
 
-embed_index
+    python ingest.py
+    python embed_index.py
 
-This is:
+    Launch the application:
+    Bash
 
-Custom FAISS index management
+    streamlit run ui_streamlit.py
 
-Not relying on managed vector DB
+📈 Enterprise Validation
 
-Manual metadata persistence
+This project demonstrates a "Production-First" mindset:
 
-Full control of retrieval layer
+    Deterministic Evaluation: Includes a test suite to validate RAG responses against structured cases.
 
-That’s deeper than many "LangChain-only" projects.
-
-4️⃣ RAG Pipeline & LLM Integration
-
-From rag_pipeline.py 
-
-rag_pipeline
-
-You implemented:
-
-Retrieval
-
-Context assembly
-
-Prompt structuring
-
-Ollama LLaMA backend
-
-Structured task instructions
-
-Escalation logic
-
-This is a clean RAG architecture.
-
-Not just "call LLM".
-
-5️⃣ Safety & Escalation Layer
-
-From safety.py 
-
-safety
-
-You implemented:
-
-Guardrails
-
-Escalation triggers
-
-Disclaimer enforcement
-
-Emergency term detection
-
-That is regulated-domain thinking.
-
-Banks LOVE that mindset.
-
-6️⃣ Evaluation Framework
-
-From evaluation.py 
-
-evaluation
-
-You tested structured cases.
-
-That shows:
-
-Controlled testing approach
-
-Deterministic evaluation
-
-System validation
-
-7️⃣ UI Layer
-
-Streamlit front-end for user interaction
-From ui_streamlit.py 
-
-ui_streamlit
-
-That shows:
-
-End-to-end system ownership
-
-User interface integration
-
-Deployment awareness
+    Escalation Detection: Ready for deployment in environments where risk mitigation is the top priority (e.g., Banking, Healthcare).
