@@ -1,4 +1,0 @@
-expected within a speciﬁ  c geographical area over a deﬁ  ned time period.121 In 
-the context of HAIs, the geographical area may be a hospital, ward, intensive care unit (ICU) or operation room. When there are more cases of infection with the same organism than would normally be expected in one area or period, this constitutes an outbreak. It is important to investigate an HAI outbreak immediately, as the availability and quality of microbiological evidence and epidemiological data diminishes rapidly with time between illness and investigation.
-“Outbreaks” vs “Clusters”
-Sometimes small outbreaks are referred to as clusters (e.g. HBV and HCV). A cluster is an aggregation of cases grouped with respect to person, place and time which are suspected to be greater than the number expected.

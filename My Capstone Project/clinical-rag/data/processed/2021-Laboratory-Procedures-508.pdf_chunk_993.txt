@@ -1,9 +1,0 @@
-until lowered to the safe operating position. When the window is lowered below 2 inches (50 mm), the motor/blower automatically shuts down to prevent stress on the motor/blower in the form of overheating. The maximum window height is 19 ½ inches (495 mm).  
-   
- 10-41  Laboratory Procedures 2021   
-Exhibit 10-7. Operating the laminar flow biological safety cabinet  (continued)  
-1.1.11 Convenience/Accessory Outlet  
-A convenience/accessory outlet is in  the upper- left corner behind the window assembly. The outlet 
-is normally wired “hot” through the motor/blower circuit breaker. If an accessory is purchased, the 
-outlet is defined as an accessory outlet supplying 115 VAC at 2.0 amp maximum and is wired to the blower switch (see electrical schematic).  
-1.2 Operating Guidelines

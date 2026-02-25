@@ -1,4 +1,0 @@
-Airborne precautions
-The airborne route of infection occurs through droplet nuclei of 1–5 micron that are disseminated through the air. These droplet nuclei can remain suspended in the air for varying periods of time and can travel long distances (>1 metre) and from room to room. Droplet nuclei arise from the drying of suspended droplets carrying the infectious agent. 
-Diseases that spread by the airborne route include: pulmonary or laryngeal 
-tuberculosis, measles, chicken pox, pulmonary plague and viral haemorrhagic fever with pneumonia. Transmission of droplet nuclei within a short range may occur with SARS-CoV, human inﬂ  uenza, and other viral respiratory infections, during performance of aerosol-generating procedures.

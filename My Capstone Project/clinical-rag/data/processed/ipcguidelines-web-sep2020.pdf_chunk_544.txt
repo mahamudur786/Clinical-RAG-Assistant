@@ -1,7 +1,0 @@
-4. Construct a case deﬁ  nition
-This is one of the most important steps in identifying the cases in outbreak 
-investigation. Before counting cases, the investigating team must decide what to count, that is, what to call a case by using a set of standard criteria for classifying whether a person has a particular disease, syndrome, or other health condition called as case deﬁ  nition. Some case deﬁ  nitions, particularly those used for national 
-surveillance, have been developed and adopted as national standards that ensure comparability. Using an agreed upon standard case deﬁ  nition ensures that every 
-case is equivalent, regardless of when or where it occurred, or who identiﬁ  ed it.
-Elements of a case deﬁ  nition include:
-x Clinical criteria (signs and symptoms)

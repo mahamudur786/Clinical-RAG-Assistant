@@ -1,8 +1,0 @@
-7. Standards for dry heat sterilization
-Waste sharps can be treated by dry heat sterilization at a temperature not less than 185 °C, at least for a residence period of 150 minutes in each cycle, which sterilization period of 90 minutes. There should be automatic recording system to monitor operating parameters.1. Validation test for sharps sterilization unit 
- Waste sharps sterilization unit should completely and consistently kill the biological 
-indicator Bacillus stearothermophillus  or Bacillus atropheausspores  using vials with at 
-least log10
-6 spores per ml. The test shall be carried out once in three months
-2. Routine test
- A chemical indicator strip or tape that changes colour when a certain temperature is

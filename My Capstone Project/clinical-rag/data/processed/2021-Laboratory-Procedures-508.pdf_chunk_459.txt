@@ -1,9 +1,0 @@
-highlighted in yellow for that parameter if N>=2 and N<15, or in red if N>=15.  
-RMSE  Root Mean Square Error (RMSE) displays when Extended QC is enabled. The RMSE is 
-a Single Measurement Error. If the value exceeds the Single Measurement Error limit, the RMSE value will be highlighted in yellow for that parameter if N>=2 and 
-N<15. The value is highlighted in red if N>=15.  
-If the parameter’s target is not applicable, NA  displays in this field.  
-N The number of included points within the specified filter.  
-Target  The assigned target of the parameter being used in your lab at the time of the 
-control analysis. The target used by Extended QC will be based on what has been 
-configured for t raditional QC (either assigned or Mean to Target values).

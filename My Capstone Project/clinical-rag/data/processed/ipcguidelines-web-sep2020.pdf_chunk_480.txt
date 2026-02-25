@@ -1,6 +1,0 @@
-Types of surveillance appropriate for HAIs103
-x Active surveillance.  This involves systematic collection of data by a 
-designated trained hospital infection control professional/nurse. Information is accumulated by using a variety of data sources within and beyond the wards. (Passive surveillance consists of reporting of any occurrence of suspected HAI by clinicians or ward staff nurses, and is not an efﬁ  cient method to track HAIs.)
-x Process and outcome surveillance.  This is an audit of a practice or process 
-of IPC such as hand hygiene or care bundles. Outcome surveillance aims to detect an HAI event such as BSI, UTI, etc.
-x Clinical/patient-based surveillance.  This involves counting of HAIs,

@@ -1,8 +1,0 @@
-laboratory. Review the information in the urine-processing window and save the data to the 
-database.  
-Store each filled vessel in the assigned slot in the assigned container. To record this action or to save 
-the data to th e database, direct the mouse arrow to the “ Save” button and left- click. To record this 
-action or to save the data to the database and exit the module, direct the mouse arrow to the “ OK” 
-button and left- click. To close the window without saving any data in the database, direct the mouse 
-arrow to the “ Cancel ” button and left- click.  
-4.11 Second and Third Urine Samples

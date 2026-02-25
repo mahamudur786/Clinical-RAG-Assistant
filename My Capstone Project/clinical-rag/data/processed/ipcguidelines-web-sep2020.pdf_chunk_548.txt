@@ -1,7 +1,0 @@
-x Clinical information should be collected to verify that the case deﬁ  nition has 
-been met, to characterize the disease and to create an epidemic curve. This includes the symptoms, the date of symptom onset, the severity of illness, and lab test results.
-x Risk factor information is dependent upon the speciﬁ  c outbreak and allows the 
-investigating team to accordingly focus on the investigation. Since it is done in the preliminary stages of an investigation, risk factor information is usually conﬁ ned to general potential risk factors and well-established risk factors. 
-158 National Guidelines for Infection Prevention and Control in Healthcare Facilities
-Data collection tool/ form
-The data of each individual should be collected in a standard data collection form/

@@ -1,5 +1,0 @@
-functioning prope rly or if there is a change in the tare weight of either the urine collection cups or 
-urine containers for 3- to 5-year-olds. The weights will be entered manually until the new tare weight 
-is programmed in ISIS. 
-Open the Urine Collection screen from the heads-up as described in Section 2.2. The urine 
-collection window displays. At this point, the technician can modify the volume of the urine and the collection date/time.

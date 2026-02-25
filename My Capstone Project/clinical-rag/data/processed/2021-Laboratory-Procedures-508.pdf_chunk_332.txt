@@ -1,9 +1,0 @@
-assigned to a slot in an existing (open) container and the next open slot number. 
-To mark an individual urine vessel as not collected or Filled —No, direct the mouse arrow to the 
-center of the No radio button and left- click. As each vessel is marked as Filled —No, the comment 
-“quantity not sufficient” is automatically entered in the Comments column. 
-To
- collectively mark all vessels as Filled —Yes, direct the mouse arrow to the Filled button on the 
-top of the radio buttons and left -click, then  drag the arrow to Fill All and left- click. 
-To mark all vessels as Filled —No, direct the mouse arrow to the Filled box and left- click, then drag 
-the mouse arrow to Not Filled All and left- click.

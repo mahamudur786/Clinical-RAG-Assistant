@@ -1,9 +1,0 @@
-instrument, kit, or test system has remained stable throughout the laboratory’ s 
-reportable range for survey participant test results. ” 
-• QC R equirements of E ach A nalytical R un. Analysis of study participant samples is 
-organized into analytical runs. The minimum QC requirement for an analytical run, 
-which is analyzing study participant specimens, is that the run includes at least two 
-internal (“bench” ) QC specimens that meet the NHANES -specified Westgard rules.  
-9.6.4 Overview of the Relationship Between Internal QC, Proficiency 
-Testing, and External QC  
-A Beckman Coulter technical representative performs DxH 800 instrument setup and verification

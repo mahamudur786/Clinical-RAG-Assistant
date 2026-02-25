@@ -1,8 +1,0 @@
-when the process status is  . The SP is eligible for a module, and some results have been recorded 
-when the process status is  . The SP is eligible for a module, all results have bee n recorded, and the 
-module is complete when the process status is  .
-The process status for blood processing (B) and the CBC will not enable ( ) until at least one blood 
-tube has been recorded as collected in the phlebotomy component. The process status is   for 
-urine processing (U), and pregnancy testing (P),  until the SP ’s urine is marked as collected in the UC 
-module. Once these samples are collected, the process status changes from   to . The process 
-status regularly updates and changes after each result is saved.

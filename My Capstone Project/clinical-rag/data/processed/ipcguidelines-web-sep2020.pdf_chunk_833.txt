@@ -1,6 +1,0 @@
-90-day surveillance
-Code Operative procedure
-BRST Breast surgery
-CARD Cardiac surgeryCBGB Coronary artery bypass graft with both chest and donor site incisionsCBGC Coronary artery bypass graft with chest incision onlyCRAN CraniotomyFUSN Spinal fusionFX Open reduction of fractureHER HerniorrhaphyHPRO Hip prosthesisKPRO Knee prosthesisPACE Pacemaker surgeryPVBY Peripheral vascular bypass surgeryVSHN Ventricular shunt
-Note:  Superﬁ  cial incisional SSIs are followed only for a 30-day period for all procedure types.
-Secondary incisional SSIs are followed only for a 30-day period regardless of the surveillance period for the primary site.

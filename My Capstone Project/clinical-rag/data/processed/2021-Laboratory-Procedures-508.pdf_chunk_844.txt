@@ -1,6 +1,0 @@
-An automated continuous TempGuard system monitors the room t emperature and the internal 
-temperature of the laboratory refrigerators and freezers. When the system detects a significant increase in the temperature, it begins calling designated staff. The MEC managers and facilities and 
-equipment specialists have been  identified as those individuals responsible for responding to the call 
-by typing in a response code. The temperature increase could be confined to one freezer or 
-refrigerator, to multiple units, or all units. The temperature increase could be due to any number of circumstances such as a loss of power because a circuit breaker tripped, a compressor 
-malfunctioned, or a system failed. The MEC manager or data manager implements corrective

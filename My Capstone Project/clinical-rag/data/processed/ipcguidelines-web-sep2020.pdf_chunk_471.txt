@@ -1,5 +1,0 @@
-staff, contractors;
-x Competency of laboratory staff in handling the pathogen, whether the staff is 
-trained to handle the pathogen/ procedure in a safe manner; and
-x Local availability of effective prophylaxis or therapeutic interventions.
-Risks must be assessed at all sites where diagnostic testing is carried out, including

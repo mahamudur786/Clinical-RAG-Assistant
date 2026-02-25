@@ -1,5 +1,0 @@
-Investigating an HAI outbreak may vary based on the type of setting, site of 
-infection/disease, type of pathogen involved, etc. For example, a respiratory infection outbreak in an intensive care unit of a hospital may require a better understanding of a patient’s location within the hospital, history of ventilation, and receipt of respiratory treatments/ medications. In contrast, an outbreak of infections associated with an inpatient facility may require a better understanding of vascular access type or details about procedures/ infusions received in that facility, etc.
-124,125 
-1. Veriﬁ  cation of diagnosis 
-Veriﬁ cation of diagnosis is the ﬁ  rst step in an outbreak investigation as sometimes

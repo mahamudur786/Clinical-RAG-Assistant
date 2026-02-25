@@ -1,4 +1,0 @@
-A QA program also monitors laboratory performance to detect excessive random or systematic 
-error. Random error is defined as a ny deviation from an expected result. There is acceptable or 
-expected random error as defined by standard deviation (SD). There is also unacceptable or 
-unexpected random error that is any data point outside the expected population of data, such as a data p oint that is outside of ± 3 SD from the expected result. Factors contributing to random error

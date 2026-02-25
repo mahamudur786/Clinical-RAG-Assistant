@@ -1,9 +1,0 @@
-outside of the appointment block, ask the SP if they are willing to wai t until they have met the 
-fasting time. If they are not  willing to wait , select “no” and continue with the blood collection. If 
-they agree  to wait , contact  the coordinator and MEC manager to coordinate a place for the SP to 
-wait for the blood draw once they have completed all of the other components. Select “ yes” in the 
-block and escort the SP to the next component as directed by the coordinator. For those SP’s who 
-have not met the 8-hour fast, the coordinator screen turns yellow and will turn back to green  when 
-the 8 -hour fasting requirement has been met. The coordinator will assign the SP to phlebotomy 
-when that time has been met.  
-The

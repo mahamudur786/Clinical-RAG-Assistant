@@ -1,8 +1,0 @@
-thermometer readings in the Result text box. Press Tab or Enter to move to the Comment text box. 
-Type any  actions associated with an unexpected result in the Comment text box. Select [Tab] to 
-move to the next line. 
-A red checkmark on the top of the file header indicates that all QC activities associated with that 
-requirement were successfully recorded and saved to the database  as shown in E xhibit 10- 18. 
-Exhibit 10 -18. Quality control complete  
-10.7 Unusual Field Occurrence  
-Document any unusual occurrence using the Unusual Field Occurrence (UFO) utility. The Hard -Copy Unusual O ccurrence Log (see Exhibit 10 -19) is available as a backup. Record the date,

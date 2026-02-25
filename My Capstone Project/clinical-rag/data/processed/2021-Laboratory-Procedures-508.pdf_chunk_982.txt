@@ -1,5 +1,0 @@
-includes replacement of high efficiency particulate air (HEPA) filters as necessary.  
-The basic concept of the LFBSC is to take air through a blower system, pressurize a plenum, and force air through a filter. Built -in supply and exhaust blowers come with separate HEPA filters. The  
-recirculating airflow pattern directs a portion of the HEPA filtered air straigh t down over the central 
-work area driving the airborne contaminants into the surrounding grills, allowing a pollution- free 
-environment for particular specifications. If a filter is defective, the filtration system no longer filters and becomes a vacuum cle aner, taking in gross contamination and exploding it through the defective

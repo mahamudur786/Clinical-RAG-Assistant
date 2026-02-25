@@ -1,5 +1,0 @@
-C omplete Blood Count  
-The goal of internal QC is to provide a rapid feedback to the analyst on the performance of the 
-measurement process to ensure that the analytical results and factors affecting analytical results are 
-within acceptable limits. At least three internal QC specimens (6C cell control) are included in each analytical run. The QC material used as internal QC specimen has levels of the analyte, which are useful for monitoring method performance. 
-The 6C cell control is a hematology reference control used to monitor the performance of

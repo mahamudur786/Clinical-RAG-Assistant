@@ -1,7 +1,0 @@
-performed. Alternatively, to record a result, direct the mouse  arrow to the drop-down list, drag the 
-arrow to the correct choice, and left -click. To update the results without exiting the window, direct 
-the mouse arrow to the Save button and left-click. To update the results and exit the window, direct the mouse arrow to the OK button and left- click or select Enter. To exit the module without 
-saving any result, direct the mouse arrow to the Cancel button and left -click.  
-Continue performing pregnancy tests and recording the results. Save the test results after entering 
-each positive, negative, or invalid result . To update the results without exiting the window, direct 
-the mouse arrow to the Save button and left-click. To update the results and exit the window, direct

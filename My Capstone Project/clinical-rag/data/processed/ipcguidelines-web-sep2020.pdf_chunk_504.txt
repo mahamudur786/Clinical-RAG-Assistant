@@ -1,8 +1,0 @@
-x Ensure adequate control of serum blood glucose levels in all diabetic patients.
-x Preoperative bathing of patient by a plain or antimicrobial/ medicated soap.
-x Administration of surgical antimicrobial prophylaxis (SAP) is prior to the 
-surgical incision when indicated (depending on the type of operation). Various antimicrobials have different half-lives. The timing of administration should be within 120 minutes before incision, while considering the half-life of the antimicrobial. 
-x Mechanical bowel preparation alone (without the administration of oral 
-antibiotics) should NOT be used in adult patients undergoing elective colorectal surgery.
- Healthcare-associated infections and their surveillance 143
-x In patients undergoing any surgical procedure, hair should either NOT be

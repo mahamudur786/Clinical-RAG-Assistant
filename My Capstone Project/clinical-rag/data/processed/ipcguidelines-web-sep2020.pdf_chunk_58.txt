@@ -1,6 +1,0 @@
-Healthcare-associated infection (HAI), previously referred to as “nosocomial” or 
-“hospital” infection, occurs in a patient during the process of care in a hospital or other healthcare facility (HCF), but was not present or incubating at the time of admission. HAIs include occupational infections among healthcare providers. 
-HAIs are one of the most common adverse events during healthcare delivery 
-and a major public health issue affecting morbidity, mortality and quality of life. At any time, up to 7% of patients in developed and 10% in developing countries will acquire at least one HAI,
-1 causing a considerable economic burden to the society. 
-However, HAIs are largely preventable through effective infection prevention and control (IPC) measures.

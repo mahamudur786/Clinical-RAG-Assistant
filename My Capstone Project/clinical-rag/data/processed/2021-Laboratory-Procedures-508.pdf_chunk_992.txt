@@ -1,4 +1,0 @@
-pressure will increase, gi ving an indication of the “ health ” of the cabinet. The initial pressure reading 
-will be approximately 0.05  w.g to 0.550 w.g. depending on altitude from sea level.  
-1.1.10  Sliding Window Operation  
-The cabinet has a full counter balanced and removable sliding tempered glass window with two operational features. As the window is raised above its specified operating height, an audible alarm alerts the operator of possible compromised personnel protection. At the same time, an audible and visual alarm are  activat ed. The audible alarm may be switched off while the visual alarm remains  on

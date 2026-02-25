@@ -1,7 +1,0 @@
-9.2.1 Introduction  
-The goal of specimen submission and handling is to optimize the accurate and reliable measurement 
-of analytes of interest. Each analytical procedure used in NHANES is documented in the Laboratory Proced ure Manual ( LPM) . Eac h method in the LPM specifies the procedure to be used 
-for preparation of the study participant (SP), specimen collection, labeling, processing, and 
-preservation, as well as conditions for appropriate specimen transport. The methods may refer to 
-the NHANES  blood collection protocol or urine collection protocol, noting any special 
-requirements. These protocols are a starting point due to the special contamination requirements needed for collection of specimens analyzed for metals and volatile organic compounds (VOCs).

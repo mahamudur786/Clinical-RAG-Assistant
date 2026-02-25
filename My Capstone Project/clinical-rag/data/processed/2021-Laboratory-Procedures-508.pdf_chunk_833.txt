@@ -1,9 +1,0 @@
-• Accuracy of each analytical method will be determined by analysis of calibrators and 
-yearly linearity checks as described in the section of th is manual on quality control. 
-• Precision  of each analytical method is determined by analysis of QC reference materials 
-as described in the section of this manual on quality control. 
-• Analytical specificity  is determined for each method, including effects of potential 
-interfering substances by the manufacturer. This may be verified by testing the effect of 
-potential interfering substances in method development, by analyzing reference 
-materials, comparing results on split samples with a method considered more definitive, 
-or analyzing a sample of persons (n>20) and examining the measurement output

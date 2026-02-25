@@ -1,8 +1,0 @@
-10.4.3  Use of the Temperature Recording Instrument ...............  10-33 
-10.4.4  Use of the Class II Type A Biological Safety 
-Cabinet ...................................................................................  10-36 
-10.4.5  Thermometers – Ambient Air Temperature ....................  10-49 
-10.4.6  Humidity Monitor ................................................................  10-49 
-10.4.7  Mettler Toledo Scale  ............................................................  10-49 
-10.4.8  Eppendorf Pi pette  ................................................................  10-52 
-10.4.9  Safety Precautions, Handling, and Battery for the Xplorer Plus ....................................................................  10-52

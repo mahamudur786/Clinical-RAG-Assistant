@@ -1,9 +1,0 @@
-• Review the calibration results. 
-• If all the results are within the specified parameters: Print >Select Finish . 
-• If results recommend calibration (the boxes at the bottom of the calibration screen are 
-check marked )>Select OK . 
-The background of the Factor %Diff, %CV, and Difference cells change s color when the presented 
-value is out of the normal range as follows: 
-• Yellow for Difference indicates that the value is out of range, which means that calibration is recommended. 
-• Red applies only to the %CV and indicates that the statistical value is NOT within range and the system does NOT allow calibration.  
-When all results are acceptable, the Edit System Recommendations  button at the bottom- right

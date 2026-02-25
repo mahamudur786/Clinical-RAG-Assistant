@@ -1,9 +1,0 @@
-in files. Laboratory staff transfer the files to a CD -RW and then send the disk to the Westat 
-Laboratory Component Lead, who uploads the data in the Beckman Coulter IQAP system and 
-compares the results to those from other laboratories. Beckman Coulter issues a report that contains a statistical analysis to evaluate performance. The laboratory staff perform this procedure at the end 
-of each stand, using procedures described in Chapter 6. 
-The chief tec hnologist will review all Levey -Jennings charts weekly to watch for shifts or trends 
-using the following Westgard rules (Exhibits 9-2 through 9- 6). If shifts or trends are noted, the chief 
-technologist will consult with the technical consultant on any necessary adjustments. 
-   
- 9-14 Laboratory Procedures 2021

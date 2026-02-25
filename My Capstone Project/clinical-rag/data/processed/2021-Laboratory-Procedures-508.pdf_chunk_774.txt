@@ -1,4 +1,0 @@
-9.5.2 Review, Approval, and Release of Test Results  
-Upon completion of laboratory testing, the laboratory staff is responsible for reviewing the quality control results and ensuring that the measurement process was within control limits for each of the participants’ analyses.  
-For NHANES surveys, the initial evaluation  of quality control (QC) results is accomplished 
-electronically by comparing the QC results to QC limits stored in a relational database. The laboratory staff performing the complete blood count (CBC) and urine pregnancy test, reviews these QC performance results and ensures that only acceptable SP data is  reported.

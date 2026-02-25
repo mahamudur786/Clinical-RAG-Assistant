@@ -1,4 +1,0 @@
-1. Hand hygiene
-The WHO guidelines on hand hygiene in healthcare (2009) suggest that42 hand 
-hygiene is the single most important measure for prevention of infection. Hands can become contaminated with infectious agents through contact with a patient, patient surroundings, the environment, or other HCWs. Hand hygiene removes dust/soil, organic material and transient microorganisms from the skin and reduces the risk of cross-contamination. Evidence suggests that the hands of HCWs are the most common vehicle for the transmission of healthcare-associated pathogens from patient to patient and within the healthcare environment (Box 4.1). Studies show a direct correlation between an increase in adherence to hand hygiene with decrease in HAIs. 
-Box 4.1. Hand decontamination

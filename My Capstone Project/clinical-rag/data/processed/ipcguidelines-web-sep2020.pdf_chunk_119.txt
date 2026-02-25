@@ -1,9 +1,0 @@
-Infection prevention and control programme 21
-x Ensuring safe laboratory practices to prevent infections among laboratory staff;
-x Ensuring rapid diagnosis of infections, identiﬁ  cation of pathogens and 
-antimicrobial susceptibility testing of isolated pathogens by standardized procedures;
-x Communicating promptly about suspected cases of HAI to the HICC;
-x Analysing and reporting the antibiogram of relevant pathogens in different units 
-and in different specimens; and
-x In accordance with the microbiological surveillance policy of the HICC, 
-microbiological testing of drinking water, dialysis water, biological testing of sterilizers, and epidemiologically investigating outbreaks including the typing of organisms to detect the source, reservoirs and transmission of infection.

@@ -1,8 +1,0 @@
-Open the Urine Collection screen from the heads-up as described in Section 2.2. The urine collection window displays. Double-click in the area underneath Volume or Collection Date/Time to open the boxes where the values can be entered. Enter the urine collection results by typing in the weight reading from the scale ’s display in the box for volume. 
-If the next box is selected by pressing the Tab key  or using the mouse, a prompt will pop up asking 
-if you would like to subtract the weight of the urine cup from the result entered. Select “ Yes.” 
-Cont
-inue to enter the urine results as described in Section 4. 10. Verify and save the results. 
-   
- 4-21  Laboratory Procedures 2021   
-4.5.3 Manually  Entering Adults W ho Collect in 3- to 5-Year -Old Container

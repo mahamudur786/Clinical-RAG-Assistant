@@ -1,8 +1,0 @@
-x The building design should seek to capture solar heat and minimize conduction 
-loss through the wall. Proper insulation of walls and the use of double glazing on windows are desirable. 
-x Where augmentation of ventilation is required, the use of air exhaust fans may 
-help maintain adequate ventilation, even where windows or doors are closed. 
-x Targeted radiant or direct near-body heating methods are more effective than 
-common convective radiators. This includes modern electric coil heaters and heated blankets/ mattresses. 
-Directional control of air ﬂ  ow
-x Directional control of air ﬂ  ow is recommended in speciﬁ  c high-risk settings

@@ -1,8 +1,0 @@
-enter the date. To access the calendar, direct the mouse arrow to the ellipsis (…) and left -click. To 
-select the correct month, direct the mouse arrow to the drop-down list, drag the arrow to the correct month (use the scroll bar if necessary), and left -click. To select the correct day, direct the 
-mouse arrow to the correct day on the displayed month and left- click. To correct the year, direct 
-the mouse arrow to the up/down controls on the spin box and toggle the year up and down. To transfer this date into the text box, direct the mouse arrow to the OK button and left- click. To exit 
-the calendar function, direct the mouse arrow to the Cancel button and left- click.  
-   
- 5-9  Laboratory Procedures 2021   
-T

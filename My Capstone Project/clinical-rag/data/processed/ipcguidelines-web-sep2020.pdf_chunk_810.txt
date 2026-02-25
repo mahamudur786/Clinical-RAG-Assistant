@@ -1,7 +1,0 @@
-xAir should be circulated by positive pressure through high efﬁ  ciency particulate air (HEPA) 
-ﬁ lters. These are special ﬁ  lters, which can remove particles greater than 0.3 micron. Bacteria 
-will be removed, as the size of bacteria is 0.5–1 micron. HEPA ﬁ  lters should be monitored 
-for efﬁ  ciency on a regular basis and changed when required.
-xThe ventilation rate is expressed as the number of air changes per hour. For an OT, the 
-recommended ventilation rate is 20 air changes per hour.
-xTo prevent contamination of the clean zones, the direction of airﬂ  ow should be from the

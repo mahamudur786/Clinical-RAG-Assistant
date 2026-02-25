@@ -1,7 +1,0 @@
-operative procedures
-Day 1 = the date of the procedure 
-30-day surveillance
-Code Operative procedure Code Operative procedure
-AAA Abdominal aortic aneurysm repair LAM LaminectomyAMP Limb amputation LTP Liver transplantAPPY Appendix surgery NECK Neck surgeryAVSD Shunt for dialysis NEPH Kidney surgeryBILI Bile duct, liver or pancreatic surgery OVRY Ovarian surgeryCEA Carotid endarterectomy PRST Prostate surgeryCHOL Gallbladder surgery REC Rectal surgeryCOLO Colon surgery SB Small bowel surgeryCSEC Caesarean section SPLE Spleen surgeryGAST Gastric surgery THOR Thoracic surgeryHTP Heart transplant THYR Thyroid and/ or parathyroid surgeryHYST Abdominal hysterectomy VHYS Vaginal hysterectomyKTP Kidney transplant XLAP Exploratory laparotomy
-90-day surveillance
-Code Operative procedure

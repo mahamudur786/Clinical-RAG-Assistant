@@ -1,4 +1,0 @@
-temperature is reached can be used to verify that a speciﬁ  c temperature has been achieved. 
-It may be necessary to use more than one strip over the waste package at different locations to ensure that the inner content of the package has been adequately autoclaved. The occupier or operator of a common biomedical waste treatment facility shall conduct this test during autoclaving of each batch and records in this regard shall be maintained.
-7. Spore testing: The autoclave should completely and consistently kill the approved biological 
-indicator at the maximum design capacity of each autoclave unit. Biological indicator for autoclave shall be Bacillus stearothermophilus spores using vials or spore strips; with at least 1×10

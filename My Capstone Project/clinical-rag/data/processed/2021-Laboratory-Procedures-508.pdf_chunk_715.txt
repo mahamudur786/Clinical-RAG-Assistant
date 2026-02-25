@@ -1,7 +1,0 @@
-8.7 Shipping Overview  
-The integrity of laboratory specimens is critical to NHANES. Storage temperatures have been 
-established for each analyte in consultation with the National Center for Health Statistics (NCHS) 
-and contract laboratories. It is critical to maintain these established conditions throughout specimen 
-storage and shipping and until their receipt by the contract laboratories. Maintain these conditions by using documented procedures, which include using sufficient dry ice, refrigerant packs, and sending specimens by FedEx priority overnight. 
-FedEx priority overnight guarantees next -business- day delivery by 10:30 am to most U.S. addresses , 
-and by noon, 4:30 pm,  or 5 pm in remote areas. Delivery by FedEx can be delayed due to a weekend

@@ -1,6 +1,0 @@
-Blood processing includes centrifuging and storing blood collection tubes; aliquoting whole blood 
-into storage vessels; centrifuging, separating, and aliquoting plasma and serum into storage vessels; perfo rming dilutions; washing and lysing whole blood cells ; and storing the specimens in the Mobile 
-Examination Center (MEC) until they are shipped to the testing laboratories for analysis or the biorepository for long- term storage . 
-Lists of consumable and non-consumable supplies for blood processing can be found in Chapter 11. 
-7.2 Blood Processing Age -Specific Protocols  
-Due to the volume of blood needed for testing, the NHANES testing protocol varies by age groups: 1-2, 3-5, 6-11, 12- 19, and 20+. Exhibits 7-1 through 7-5 illustrate the blood processing protocols for

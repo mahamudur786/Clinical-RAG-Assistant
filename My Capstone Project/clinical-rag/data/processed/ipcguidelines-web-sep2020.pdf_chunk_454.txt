@@ -1,9 +1,0 @@
-x Keep the container open only long enough to remove a portion for direct smear 
-preparation if not processing for culture.
-Risk assessment
-Risk assessment of all activities being performed in the laboratory is mandatory to be able to manage and reduce the risks to those working in the laboratory. Risk must be assessed taking into account the adequacy of any existing controls and whether or not the risk is acceptable. Risk assessment involves systematically reviewing the work to see:
-x which biological agents may be present; 
-x identifying the hazardous characteristics of known infectious or potentially 
-infectious agent or material (see the classiﬁ  cation of infective microorganisms 
-by risk group); 
-x activities in the laboratory that can result in a person’s exposure to an agent

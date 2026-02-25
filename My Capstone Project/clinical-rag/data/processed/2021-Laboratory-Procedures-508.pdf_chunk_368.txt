@@ -1,9 +1,0 @@
-5-10  Laboratory Procedures 2021   
-key. Alternatively, direct the mouse arrow to the drop-down list; drag the mouse arrow to Negative, 
-and left- click.  
-If t
-he positive and negative controls demonstrate the expected result, direct the mouse arrow to the 
-OK button and left- click to save the results and proceed with pregnancy testing. To cancel and exit 
-the module without recording or saving any QC results to the database, direct the mouse arrow to the Cancel button and left-click. To delete the information in the window and exit the module without recording or saving any QC results to the database, direct the mouse arrow to the Delete 
-button and left- click.  
-Enter a comment for any result that is inconsistent with expected results. If the OK button is

@@ -1,6 +1,0 @@
-interchanged unless otherwise specified by the manufacturer.  
-Beckman Coulter reagents are monitored and documented in the Beckman Coulter Data Management System and are additionally located on the instrument Daily Checks report. A copy of all startup results is filed in the quality control notebook and sent back to the Westat home office at the end of each stand. The clinical laboratory scientist documents any unusual occurrence in the 
-automated Unusual Occurrence Log or repair of the Beckman Coulter DxH 800 in the automated 
-Equipment Tracking System.  
-Logs are maint ained for reagents other than Beckman Coulter.  
-9.7.3 Facilities

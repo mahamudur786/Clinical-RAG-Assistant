@@ -1,7 +1,0 @@
-x Indirect transmission  involves the transfer of an infectious agent through a 
-contaminated intermediate object or person, e.g. an HCW’s hands transmitting infectious agents after touching an infected body site on one patient without performing hand hygiene before touching another patient, or an HCW coming into contact with fomites (e.g. bedding) or faeces and then with a patient.
-Examples of infectious agents transmitted by contact include MDROs such as 
-methicillin-resistant Staph. aureus  (MRSA) and carbapenem-resistant Gram-
-negative bacteria, C. difﬁ  cile, Norovirus, Ebola virus, HIV, hepatitis B and C viruses, 
-and highly contagious skin infections/ infestations (e.g. impetigo, scabies), etc.
-Droplet transmission

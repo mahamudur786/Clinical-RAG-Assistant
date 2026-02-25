@@ -1,6 +1,0 @@
-calendar to correct the Kit Expiration date. If  the screen defaults to the current Ctrl lot number, 
-verify the existing lot number and expiration date. If the lot number is incorrect, type in the new control lot number using the keyboard numeric keys and press the Tab key to progress to the Ctrl Expira tion blank. Use the calendar to correct either the Kit Expiration or Ctrl Expiration date. 
-To
- update the Kit or Ctrl Expiration date using the calendar function, type in the date using the 
-keyboard ’s numeric keys and the dd/mm/yyyy format and press the Tab key or use the calendar to 
-enter the date. To access the calendar, direct the mouse arrow to the ellipsis (…) and left -click. To

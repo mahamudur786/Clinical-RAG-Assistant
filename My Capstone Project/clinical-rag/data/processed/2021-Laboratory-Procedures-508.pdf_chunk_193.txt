@@ -1,6 +1,0 @@
-3-26  Laboratory Procedures 2021   
-To enter a “ Yes” or “ No” response, type [Y/y] for “ Yes” and [N/n] for “ No.” Use the up and 
-down arrow keys to toggle between the two choices. Alternatively, direct the mouse arrow to the 
-drop-down arrow on the response text box, select “ Yes” or “ No” and left- click. If “ No” is entered, 
-the next response box is highlighted. If “ Yes” is entered, the time and date text boxes are 
-highlighted. Type in the reported time using the numeric keys and press Tab to move to the AM/PM space. Type in [A/a] for times between midnight and 11:59 AM or [P/p] for times between noon and 11:59 PM and pres s Tab. Alternatively, to select AM or PM, direct the mouse arrow to the

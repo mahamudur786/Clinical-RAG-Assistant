@@ -1,9 +1,0 @@
-information for the containers that do not close weekly is displayed in red. 
-Individually mark the Print Label check  box to identify vessels that require labels.  
-8 -21  Laboratory Procedures 2021  
-To begin the process of printing and assigning new container IDs, mark the individual check boxes 
-that correspond to the Group (vessel) of interest. To add a checkm ark to the Print Label check  box, 
-direct the mouse arrow to the Print Label check  box and left- click.  
-To collectively mark all the check  boxes, direct the mouse arrow to the mark/unmark all check  box 
-and left- click. To collectively unmark all the check  boxes, direct the mouse arr ow to the 
-mark/unmark all check  boxes and left- click.

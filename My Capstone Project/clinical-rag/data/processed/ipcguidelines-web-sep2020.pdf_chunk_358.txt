@@ -1,5 +1,0 @@
-x Central line-associated bloodstream infection bundle
-x Catheter-associated urinary tract infection bundle
-Ventilator-associated pneumonia
-Pneumonia is the second most common HAI reported in the world and is 
-associated with substantial morbidity and mortality. Most patients with healthcare-associated pneumonia are those at the extremes of age, with severe underlying disease, immunosuppression, depressed sensorium and cardiopulmonary disease, and those who have had thoraco-abdominal surgery. Most bacterial healthcare-associated pneumonia occurs by aspiration of bacteria colonizing the oropharynx or upper gastrointestinal tract of the patient. Intubation and mechanical ventilation greatly increase the risk of bacterial pneumonia because they alter ﬁ  rst-line patient

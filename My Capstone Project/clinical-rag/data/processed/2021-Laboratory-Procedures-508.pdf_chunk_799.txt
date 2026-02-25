@@ -1,8 +1,0 @@
-and light scatter (VCS) of the diff mode only. This control is run at the beginning of each day. 
-The Latron CP-X control is a ready- to-use suspension of latex particles used to monitor differential 
-parameters on the Beckman Coulter DxH 800. These particles pass through the flow cell and 
-produce characteristic electrical signals. It measures these signals as volume, conductivity, and light scatter.  
-9.6.6 Coulter Interlaboratory Quality Assurance Program (IQAP)  
-All DxH 800 instruments participate in Beckman Co ulter’s Interlaboratory Quality Assurance 
-Program (IQAP). The Beckman Coulter Data Management System saves results of 6C cell controls 
-in files. Laboratory staff transfer the files to a CD -RW and then send the disk to the Westat

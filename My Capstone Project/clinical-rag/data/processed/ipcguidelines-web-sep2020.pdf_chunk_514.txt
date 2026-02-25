@@ -1,9 +1,0 @@
-deﬁ  nition for BSI.
-Vascular catheter infection
-Signs of inﬂ  ammation, lymphangitis or purulent discharge from the site of the 
-catheter. Most intravascular catheters are inserted into peripheral veins for venous access and are called peripheral vascular catheters.
-Central line-associated bloodstream infection
-Central lines are intravascular catheters that terminate at (or open at) the heart or close to the heart in one of the great vessels. Central lines can be temporary or permanent.
-Temporary central lines are non-tunnelled, non-implanted lines, e.g lines which 
-are commonly used for acute management in ICU, peripherally inserted central catheter lines for parenteral nutrition, etc.
-Permanent central lines can be tunnelled catheters (including long-term dialysis

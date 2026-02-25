@@ -1,7 +1,0 @@
-stand inventory and usage information and to increase the warehouse inventory counts. 
-10.3.7 Tracking Expired and Broken Inventory  
-Complete the Delete Expired/Broken Inventory Report wh en inventory has expired and must be 
-destroyed, needs to be discarded at the EOS,  or has broken and is no longer usable. Print your name 
-in the Counted By field and mark only the item(s) in the count box that has expired, need s to be 
-discarded, or is  broken, or is being removed from the MEC. This report is found on the portal and 
-should be completed and forwarded to the warehouse manager so that the expired or broken inventory can be removed from the stand inventory. Unless the item is a tool or piece of equipment,

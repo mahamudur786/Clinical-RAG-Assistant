@@ -1,9 +1,0 @@
-the LED screen is verification that the collection was recorded in the database.   
-Note:  The LED display does not show the first digit of the SP ID. 
-4.4 Document Urine Collection  
-Once a urine sample has been scanned in, the urine collection (UC) circle on the heads -up screen for 
-that SP will turn either to a solid blue , to indicate that the quantity is sufficient, or to a blue 
-bullseye  , for quantity not sufficient (QNS).  
-For SPs age d 6 ye ars or older, the label on the urine container reads CC1, which indicates collection 
-cup 1 or the 500-ml cup. For SPs aged 3- 5 years, the label on the urine container will read CC2, 
-which indicates collection cup 2.

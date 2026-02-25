@@ -1,9 +1,0 @@
-monitored 24 hours, 7 days per week. If an alarm is not addressed within 10 minutes, a call center will begin calling the facilities and equipment specialist (FES) and MEC manager to alert them to the alarm. During normal work hours laboratory staff  will respond to the alarms. Room temperature is 
-monitored and recorded during days of operation. 
-The refrigerators, freezers, and TempGuard systems are calibrated twice per year. The clinical 
-laboratory scienti sts record the temperature of each unit, comparing the TempGuard to a NIST-
-certified thermometer, and the FES uses a certified digital thermometer.  
-   
- 9-29  Laboratory Procedures 2021  
-  
-Beckman Coulter, Vacutainer, and Sure -Vue have recommended the following storage conditions

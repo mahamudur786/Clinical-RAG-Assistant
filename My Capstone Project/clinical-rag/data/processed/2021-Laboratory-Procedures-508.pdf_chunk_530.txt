@@ -1,9 +1,0 @@
-6-62  Laboratory Procedures 2021   
-T
-o view SP data for all parameters, direct the mouse arrow to the horizontal scroll bar at the bottom 
-of the SP Data section and drag the scroll bar to the left or right. Alternatively, to view the SP data 
-for all parameters, direct the mouse  arrow to the small scroll arrows on the left and right edges of 
-the horizontal scroll bar, and left -click. 
-Hematology Results Section Overview . The Result columns include: Sample ID, Item (CBC 
-parameter), Result (Coulter data for a single run or the ISIS-averaged result for multiple runs), Action (CDC -established critical limits), Range (CDC -established reference ranges for both genders 
-and four age groups), Error (Coulter- transmitted instrument errors), Overlimit (Coulter -transmitted

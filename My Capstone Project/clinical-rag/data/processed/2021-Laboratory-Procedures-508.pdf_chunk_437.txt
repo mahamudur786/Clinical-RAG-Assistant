@@ -1,8 +1,0 @@
-after the Latron run . After the QC has successfully passed and all parameters are within 
-limits, the Start of Session QC tab must be updated to reflect successful performance of Beckman Coulter 6C controls. 
-– Accord ing to the manufacturer, each tube can be aspirated from 18 times within 
-16 days. The clinical laboratory scientist  in WS 3 will record each time the QC vial 
-is aspirated using the Coulter 6C Cell Control Open Vial Stability Monitoring Log 
-(Exhibit 6 -2). The clinical laboratory scientist  in WS 3 will record why the QC was 
-analyzed (QC run completed AM/PM/EVE, Precision Check, Concurrent Lot Testing, or Troubleshooting) and their initials each time the control or controls 
-are analyzed. The header of the docu ment will also be completed with pertinent

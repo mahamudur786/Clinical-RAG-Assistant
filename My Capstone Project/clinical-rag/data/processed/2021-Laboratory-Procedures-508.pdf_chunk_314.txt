@@ -1,4 +1,0 @@
-collection window displays. At this point, the technician can modify the volume of the urine and the collection date/time.  
-To manually adjust the volume (mL), direct the mouse arrow to the text box under the Volume (mL) column. Double-click to open boxes for modification and then click on the text box to enable the cursor in the box. Make changes using the number pad on the keyboard. Once any necessary adjustments have been made, direct the mouse arrow to the box under the Collection Date/Time 
-column or press the Tab key. A prompt will pop up, asking if you would like to subtract the weight 
-of the cup. If the volume of the sample was transmitted from the scale and you have made a manual adjustment to that readi ng, select “ No.”

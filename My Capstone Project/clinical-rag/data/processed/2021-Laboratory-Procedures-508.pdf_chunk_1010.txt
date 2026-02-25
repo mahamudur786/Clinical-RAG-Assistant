@@ -1,8 +1,0 @@
-10-48  Laboratory Procedures 2021   
-10.4.5 Thermometers  – Ambient Air Temperature  
-Three thermometers monitor ambient temperature in the laboratory  and phlebotomy . Quality 
-control procedures for ambient air temperatures involve checking these thermometers for damage, 
-monitoring the temperature during each session, and documenting any unusual occurrences. Check the three thermometers for damage at the beginning of each stand. Notify the warehouse manager 
-of an y damage  and request a new thermometer . 
-The allowable ambient temperature range for the laboratory is 17° C to 25°C (63° F to 77 °F). 
-Note: If the room temperature is out of allowable range since the last reading, document this in the

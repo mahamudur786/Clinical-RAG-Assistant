@@ -1,9 +1,0 @@
-discoloration. 
-• If any of these signs are evident, do not run the rotor. 
-• Contact your Beckman Coulter® representative for information about the Field Rotor Inspection Program and the rotor repair center. 
-• At the start of stand and after cleaning, wipe the rotor pins and pin sockets with a paper towel, and then coat the sockets with Paint -On Graphite  lubricant (see Exhibit  10-3). 
-• Allow the lubricant to dry for at least 5 minutes before installing the rotor in a centrifuge.  
- Installing the Rotor  
-• The power must be turned on before you can unlock and open the chamber door. (To end a run for any reason, do not turn the power switch off; press STOP instead.) 
-   
- 10-27  Laboratory Procedures 2021

@@ -1,8 +1,0 @@
-verified prior to delivery and transfer to the analytical modules within the system. The 
-SAM design provides for two methods of sample delivery: sample segmentation and 
-sample dispensing. In sample segmentation, aspirated sample is transferred through the 
-Blood Sample Valve where it is segmented for whole blood CBC and body fluid. In 
-sample dispensing, whole blood sample segments are dispensed via the aspiration probe 
-into the mixing chambers on the AMTC for the WBC differential and NRBC analyses.  
-• VCSn Module . The VCSn module provides the physical processing elements necessary 
-for the differential and NRBC sample preparation and subsequent measurement. This module includes the Distribution Valve (DV), AMTC module, MTM and their

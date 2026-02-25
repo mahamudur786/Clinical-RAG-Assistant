@@ -1,9 +1,0 @@
-® III diff lytic reagent. Controls contain one each of Ultra 
-Low Range, Low Range, Mid -Range, High Range, and Ultra High Range. Lin -C™ verifies ranges for 
-the following parameters: WBC, RBC, Hgb, and Plt. Beckman Coulter Lin- C. 
-   
- 9-24  Laboratory Procedures 2021  
-  
-9.6.11  Quality Control Records  
-Records of all quality control results are maintained for at least 7 years. Quality control results are 
-captured and stored in the ISIS and are available via the internal network. A QC logbook is maintained that documents out-of-control conditions and remedial actions taken to correct out-of-control conditions. The QC logbook also includes copies of results for profic iency testing and

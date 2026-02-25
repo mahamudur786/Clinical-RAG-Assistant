@@ -1,8 +1,0 @@
-The freezers  require proper ventilation to operate efficiently. The air around the freezers must be 
-free to circulate. Do not store anything between the freezers or between rack supports and the 
-freezer. Do not store anything on the top grill. 
-Quality C ontrol (QC) pro cedures for the refrigerators and freezers include cleaning them at the 
-beginning and end of the stand and whenever necessary and recording daily temperatures. 
-Document the QC in the Laboratory QC document. Continually  monitor the temperatures of 
-refrigerators and freezers on a daily basis , using the Temperature Guard system, which automatically 
-captures and graph s the refrigerator and freezer temperatures , and is available in real time .

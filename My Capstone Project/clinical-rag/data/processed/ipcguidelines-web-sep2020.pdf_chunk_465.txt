@@ -1,8 +1,0 @@
- Agents with a close 
-or identical antigenic relationship to an agent requiring BSL-4 until data are available to redesignate the level 
- Related agents with 
-unknown risk of transmission
-Source:  Biosafety in microbiological and biomedical laboratories,CDCTable 6.6.  Summary of recommended biosafety levels for infectious agents ( continued )
-The above table relates but does not “equate” risk groups to the biosafety level of laboratories designed to work with organism s in each risk 
-group. Some hazard group 2 biological agents, such as Neisseria meningitides , are seen as higher risk to laboratory workers on the basis that 
-they are transmitted by the airborne route. If an accident involving such agents was to occur in a BSL-2 laboratory, it would n ot be possible

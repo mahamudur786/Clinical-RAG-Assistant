@@ -1,8 +1,0 @@
-for the surveillance of common bacterial pathogens of public health importance to determine the magnitude and trends of AMR in different geographical regions of India.
-Standards for IPC have been deﬁ  ned for accreditation of HCFs by the National 
-Accreditation Board for Hospitals and Healthcare Providers (NABH).
-20 A system of 
-surveillance for HAI has been established but it is limited only to NABH-accredited hospitals.
-The All India Institute of Medical Sciences (AIIMS) and ICMR have jointly established 
-an HAI surveillance network of 35 centres from the public and private sectors. It has developed a software to track HAIs.
-21

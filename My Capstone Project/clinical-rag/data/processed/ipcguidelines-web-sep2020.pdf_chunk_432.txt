@@ -1,6 +1,0 @@
-G. IPC practices in HCFs during epidemics/
-pandemics
-Hospitals and other HCFs play a critical role in national and local responses to 
-emergencies, such as communicable disease epidemics. Primarily, there is a sudden surge of sick persons seeking care resulting in a serious challenge to HCFs in maintaining their services to the community and for the staff. Diagnosis and management of patients may also be challenging as the epidemic may be due to a new/emerging or re-emerging disease. The focus of this guidance is on IPC and preparedness during these epidemics. 
-Challenges during epidemics
-x Ampliﬁ  cation of the epidemic.  If the HCF has not put in place adequate

@@ -1,9 +1,0 @@
-9.6 Quality Control  
-9.6.1 Introduction  
-Most quantitative analytical procedures involve several operations, or steps, and each operation is 
-subject to some inaccuracy, imprecision, or the possibility of a mistake. The immediate aim of quality control is to ensure that the analytical values produced by a clinical laboratory are sufficiently reliable for their intended purposes. A broader objective is to ensure that all laboratories produce 
-analytical values that meet acceptable standards of precision and accuracy.  
-   
- 9-8  Laboratory Procedures 2021  
-  
-Quality control (QC) in laboratory medicine is the monitoring of the analytical measurement process

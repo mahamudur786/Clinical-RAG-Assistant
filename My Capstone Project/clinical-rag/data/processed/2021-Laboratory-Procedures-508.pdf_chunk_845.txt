@@ -1,7 +1,0 @@
-malfunctioned, or a system failed. The MEC manager or data manager implements corrective 
-actions that are warranted to prevent loss of biological specimens.  
-Freezers and refrigerators are regularly monitored for excessive ice deposit, inoperative cooling fans, 
-and frayed or worn electrical power connections. Problems are reported to the FES, MEC manager , 
-and the laboratory study lead. 
-9.9.4 Humidity Monitoring  
-Humidity monitoring is required because unusually high, low, or extreme fluctuations in humidity can cause deterioration of reagents and test components and can affect the rate of chemical reactions and specimen interaction. This reading will be recorded dail y in the daily lab QC in the

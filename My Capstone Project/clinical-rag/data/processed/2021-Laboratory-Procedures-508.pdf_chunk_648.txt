@@ -1,9 +1,0 @@
-Filled Radio Buttons, Comments Text Box, and a Container ID/Slot# column. Vessels that require 
-sterile 2 mL  cryovials are displayed in blue.  Vessels that require a red cap have a red dot displayed 
-next to them.  
-7 -27  Laboratory Procedures 2021  
-Inspect the SP’ s Vacutainer® tubes. Compare the Sample ID on the tubes to the barcode label on 
-the vessels. Verify that the number of tubes and the recorded amount of blood collected are correct. 
-To review the phlebotomy results, use the mouse to direct the mouse arrow to the Phlebotomy 
-button on the blood processing screen and left- click. The phlebotomy protocol and number of 
-tubes successfully collected displays  as shown in Exhibit 7- 11. To close this screen, use the mouse to

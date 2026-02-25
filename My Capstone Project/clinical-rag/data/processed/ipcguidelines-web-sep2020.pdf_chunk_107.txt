@@ -1,7 +1,0 @@
-IPC practices for staff and other HCWs.
-x Develop an antibiotic policy and antibiotic stewardship programme.
-x Conduct surveillance of AMR and HAI.
-2. Analyse the surveillance data for HAI (including identiﬁ  cation of common 
-sources and routes of entry of infectious microorganisms) on a monthly basis (or more frequently in case an outbreak is suspected) and identify at-risk patients. Take appropriate action and implement recommendations where necessary.x Monitor the trends of HAI regularly and compare the rates of infections 
-within the HCF and with other facilities wherever feasible.
-x Monitor and assess, on a regular basis, compliance with recommended

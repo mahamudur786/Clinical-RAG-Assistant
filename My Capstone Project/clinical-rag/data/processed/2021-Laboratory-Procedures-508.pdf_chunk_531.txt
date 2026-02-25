@@ -1,8 +1,0 @@
-and four age groups), Error (Coulter- transmitted instrument errors), Overlimit (Coulter -transmitted 
-result that exceeds t he instrument’ s linearity limit), and Precision (CDC -established values for the 
-difference between any two runs). Checkmarks display in boxes for parameters that have errors, are over limit, or for those that exceed precision limits. An “H” for “high” and “L” for “low” display 
-for parameters that exceed action limits or reference ranges . 
-Average, Evaluate, and Save Results for All Parameters . The SP ’s results display in the bottom 
-portion of the window after the Average Selected ID button is selected. To view results for all 
-   
- 6-63  Laboratory Procedures 2021

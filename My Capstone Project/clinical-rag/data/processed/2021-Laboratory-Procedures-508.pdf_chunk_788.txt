@@ -1,8 +1,0 @@
-some general aspects of QC procedures.  
-9.6.3 QC Definitions  
-I nternal ( “Bench ”) Quality Control  
-For purposes of this document, internal quality control is the evaluation of analytical performance that includes QC bench samples for which the analyst knows the expected measurement result. Internal commercial quality control materials contain predetermined amounts of analyte in the 
-matrix, qualify under Clinical Laboratory Improvement Amendments (CLIA) as “calibration 
-materials, ” and may be used as a “ calibration verification ” as defined by CLIA. 
-• External ( “Blind” ) Quality Control.  For purposes of this document, external quality 
-control is the evaluation of analytical performance that includes QC samples for which

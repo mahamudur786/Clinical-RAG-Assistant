@@ -1,9 +1,0 @@
-The potentiometer controls the operating voltage applied to the motor/blower. The potentiometer 
-is adjustable over 270 degrees with a slotted screwdriver, which varies the applied voltage from 70 to  
-115 V ac. This adjustment should only be made by a qualified technician employing the 
-proper instruments to e nsure airflows per NSF STD. No. 49.  
-1.1.9 Magnehelic Gauge 
-The unit is equipped with a magnehelic gauge. The magnehelic gauge displays the static pressure 
-within the pressure plenum supplying the downflow and exhaust filters. The gauge is calibrated in 
-inches of w.g. pressure. As the HEPA filters load with particulate matter, the amount of static 
-pressure will increase, gi ving an indication of the “ health ” of the cabinet. The initial pressure reading

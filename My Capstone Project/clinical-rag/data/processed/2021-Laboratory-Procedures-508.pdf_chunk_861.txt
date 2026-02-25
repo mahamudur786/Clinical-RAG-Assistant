@@ -1,8 +1,0 @@
-– Whether the performance of the ISIS is adequate for their measurement systems;  and 
-– Nontrivial compla ints from outside the laboratory about performance of the lab. 
-The technical supervisor and laboratory director assess the results of the audit and implement 
-corrective actions that are warranted. Any changes to the information system are tracked through a change request process. The status of these changes are monitored monthly during the quality 
-assurance meeting.  
-9.14.3  Quality Audit: Quality Control  
-Quality control addresses the analytic phase of measurement. The purpose of the internal (“bench” ) 
-qualit y audit is to ensure that the QC analyses were performed and appropriate actions were taken

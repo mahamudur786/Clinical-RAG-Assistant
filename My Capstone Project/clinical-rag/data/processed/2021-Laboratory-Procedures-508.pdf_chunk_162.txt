@@ -1,8 +1,0 @@
-contained in Westat’ s Learning Management System.  
- Codes  
-The f ield office and interviewing teams use “ Special Consideration” codes to describe SPs with 
-special ne eds and/or reservations about the phlebotomy procedure to the MEC staff . The codes are 
-part of the special consideration section of the MEC Appointment Schedule in the coordinator application. The phlebotomist prints the Session Preview Report for each ses sion and notes CB/NB 
-codes under the Special Considerations column. All codes should be given special consideration and understood to be situational. 
-• If an SP expresse d no reservations or concerns about phlebotomy during the home 
-interview, then no code ap peared  and no special action was needed from MEC staff.

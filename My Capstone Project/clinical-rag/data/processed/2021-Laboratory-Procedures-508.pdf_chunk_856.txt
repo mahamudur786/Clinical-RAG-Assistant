@@ -1,6 +1,0 @@
-case where no blood was drawn, the preliminary or final Report of Findings states, 
-“Not done.” In the case where blood was drawn (but it was not possible to run, CBCs 
-within 24 hours of collection and no results were transmitted), the preliminary or final 
-Report of Findings states, “ Data not available at this time .” 
-• The preliminary and final Report of Findings are ISIS- generated and are based on 
-results in the database; they are not predefined reports stored in the system. The format for the English and Spanish preliminary and final Report of Findings is tested annually to determine if the generic format is legible.

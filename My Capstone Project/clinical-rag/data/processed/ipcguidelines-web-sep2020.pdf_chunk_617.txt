@@ -1,9 +1,0 @@
-www.cdc.gov/nhsn/pdfs/pscmanual/17pscnosinfdef_current.pdf, accessed 14 October 2019). 
-107. CDC. Surgical Site Infection Event. Procedure-associated module (https://www.cdc.
-gov/nhsn/pdfs/pscmanual/9pscssicurrent.pdf, accessed 14 October 2019).
-108. Harbarth S, Sax H, Gastmeier P. The preventable proportion of nosocomial infections: 
-an overview of published reports. J Hosp Infect. 2003;54:258–66; quiz 321.
-109. WHO. Report on the burden of endemic health care-associated infection worldwide. 
-180 National Guidelines for Infection Prevention and Control in Healthcare Facilities
-A systematic review of the literature. Geneva: WHO; 2011 (https://apps.who.int/iris/
-bitstream/handle/10665/80135/9789241501507_eng.pdf?sequence=1, accessed 14 October 2019).

@@ -1,8 +1,0 @@
-R Staff quarantine
-– Duration of quarantine– Noting signs and symptoms– Plan for staff healthcare
-236 National Guidelines for Infection Prevention and Control in Healthcare Facilities
-Risk Group 1  (no or low individual and community risk): A microorganism that is unlikely 
-to cause human or animal disease.
-Risk Group 2  (moderate individual risk, low community risk): A pathogen that can cause 
-human or animal disease but is unlikely to be a serious hazard to laboratory workers, the community, livestock or the environment. Laboratory exposures may cause serious infection, but effective treatment and preventive measures are available and the risk of spread of infection is limited.
-Risk Group 3  (high individual risk, low community risk): A pathogen that usually causes

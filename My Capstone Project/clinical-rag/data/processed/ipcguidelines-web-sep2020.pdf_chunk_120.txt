@@ -1,7 +1,0 @@
-The laboratory should watch for clusters of pathogens that may indicate an outbreak, 
-the emergence of multidrug-resistant organisms, and the isolation of highly infectious, unusual or virulent pathogens. These unusual events or trends must be reported early to the HICC.
-Environmental cultures
-The microbiology laboratory must not conduct random, undirected microbiological 
-sampling of air, water and environmental surfaces in HCFs. Such culturing must be coordinated with the IPC programme to ensure that it is performed only when indicated and that the specimens are processed appropriately. 
-Environmental cultures, including personnel cultures, should be done only when 
-clear epidemiological evidence indicates an environmental source of the pathogen.

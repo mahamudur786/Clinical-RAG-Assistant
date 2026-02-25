@@ -1,7 +1,0 @@
-xTo prevent contamination of the clean zones, the direction of airﬂ  ow should be from the 
-ultra-clean or aseptic zone to less clean zones in order of their cleanliness (see the concept of zoning). This is achieved by an appropriate pressure gradient. Highest positive pressure is maintained in the ultra-clean areas. The higher pressure allows air to ﬂ  ow to less clean 
-areas around the doors and openings and prevents the entry of air from the less clean area. 
-xWithin the rooms air inlets should be at high level and outlets at low level so that the clean 
-air moves downwards through the room and towards the contaminated ﬂ  oor where it is 
-exhausted through the outlet.
-xThe temperature in the OT should be between 18 and 24 °C. The room should have central

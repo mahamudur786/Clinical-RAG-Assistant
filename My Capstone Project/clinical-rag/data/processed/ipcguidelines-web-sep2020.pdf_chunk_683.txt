@@ -1,7 +1,0 @@
-documented. 
-x The exposed HCW should be retested for HCV antibodies at 3 and 6 months with monitoring 
-of clinical signs and symptoms. Preferably the exposed HCW should be under the care of a hepatologist/physician so that HCV infection if happens is detected at the earliest (liver enzymes monitored and in case these increase that may indicate infection) and treatment for HCV can be instituted. 
-x No recommendations exist regarding restriction of professional activities of HCWs with 
-an HCV infection. Standard precautions and other infection control practices should be followed.
-x As for HBV infection, the source person must be tested for HCV infection. 
-x For any occupational exposure to blood-borne pathogens, counselling and appropriate

@@ -1,8 +1,0 @@
-use the same instrument.  
-• Proficiency Testing.  For purposes of this document, proficiency testing is one method 
-of external quality control in which the analytical performance of a method is evaluated using specimens provided on a periodic basis (usually every 3 months). 
-• Analytical Run ( sometimes simply referred to as a r un). An analytical run is a set of 
-samples analyzed in a time within which the measurement system is considered to have 
-stable accuracy and precision. The time for a run may not exceed 24 hours. An 
-analytical run usually consists of both quality control specimens and survey participant specimens.  
-• Calibration.  Defined by CLIA as “the process of testing and adjusting an instrument,

@@ -1,6 +1,0 @@
-of infectious agents.
-x Standard precautions:  these refer to work practices that are applied to 
-all patients receiving care in health facilities, regardless of their diagnosis or presumed infectious status so as to minimize the risk of transmission of infectious agents in all situations. Standard precautions minimize the likelihood of transmission of infectious agents between HCWs and patients, and from patient to patient.
-x Transmission-based precautions:  Transmission-based precautions are 
-precautions required to be taken based on the route of transmission of organisms like contact precautions, airborne precautions, etc.
-If successfully implemented, standard and transmission-based precautions prevent

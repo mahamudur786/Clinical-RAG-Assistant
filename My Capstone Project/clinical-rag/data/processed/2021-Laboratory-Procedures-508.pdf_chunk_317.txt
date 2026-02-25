@@ -1,4 +1,0 @@
-4-20  Laboratory Procedures 2021   
-4.5.2 Manually Document Urine Collection Without Barcode Scanning 
-If the connection between the scale and workstation 3 is down, the clinical laboratory scientist can 
-manually record the volume, status, and collection date and time in the Urine Collection module within the laboratory application. Place the urine collection cup on the scale and cover with the clear acrylic scale cover. Note the weight reading from the LCD.

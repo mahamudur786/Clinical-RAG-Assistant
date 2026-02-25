@@ -1,8 +1,0 @@
-6.23 Specimen Storage and Handling During Testing .............................  6- 101 
-6.24 Alternative Method for Performing Test or Storing 
-Specimens if Test System Fails  ...........................................................  6- 101 
-6.25 Test Results Reporting System: Protocol for Reporting 
-Action Limits  .........................................................................................  6- 101 
-6.26 Quality Control Summary Statistics and Graphs  .............................  6- 102 
-6.27 Troubleshooting ....................................................................................  6- 102 
-6.28 Setting Shift Times  ................................................................................  6- 102

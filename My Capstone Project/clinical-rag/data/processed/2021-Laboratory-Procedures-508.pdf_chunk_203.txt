@@ -1,8 +1,0 @@
-using the “ Other, specify ” comment option on the venipuncture status screen. Document the use of 
-any expired tubes in a Unusual Field Occurrence (UFO).  
-Two venipuncture attempts are permitted by the phlebotomist with the SP ’s verbal consent or with 
-the parent’s consent if an SP is a child or an infant. After two attempts, one of the lab techs may attempt the venipuncture if given permission from the SP and or guardian if a child or an infant. 
-If an SP faints or becomes ill, ca using termination of the procedure without collecting all of the 
-blood, repeat the procedure with  the SP ’s consent after the SP has recovered.  
-3.9.1  Preparation of the Puncture Site  
-It is extremely important that the anticipated puncture site is thoroughly cleaned and all necessary

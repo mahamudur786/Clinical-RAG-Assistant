@@ -1,8 +1,0 @@
-motor ’s thermal protector is designed to open under locked rotor or half-wave power conditions. 
-Should the circuit breaker open (pop- out button will appear), merely depress to reset. If the circuit 
-breaker continually opens, a failure has occurred in the motor or solid -state speed controller. 
-Consult a qualified repair technician or NuAire, Inc. for replacement. 
-1.1.2 Circuit Breaker -Outlets (Top of Control Center)  
-The duplex outlet located in the sidewall of the work area is protected with a 3 -amp circuit breake r. 
-The circuit breaker may trip at 110 percent of load rating but will trip at 145 percent of load rating in 
-less than 2 seconds. Should the circuit breaker open, (pop-out button will appear), unplug the

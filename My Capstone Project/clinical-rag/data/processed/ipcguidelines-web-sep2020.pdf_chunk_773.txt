@@ -1,4 +1,0 @@
-9. The occupier or operator of the common biomedical waste treatment facility shall install 
-continuous emission monitoring system for the parameters as stipulated by State Pollution Control Board or Pollution Control Committees in authorization and transmit the data real time to the servers at State Pollution Control Board or Pollution Control Committees and Central Pollution Control Board.
-10. All monitored values shall be corrected to 11% oxygen on dry basis.11. Incinerators (combustion chambers) shall be operated with such temperature, retention time 
-and turbulence, as to achieve Total Organic Carbon content in the slag and bottom ashes less than 3% or their loss on ignition shall be less than 5% of the dry weight.

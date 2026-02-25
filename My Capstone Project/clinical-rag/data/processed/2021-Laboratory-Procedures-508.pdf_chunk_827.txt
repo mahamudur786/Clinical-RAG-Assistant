@@ -1,5 +1,0 @@
-solutions, and other supplies are not used when they have exceeded their expiration date. Reagents 
-or supplies that are received from the manufacturer without an expiration date will have one 
-assigned by the warehouse to be dated 5 years from the receipt of the item.  
-If a method uses a manufacturer ’s kit, components of reagent kits of different lot numbers are not 
-interchanged unless otherwise specified by the manufacturer.

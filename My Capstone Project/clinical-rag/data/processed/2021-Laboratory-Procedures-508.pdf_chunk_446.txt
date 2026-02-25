@@ -1,8 +1,0 @@
-– This mean should be within the range stated on the control assay sheet and is 
-considered the established target value . 
-– Incorporate the SD range around the established target value and monitor throughout the dating of the product. Long- term sources of variability in the SD 
-include different reagent bottles or lots, preventive maintenance, component replacement, and environmental factors.  
-– The mean and SD measurements should be monitored and updated once sufficient data is collected.  
-– When using the Coulter 6C assigned value or an instrument- specific mean, the 
-instrument is considered well maintained and operating correctly if: ( 1) greater 
-than or equal to 95 percent of the QC values fall within the EXPECTED

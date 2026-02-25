@@ -1,9 +1,0 @@
-Each laboratory method is able to run and temporarily store results even if the MEC LAN is 
-inoperable. 
-9.11.3  Maintenance of LAN Hardware  
-After failure of a LAN component, ISIS should be able to be repaired or replaced within a day by a 
-functioning component. LAN hardware is readily available. PC components and the infrequent problems with this hardware are readily correctable in this period. Westat participates in the standard service contract arranged for NHANES for service of failing or failed computer equipment.  
-9.11.4  Backup Schedule of Integrated Survey Information System Data  
-ISIS data is stored in a central database  and is  backed up to tape nightly and stored permanently .  
-9.12 Communications and Complaints  
-9.12.1  Introduction

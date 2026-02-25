@@ -1,8 +1,0 @@
-consecutively and select OK to start the carryover procedure.  
-• When carryover is complete, review the results on the Carryover screen. If any of the carryover results “ FAIL ,” repeat the procedure.  
-If the carryover results “ FAIL ” after the second attempt, call  Beckman Coulter customer  service.  
-• If the status of all parameters is “ PASS ”: Print . 
-When performing a c arryover procedure, the calculated percent  carryover and/or background for 
-each parameter is compared to the c arryover and background limits for acceptability. See  Chapter  1: 
-System Overview – Performance Specifications and Characteristics section in the Help Menu of the 
-Unicel DxH 800 Help Manual for additional information regarding c arryover and background limits

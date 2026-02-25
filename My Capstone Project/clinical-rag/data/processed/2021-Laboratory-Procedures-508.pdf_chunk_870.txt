@@ -1,8 +1,0 @@
-total sample volume requires a plan of corrective action and follow-up. 
-9.14.7  Quality Audit – Post -Analytic Extreme Result Reporting  
-CBC s are performed on the MEC. Appropriate follow-up is required for all extremely high or low 
-values. Clinical laboratory scientists  are required to send an observation through ISIS to the clinician 
-for any participant parameters flagged as extremely high or  low. The clinician documents discussion 
-with the participant and may refer the participant to a clinical physician  or clinician  for further 
-evaluation. This is documented in the ISIS system. This audit will review the extremely high or low 
-CBC values and evaluate if the correct process was followed for notification. This will be reported in

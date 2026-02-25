@@ -1,8 +1,0 @@
-6.10 Run Daily Checks  ..................................................................................  6- 16 
-6.10.1  Daily Checks Screen  .............................................................  6- 17 
-6.10.2  Additional Tasks From the Daily Checks Screen  ............  6- 18 
-6.11 Quality Control ......................................................................................  6- 18 
-6.11.1  Frequency of Performing Quality Control .......................  6- 19 
-6.11.2  Setting Up a Control File  .....................................................  6- 21 
-6.11.3  Setting Up a Latron Control File ........................................  6- 21 
-6.11.4  Establishing Means and Standard Deviations

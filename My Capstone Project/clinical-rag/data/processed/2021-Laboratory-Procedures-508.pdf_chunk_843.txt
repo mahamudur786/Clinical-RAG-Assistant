@@ -1,7 +1,0 @@
-15-25°C (59- 86°F).  
-The acceptable temperature range for refrigerators used for storage of CLIA -regula ted specimens 
-and reagents is 2 -8°C and is checked and recorded daily. This is monitored daily by the TempGuard 
-system and is recorded in the Laboratory Information S ystem . 
-Freezer temperatures are monitored daily by an automated TempGuard system. The range of allowable temperature s for the - 20°C Jewett model is - 18 to - 23°C. The range of allowable 
-temperature s for the - 30°C Revco model is - 26 to - 34°C.  
-An automated continuous TempGuard system monitors the room t emperature and the internal

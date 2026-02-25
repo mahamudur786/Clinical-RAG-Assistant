@@ -1,9 +1,0 @@
-Note: If the room temperature is out of allowable range since the last reading, document this in the 
-automated Unusual Field Occurrence (UFO) utility and inform the FES  immediately. If using the 
-portable air conditioner , document use for each session by way of a UFO.  
-10.4.6 Humidity Monitor  
-One humidity monitor monitors the humidity in the laboratory. Quality control procedures for 
-room humidity monitoring involve  checking the monitors for damage, monitoring the humidity 
-during each session, and documenting any unusual occurrences. Check the humidity monitor for damage at the beginning of each stand.  Notify the warehouse manager of any damage  and request a 
-new monitor. 
-The allowable room humidity range for the laboratory is <80 percent.

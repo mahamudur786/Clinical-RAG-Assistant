@@ -1,9 +1,0 @@
-x The implication of installing a split air-conditioning and closing the doors and 
-windows is, however, complete lack of air exchange. 
-x It is possible for rooms with air conditioning or heaters to have adequate 
-ventilation. Careful attention must be given to ensuring adequate ventilation when installing climate control.
-Minimum air-changes per hour
-HCFs should maintain a minimum amount of ventilation during all climatic conditions. These recommendations are based on the minimum ventilation rate estimated to reduce the probability of infection in an enclosed room to less than 5% with an hour of exposure to an infectious source case. 
-Table 5.2 gives the minimum air-changes per hour (ACH) required for various 
-healthcare settings.
-Standards for natural ventilation

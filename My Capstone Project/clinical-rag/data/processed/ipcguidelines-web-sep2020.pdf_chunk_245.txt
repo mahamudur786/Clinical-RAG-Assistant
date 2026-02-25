@@ -1,8 +1,0 @@
-x Mechanical ventilation includes “mixed mode ventilation”, in which exhaust 
-and/ or supply fans are used in combination with natural ventilation to obtain adequate dilution when a sufﬁ  cient ventilation rate cannot be achieved by 
-natural ventilation alone. 
-x Mechanical ventilation with or without climate control may be appropriate 
-where natural ventilation cannot be implemented effectively, or where such systems are inadequate given local conditions (e.g. building structure, climate, regulations, culture, cost and outdoor air quality).
-Exhaust fans
-The simplest form of mechanical ventilation is the use of exhaust fans, placed for instance in windows, to move air from inside a room to the outdoors. 
-x Exhaust fans may also be more acceptable to staff and patients than keeping

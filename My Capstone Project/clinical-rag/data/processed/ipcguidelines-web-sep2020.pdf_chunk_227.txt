@@ -1,5 +1,0 @@
-Droplet precautions
-Droplet transmission occurs through large respiratory droplets >5 microns in size. Transmission occurs when infectious respiratory droplets are expelled by coughing, sneezing or talking, and come into contact with another person’s mucosa (eyes, nose or mouth), either directly or via contaminated hands. Since these microorganisms do not travel over long distances, special air handling and ventilation are not required. 
-Infections transmitted through droplets include pneumonia, meningitis, group A 
-streptococcal disease, pertussis, diphtheria and inﬂ  uenza, mumps. 
-During an inﬂ  uenza pandemic, the circulating human virus is expected to be

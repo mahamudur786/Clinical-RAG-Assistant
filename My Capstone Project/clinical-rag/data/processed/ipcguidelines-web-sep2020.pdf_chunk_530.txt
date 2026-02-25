@@ -1,9 +1,0 @@
-Postoperative factors 
-x A surgical incision that has been closed by primary closure should be covered 
-with a sterile dressing till 48 hours. For an incision with delayed primary closure or healing by second intention, the incision should be packed with a sterile dressing. Use of an advanced dressing over a standard dressing on primarily closed surgical wounds is not recommended.
-x The wound drain should be removed when clinically indicated.
-National HAI Surveillance Network
-HCFs with adequate capacity and resources can opt to join the National HAI 
-Surveillance Network.120 Data collection formats for surveillance of BSI and CAUTI 
-and a checklist for VAP are given in Annexes 13.1–13.4.
-152 National Guidelines for Infection Prevention and Control in Healthcare Facilities

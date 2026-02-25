@@ -1,8 +1,0 @@
-air currents as well as interfere with the work of the operator. A person walking past the front of a 
-cabinet can cause  draft velocities up to 175 fp m (.89 m/s), which are sufficient to disrupt the air 
-balance of the laminar flow unit.  
-1.2.4 Use  Unidirectional Air Flow  
-The operator must keep two important facts in mind: (1 ) the air, as supplied to the work area 
-through filters from the top, is contaminant free and (2) airborne contamination generated in the work area is controlled by the unidirectional flow of parallel air streams in a top -to-bottom direction. 
-A solid object placed in a laminar air stream will disrupt the parallel flow and consequently, the 
-capability of controlling lateral movement of airborne particulates. A cone of turbulence extends

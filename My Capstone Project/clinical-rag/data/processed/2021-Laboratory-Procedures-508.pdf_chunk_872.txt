@@ -1,9 +1,0 @@
-response rate. These changes are then monitored. This data is reported at the monthly quality 
-assurance meeting.  
-9.14.9  Quality Audit – Unusual Field Occurrences  
-Any equipment failures, instrument failures, temperature problems, power outages, or technician 
-errors are documented through the use of an Unusual Field Occurrence application with the ISIS computer system. The Westat home office staff is  immediately notified via email of any occurrences , 
-so that immediate action can be taken to resolve the occurrence and prevent further occurrences of 
-the same type. All occurrences for the month are discussed with the laboratory director and other 
-NCHS laboratory staff at the monthly quality assurance meeting.  
-9.14.10  Quality Assurance Review with Staff

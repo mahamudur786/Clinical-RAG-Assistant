@@ -1,5 +1,0 @@
-These are relevant for both private as well as public sector HCFs. Although the 
-principal focus is on secondary and tertiary HCFs, the principles and practice of IPC are common to all healthcare settings and with suitable adaptation can be applied to primary care and community health centres.
-At the national level, this document can serve as guidance to policy-makers 
-responsible for developing and monitoring IPC activities in various national programmes, establishing HAI surveillance and framing national action plans for IPC and AMR. It is also relevant for national and facility level healthcare quality managers, regulatory and accreditation bodies, academic institutions and professional societies.
-Healthcare-associated infections (HAIs) are neither present nor incubating at the

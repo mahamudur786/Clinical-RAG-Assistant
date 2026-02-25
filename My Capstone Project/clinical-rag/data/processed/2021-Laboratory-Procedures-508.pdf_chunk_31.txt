@@ -1,9 +1,0 @@
-6.19 Interpretation of Results and Remedial Action ................................  6- 58 
-6.19.1  Sampl e Person Hemoglobin and Hematocrit 
-Review and Remedial Actions  ............................................  6- 58 
-6.19.2  SP Parameter Value Review and Remedial 
-Actions ...................................................................................  6- 59 
-6.19.3  DxH 800 Suspect Messages  ................................................  6- 88 
-6.19.4  DxH 800 Histogram Interpretations .................................  6- 89 
-6.19.5  Clinician Review  ....................................................................  6- 94 
-6.20 Limitations of Method: Specimen Rejection, Interfering

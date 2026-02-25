@@ -1,9 +1,0 @@
-Each SP receives a barcoded ID bracelet upon arrival at the MEC. The bracelet remains on the SP 
-throughout the session. This bracelet contains the SP’s ID number in barcode and eye -readable 
-format. The phlebotomist “wands” the bracelet barcode with a barcode scanner (wand) to log the SP into the phlebotomy component. If necessary, the ID number can be entered manually by 
-reading it from the bracelet and typing the numbers using the keyboard. 
-   
- 3-4 Laboratory Procedures 2021   
-Phlebotomy Seating O ptions . The UMF 8 678 phlebotomy chair (Exhibit 3-5 ) features  an electric 
-motor for up and down patient positioning, three positions—upright, recline, and full recline —and 
-fully adjustable padded armrests that recline as  the patient reclines. The chair includes both

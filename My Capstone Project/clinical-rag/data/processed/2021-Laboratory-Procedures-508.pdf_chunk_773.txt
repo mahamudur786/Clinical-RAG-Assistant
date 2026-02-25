@@ -1,8 +1,0 @@
-notebooks, bound in loose- leaf form, or stored electronically.  
-9.5 Test Report  
-9.5.1 Introduction  
-The laboratory Report of Findings, which gives the results of the tests performed on the MEC  
-(in-house), is provided to the SP as soon as the quality control has been reviewed and approved. The 
-laboratory maintains confide ntiality of the SP results since it identifies samples only by a specimen 
-ID number. Westat and NCHS maintain the link between the specimen ID number and the identity of the study participant. 
-9.5.2 Review, Approval, and Release of Test Results

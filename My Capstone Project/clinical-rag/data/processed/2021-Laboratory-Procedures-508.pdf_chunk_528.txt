@@ -1,9 +1,0 @@
-response, direct the mouse arrow to the Yes button and left -click, type [Y], or press Enter.  To 
-record a “ No” response, direct the mouse arrow to the No button and left -click, or type [N].  If a 
-“Yes” response is recorded, the comment is saved to the database.  If a “ No” response is recorded, 
-no comment is saved to the database. If the record is marked with the selection in the database, the heads-up display updates to complete (the CB circle fills in black ). 
-2. Hematology module overview  
-The CBC results are not automatically populated in the Hematology module. Use the Retrieve 
-button to send the results from ISIS to the Hematology module. Select “ Retrieve ” after each run. 
-   
- 6-61  Laboratory Procedures 2021

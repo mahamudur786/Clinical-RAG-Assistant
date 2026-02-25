@@ -1,6 +1,0 @@
-report are maintained for a minimum of 7 years.  
-9.11 Integrated Survey Information System (ISIS) 
-9.11.1  Introduction  
-One of the purposes of the ISIS is to store study participant results for retrieval in a period 
-acceptable for the intended use of the data. Study participant test results are stored in a database. The ISIS consists of the PC databases used for storing study participant results. This form for the ISIS fac ilitates the interfacing of varied and complex instrumentation used in many of the analytical 
-procedures. The MEC local area network (LAN) hardware serves as the hardware for the ISIS. The identification of the study participant result is by specimen ID number, and the result is accessible by this number.

@@ -1,6 +1,0 @@
-less than 2 seconds. Should the circuit breaker open, (pop-out button will appear), unplug the 
-appliance plugged into the outlet and merely depress the pop-out button to reset. 
-1.1.3 Fluorescent/U ltraviolet  Light Switch  
-This switch provides on/off control for the fluorescent light and/or the ultraviolet (UV) light if 
-present (optional). With the UV light option, the switch provides for on- center off -on operation so 
-that both the fluorescent light and the UV light cannot be energized at the same time. The UV light is also interlocked, so it will only operate if the sliding window is closed. Proper care should be exercised when the UV light is on .

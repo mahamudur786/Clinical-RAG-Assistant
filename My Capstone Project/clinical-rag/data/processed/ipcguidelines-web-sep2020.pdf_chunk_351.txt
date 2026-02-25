@@ -1,8 +1,0 @@
-x The initial dose of prophylactic antimicrobial agent should be administered by 
-the intravenous route, timed such that a bactericidal concentration of the drug is established in the serum and tissues when the incision is made. 
-x Administration of SAP should be within 120 minutes of incision, while 
-considering the half-life of the antibiotic.
-x Clinicians should consider the half-life and protein binding as the most 
-important pharmacokinetic parameters of any single SAP agent in order to ensure adequate serum and tissue concentration at the time of incision and during the entire surgical procedure. 
-x SAP should not be prolonged after completion of the operation and is not 
-recommended in the presence of a wound drain for the purpose of preventing SSI.

@@ -1,7 +1,0 @@
-Specimens if the Test System Fails  .....................................................  5- 24 
-5.16 Test Results Reporting System Protocol for Reporting 
-Action Limits  .........................................................................................  5- 24 
-5.17 Specimen Accountability and Tracking  .............................................  5- 24 
-5.18 Quality Control Summary Statistics and Graphs  .............................  5- 24 
-5.19 Further Reading .....................................................................................  5- 25 
-6 Complete Blood Count ......................................................................................  6-1

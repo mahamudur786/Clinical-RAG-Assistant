@@ -1,5 +1,0 @@
-hours . The coordinator gives each SP a hard -copy verification form as part of the check -in process. 
-For SPs aged 12 years and older who are examined during a m orning session, the form includes the 
-question, “Did you eat or drink anything, other than plain water, after 11:30 p.m. last night?” The SP records “ Yes” or “ No” in a checkbox and the coordinator enters this information into the 
-coordinator application. The coordinator application then highlights (hot pink) the names of SPs who responded “ Yes” since they have not met the 8-hour fast requirement. The coordinator uses 
-the highlighted names to aid in prioritizing SPs for the phlebotomy component; SPs who are not highlighted are assigned to phlebotomy before SPs whose names are highlighted.

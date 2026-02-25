@@ -1,7 +1,0 @@
-The infections should meet the basic deﬁ  nition of HAI, i.e. should be detected after 
-48 hours (>2 calendar days) of hospitalization.
-Surgical site infection
-SSIs are potential complications associated with any type of surgical procedure. Although SSIs are among the most preventable HAIs, they still represent a signiﬁ  cant burden in terms of patient morbidity, mortality and additional costs to health systems. SSIs are both the most frequently studied and the leading HAIs reported from hospitals in LMICs. 
-The WHO report on the global burden of endemic HAI provided SSI data from 
-LMICs. The pooled SSI incidence was 11.8 per 100 surgical patients undergoing surgical procedures (95% CI 8.6–16.0) and 5.6 per 100 surgical procedures (95% CI 2.9–10.5).
-Deﬁ nition

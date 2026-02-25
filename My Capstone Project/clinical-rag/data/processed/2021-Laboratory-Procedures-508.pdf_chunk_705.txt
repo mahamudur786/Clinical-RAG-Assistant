@@ -1,9 +1,0 @@
-8 -22  Laboratory Procedures 2021  
-The Generate Additional Containers window includes two text boxes with drop-down lists: “Which 
-Container” and “How Many.” The “Which Container” text box defaults to vessel 32. To select a vessel other than 32, direct the mouse arrow to the drop-down arrow and left -click, drag the arrow 
-to the desired choice and left- click. Use the scroll bar to view all the choices.  Exhibit 8- 17 displays 
-the appearance of the container drop down. 
-Exhibit 8 -17. Add container drop down  
-8 -23  Laboratory Procedures 2021  
-The “How Many” text box defaults to vessel 1. To select 2, 3, 4, or 5, direct the mouse arrow to the 
-drop-down arrow and left- click, then drag the arrow to the desired choice and left -click. Use the

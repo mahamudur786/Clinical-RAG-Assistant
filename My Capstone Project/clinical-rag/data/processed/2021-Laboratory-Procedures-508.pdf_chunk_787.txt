@@ -1,9 +1,0 @@
-In this context, QC procedures monitor and evaluate the quality of the analytical testing process of 
-each method to ensure the accuracy and reliability of test results. Thus, QC procedures referenced here ref er to the analytical phase of testing and not to the pre-analytic or post- analytic phases. QA 
-addresses all three phases of measurement: pre -analytic, analytic, and post -analytic. QC is therefore 
-viewed here as one part of the overall QA process.  
-9.6.2 Method -Specific QC Procedures  
-Specific QC procedures exist for each analytical laboratory procedure in the LPM.  The following are 
-some general aspects of QC procedures.  
-9.6.3 QC Definitions  
-I nternal ( “Bench ”) Quality Control

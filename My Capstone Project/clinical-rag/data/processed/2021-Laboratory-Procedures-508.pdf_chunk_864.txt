@@ -1,8 +1,0 @@
-calibration verification is reviewed by the technical supervisor. 
-The technical supervisor and laboratory director assess the results of the audit and, in consultation 
-with Beckman Coulter, implement corrective actions that are warranted.  
-9.14.4  Quality Audit: Personnel  
-Well-trained and competent personnel are essential components of good laboratory performance. The quality audit of personnel is conducted at least yearly by the technical supervisor and laboratory director and shall consist of: 
-• A review of the 6C  cell and Latron control ( “bench”) re sults or IQAP QC results 
-for 10  percent of the total control runs covering a period of not less than 1 year.  
-The internal (“bench”) QC reflects the performance of persons performing the method.

@@ -1,7 +1,0 @@
-x If a single room is not available, then arrangements can be made for isolating 
-such patients at the corner of a ward where ventilation is adequate.
-x Patient’s relatives/ attendants should be educated on the mode of transmission, 
-hand hygiene and PPE.
-Air and ventilation
-Introduction
-Air is the source of airborne infections of which TB is the most common and endemic

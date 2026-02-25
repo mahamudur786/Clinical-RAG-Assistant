@@ -1,8 +1,0 @@
-urine container on the Mettler Toledo scale and then scan the barcode on the label . The weight is 
-converted to volume and trans mitted  to the U rine Collection module in the Integrated Sur vey 
-Information System (ISIS) . Visually compare the volume in the urine container to the volume 
-displayed in the Urine Collection screen.  Accept the weight.  Perform the pregnancy test if indicated, 
-process the urine according to protocol, and store the ves sels. 
-The mobile examination center ( MEC ) coordinator instructs each SP aged 6 years and older to 
-provide a urine sample as soon as possible when they  enter the MEC.  Ideally, this  sample  would be 
-collected at the same time that the SP changes into the exam  outfit.  If the SP cannot provide a urine

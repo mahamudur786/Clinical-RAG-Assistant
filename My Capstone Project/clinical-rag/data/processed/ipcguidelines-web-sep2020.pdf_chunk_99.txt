@@ -1,8 +1,0 @@
-Basic concepts of prevention of HAI
-HAIs can be prevented by breaking the epidemiological triad. The most effective way to prevent HAI is by introducing a barrier between the susceptible host and the infecting organism. Most HAIs can be prevented through readily available and relatively inexpensive strategies such as compliance with recommended infection prevention practices such as:
-x Hand hygiene (see Chapter 4)
-x Appropriate use of personal protective equipment (PPE) (see Chapter 4)
-x Following aseptic techniques stringently (see Chapters 4 and 6)
-x Paying attention to established practices for cleaning and decontamination of 
-soiled instruments, followed by either sterilization or high-level disinfection (see Chapter 4)
-x Appropriate disposal of biomedical waste (BMW) (see Chapter 5)

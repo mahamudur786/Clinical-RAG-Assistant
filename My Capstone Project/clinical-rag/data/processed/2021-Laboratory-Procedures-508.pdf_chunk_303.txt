@@ -1,9 +1,0 @@
-will be UC2.  
-When additional urine is obtained or collected  and it is enough to fill the SP’ s profile , pool the urine 
-into the most recently collected cup (the cup with the highest urine collection instance number on the cup label), mix, and process. Do not enter a result until urine arrives in the laboratory. At the end of each session, review the results for each SP. Enter “ No” in the result field for all SPs who 
-have not produced a urine sample. Record a result other than “none” for all SPs.  If the second urine 
-sample is a full cup, mix equal parts of the first and second collections to fill the vessels in the profile.  
-   
- 4-10  Laboratory Procedures 2021   
-For S
-Ps 6 years or old er, press the Tab key to move to the Collection Date/Time field. The

@@ -1,7 +1,0 @@
-Similar to the implementation of surgical bundles to prevent SSI in non-obstetric 
-patients, creating patient care bundles comprising evidence-based elements in patients who undergo caesarean section may decrease the incidence of SSI. Each hospital has the opportunity to create its own caesarean section surgical bundle to reduce SSI. 
-Procedures to prevent infection in patients undergoing caesarean section include: x The abdomen should not be shaved prior to surgery. If required, hair clipper 
-should be used instead.
-x The surgeon and assistant should wear a face shield or mask and goggles, 
-a plastic or rubber apron over the scrub-suit since splashing with blood and blood-tinged amniotic ﬂ  uid is expected.
-x If there has been prolonged rupture of membranes or the caesarean section is

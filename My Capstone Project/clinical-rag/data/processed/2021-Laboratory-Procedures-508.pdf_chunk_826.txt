@@ -1,9 +1,0 @@
-performance.  
-Documentation of problems with conditions required (e.g., water quality) for acceptable method performance is maintained in the logbook of the primary instrument used in the analysis. This documentation includes remedial action. 
-   
- 9-25 Laboratory Procedures 2021  
-  
-9.7.2 Labeling of Reagents, Solutions, and Other Supplies  
-Reagents, solutions, and other supplies are labeled to indicate the identity of contents, the 
-concentration (if significant), the recommended storage requirements, the preparation and expiration date, laboratory s taff initials, and any other pertinent information required for proper use. Reagent, 
-solutions, and other supplies are not used when they have exceeded their expiration date. Reagents

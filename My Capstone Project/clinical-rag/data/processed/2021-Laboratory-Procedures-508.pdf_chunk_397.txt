@@ -1,6 +1,0 @@
-counting, the vacuum used to pull the diluted suspension of cells through the aperture must be at a 
-regulated volume. The number of recorded pulses indicates particle count, and the size of the 
-electrical pulse is proportional to the cell volume. In addition, the system counts the individual cells and provides cell size distribution. The number of cells counted per sample is approximately 100 times greater than the usual micro scope count , which  reduces the odds of statistical error 
-approximately 10 times.  
-6.2.2  VCSn Technology  
-Historically, Beckman Coulter analyzers housed a flow cell in a Triple Transducer Module (TTM), which was first introduced commercially in the 1980s. The  TTM flow cell was the location for

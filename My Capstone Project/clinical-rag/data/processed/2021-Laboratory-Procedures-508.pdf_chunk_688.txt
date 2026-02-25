@@ -1,6 +1,0 @@
-that looks like a barcode label.  
-8.3.2 Main Printing Screen 
-From the main printing screen, the current day and next 2 days the MEC is in session will be displayed in a tree view on the left side of the screen.  See Exhibit 8- 3. The sessions will be color 
-coded to match the legend at the bottom left side of the screen. Sessions in green indicate that a particular session or SPs profile  within that session needs to be printed. Sessions in black have 
-already been printed and there are no SP profile changes. Sessions in blue indicate that an SP was added to that session or that a SP or SPs had a profile change and need to be reprinted. If an SP is 
-removed from a session, that session will be displayed in red, which indicates label ac tion is needed.

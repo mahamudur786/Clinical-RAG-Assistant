@@ -1,8 +1,0 @@
-portion of the window after the Average Selected ID button is selected. To view results for all 
-   
- 6-63  Laboratory Procedures 2021   
-parameters, direct the mouse arrow to the vertical scroll bar at the right side of the Results section 
-and drag the bar up or down. Alternatively, to view all the results, direct the mouse arrow to the small scroll arrows on the top and bottom edges of the vertical scroll bar, and left -click. Evaluate 
-each parameter for error, overlimit, and precision checkmark s, and “H” or “L” action limit and 
-reference range flags.  To save the result to the database, direct the mouse arrow to the S ave button 
-and left -click. After results are saved, they are erased from the screen.  To exit without saving the

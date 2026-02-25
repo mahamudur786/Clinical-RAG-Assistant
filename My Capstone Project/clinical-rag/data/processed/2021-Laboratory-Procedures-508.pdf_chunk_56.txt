@@ -1,9 +1,0 @@
-10.2.2  Packing the Laboratory ........................................................  10-15 
-10.2.3  Sending Laboratory Files and Supplies ..............................  10-17 
-10.3 Inventory Procedures and Supplies ....................................................  10-18 
-10.3.1  General Inventory Procedures  ............................................  10-18 
-10.3.2  End-of-Stand Inventory Procedures .................................  10-19 
-10.3.3  Mid-Stand Inventory Procedures .......................................  10-19 
-10.3.4  Start-of-Stand Inventory Procedures .................................  10-20 
-10.3.5  Consumables Versus Non-Consumables ..........................  10-21 
-10.3.6  Shipping Inventory Back to the Warehouse .....................  10-22

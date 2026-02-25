@@ -1,8 +1,0 @@
-English  
-When the phlebotomist must administer the venipuncture procedure to an SP who does not speak 
-English and the phlebotomist does not speak the language of the SP, a translator who does speak the language of the SP assists the phlebotomist. The translator stays with the phlebotomist and the SP for the entire pr ocedure. It is very important that the phlebotomist be able to communicate 
-with the SP if the SP becomes ill during the venipuncture. Refer to the MEC Operations manual for detailed instructions on the interpreter module. 
-3.6 Open the Exam and Log the SP i n to the Exam  
-Open and log on to the Phlebotomy application. The message center window identifies the SP assigned to Phlebotomy. 
-   
- 3-9 Laboratory Procedures 2021

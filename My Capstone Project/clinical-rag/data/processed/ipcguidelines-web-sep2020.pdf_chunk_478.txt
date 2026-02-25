@@ -1,8 +1,0 @@
-100,101 (See also Chapter 5 and Annex 8.)
-A. Surveillance of healthcare-associated infections
-Surveillance of HAIs allows the health system to (i) estimate the burden of diseases 
-in terms of cases reported, deaths occurred and costs incurred; (ii) detect outbreaks and emerging pathogens and pattern of resistance; and (iii) monitor the quality of IPC measures/ strategies.
-Surveillance of HAIs is a basic requirement for organizing and maintaining an 
-effective IPC programme and to substantially reduce morbidity and mortality.
-102 
-Routine HAI surveillance in HCFs should be conducted by an infection control ofﬁ  cer

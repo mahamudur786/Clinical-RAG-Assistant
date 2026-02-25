@@ -1,8 +1,0 @@
-There might be various modes of transmission of outbreak pathogens in healthcare 
-facilities (Box.7.5). Sometimes outbreaks occur in the community and the hospital acts as an ampliﬁ  er, e.g. the sick patient admitted to the hospital (index case) transmits the infection to other patients and staff and the number of cases with infection increase. This has happened in the outbreaks of SARS, inﬂ  uenza, Ebola 
-and Nipah virus outbreaks. 
-Outbreaks should be investigated to:x Deﬁ  ne the magnitude of the outbreak in terms of time, place and person
-x Identify the cause of the outbreak and mode of transmission
-x Control the outbreak
-Box. 7.5. Modes of transmission of outbreak pathogens123 
- Common source

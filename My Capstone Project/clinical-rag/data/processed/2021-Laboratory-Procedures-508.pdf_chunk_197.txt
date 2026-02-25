@@ -1,9 +1,0 @@
-If an SP during the morning appointment block does not meet their 8- hour fast, a message will 
-appear at the bottom of the fasting screen sta ting, “ the SP will meet their 8 hour fast at xx:xx 
-AM/PM. Do you want to delay the blood collection?” If the SP has just started the exam and the 
-   
- 3-28 Laboratory Procedures 2021   
-time to meet the fast is within a 2 -hour window, select “ yes” in the block and explain to the SP that 
-they have not met the required fasting time yet, so they will complete their other exams and will 
-return to phlebotomy after the other components are completed. If the time to meet the fast is 
-outside of the appointment block, ask the SP if they are willing to wai t until they have met the

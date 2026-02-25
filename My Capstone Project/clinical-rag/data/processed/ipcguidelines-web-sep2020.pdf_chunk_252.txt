@@ -1,7 +1,0 @@
-x The installation of “whirlybirds” (also known as whirligigs or wind turbines) that 
-do not use electricity and provide a roof exhaust system can greatly increase both ventilation and comfort.
-Considerations for cold climates 
-In cold climates, high ventilation rates may adversely affect thermal comfort, and are difﬁ  cult to achieve as windows may be closed to keep the building warm. Even 
-if normal heating is introduced, high ventilation rates usually mean low energy efﬁ ciency. Therefore, ventilation and heating strategies must be planned carefully. 
-64 National Guidelines for Infection Prevention and Control in Healthcare Facilities
-x The building design should seek to capture solar heat and minimize conduction

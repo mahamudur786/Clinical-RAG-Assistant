@@ -1,8 +1,0 @@
-the text box. Exhibit 8- 35 shows an example of the screen where this is accomplished. There are 
-three ways to enter the airbill number : 
-• Use the barcode gun to scan the barcode from the FedEx Ship Manager airbill. The 
-barcode is located in the bottom of the top half of the folded airbill. It is the tallest on 
-the airbill. Hold the gun in the right hand, squeeze the trigger, and move the gun up and 
-down to adjust the laser light so that it covers the width of the barcode. Once the gun successfully scans the barcode , an audible beep is emitted . 
-• Use the barcode gun to scan the barcode on the second page (Recipient’s Copy) of the 
-two-part Form ID 0215. This barcode is located on the lower lef t side toward the

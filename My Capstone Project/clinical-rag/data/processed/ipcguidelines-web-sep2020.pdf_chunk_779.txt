@@ -1,5 +1,0 @@
-time of not less than 30 minutes;
-3. Medical waste shall not be considered as properly treated unless the time, temperature and 
-pressure indicators indicate that the required time, temperature and pressure were reached during the autoclave process. If for any reasons, time temperature or pressure indicator indicates that the required temperature, pressure or residence time was not reached, the entire load of medical waste must be autoclaved again until the proper temperature, pressure and residence time were achieved.
-4. Recording of operational parameters: Each autoclave shall have graphic or computer 
-recording devices which will automatically and continuously monitor and record dates, time of day, load identiﬁ  cation number and operating parameters throughout the entire length of

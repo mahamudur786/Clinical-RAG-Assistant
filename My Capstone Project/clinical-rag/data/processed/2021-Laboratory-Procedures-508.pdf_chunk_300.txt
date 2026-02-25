@@ -1,7 +1,0 @@
-process.  
-A QNS result automatically turns the laboratory progress bar yellow on the Coordinator screen. This yellow progress bar alerts the coordinator, who then asks SPs aged 6 years or older to provide an additional urine specimen and asks the parent/guardian of the 3- to 5 -year-olds if  the child could 
-drink additional water or juice so that another urine collection attempt might  be possible before the 
-participant leaves the MEC . 
-4.4.1 Quantity Not Suff icient (QNS) Urines  
-When there is a delay in processing urine due to a QNS status, place the sample in the refrigerator so it can be pooled and processed with any additional urine from the SP. 
-If the SP has voided <1.0 ml, the laboratory will ask the coordinator for a re-collection of Urine

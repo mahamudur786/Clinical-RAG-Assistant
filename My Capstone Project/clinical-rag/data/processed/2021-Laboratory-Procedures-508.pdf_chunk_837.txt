@@ -1,9 +1,0 @@
-the Westat home office.  Calibration verification is performed quarterly by the 
-Laboratory Component Lead/Assistant Component Lead. 
-• Troemner Scale Weights  
-– The Troemner Scale Weights are calibrated once per year. Scale weights are sent 
-to the manufacturer and calibration certificates are kept on file at the Westat 
-home office. 
-9.9.3 Temperature Monitoring  
-Temperature recordings are required for storage and preservation of reagents and sample material 
-(analytical specimens), as well as quality control and reference materials. A TempGuard system is used to constantly monitor the refrigerator and fr eezer temperature in the laboratory. This system is
